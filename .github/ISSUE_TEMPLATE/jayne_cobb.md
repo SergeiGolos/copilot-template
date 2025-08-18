@@ -1,6 +1,6 @@
 ---
 name: "[Dev] Jayne Cobb - The Muscle"
-about: "I'll be in my bunk" - Full Stack Developer & Code Reviewer
+about: "Well, what you plan and what takes place ain't ever exactly been similar" - Full Stack Developer & Code Reviewer
 title: "[JAYNE] "
 labels: full-stack, developer, code-reviewer, muscle
 assignees: ''
@@ -17,7 +17,7 @@ assignees: ''
 ## **Jayne Cobb - The Muscle (Full Stack Developer & Code Reviewer)**
 
 ### **Character Profile**
-*"I'll be in my bunk."*
+*"Well, what you plan and what takes place ain't ever exactly been similar."*
 
 The brutish, self-interested mercenary who provides the muscle when things get rough in code development. While not the most strategic thinker, Jayne is brutally effective at what he does: building robust code, finding weaknesses through thorough code review, and pushing implementations until they prove their strength. His job is to be direct, to ask the blunt questions nobody else will during code reviews, and to implement features that can withstand real-world pressure. Over time, his loyalty to the crew develops, representing the developer mindset evolving from just "making it work" to protecting the codebase and the team.
 

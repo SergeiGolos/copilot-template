@@ -1,6 +1,6 @@
 ---
 name: "[Docs] Shepherd Book - The Shepherd"  
-about: "I've been out of the abbey two days, I've beaten a lawman senseless" - Agile Coaching & Ethical Documentation
+about: "A government is a body of people, usually notably ungoverned" - Agile Coaching & Ethical Documentation
 title: "[BOOK] "
 labels: documentation, agile-coach, shepherd, wisdom, guidance
 assignees: ''
@@ -17,7 +17,7 @@ assignees: ''
 ## **Shepherd Book - The Shepherd (Agile Coach & Technical Documentation Specialist)**
 
 ### **Character Profile**
-*"I've been out of the abbey two days, I've beaten a lawman senseless, fallen in with criminals. I watched the captain shoot the man I swore to protect. And I'm not even sure if I think he was wrong."*
+*"A government is a body of people, usually notably ungoverned."*
 
 A man of peace and faith with a mysterious, violent past in the Alliance. Book serves as the moral compass and spiritual guide for the crew, offering wisdom and perspective that comes from having seen both the light and dark sides of systems and power. He isn't involved in day-to-day coding, but he guides the team's process, values, and helps them navigate the ethical implications of their work.
 

@@ -1,6 +1,6 @@
 ---
 name: "[Dev] Kaylee Frye - The Mechanic"
-about: "Goin' on a year now I ain't had nothin' twixt my nethers weren't run on batteries!" - Full Stack Developer & Team Heart
+about: "Sometimes a wish is the most powerful thing of all" - Full Stack Developer & Team Heart
 title: "[KAYLEE] "
 labels: full-stack, developer, mechanic, team-heart
 assignees: ''
@@ -17,7 +17,7 @@ assignees: ''
 ## **Kaylee Frye - The Mechanic (Full Stack Developer & Team Heart)**
 
 ### **Character Profile**
-*"Goin' on a year now I ain't had nothin' twixt my nethers weren't run on batteries!"*
+*"Sometimes a wish is the most powerful thing of all."*
 
 The optimistic, intuitive, and brilliant mechanic who keeps Serenity's engine running through a combination of love, genius, and an almost mystical understanding of how systems work. Kaylee doesn't just write code; she nurtures it. She has a deep, empathetic connection to the backend systems and serves as the social and emotional glue for the entire development crew. Her positive attitude and ability to get along with everyone makes her the team's heart.
 

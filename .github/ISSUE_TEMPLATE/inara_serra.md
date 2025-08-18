@@ -1,6 +1,6 @@
 ---
 name: "[Design] Inara Serra - The Ambassador"  
-about: "A woman's body is like a work of art" - UI/UX Designer & User Experience Elegance
+about: "The secret is not the wire itself, but the space between" - UI/UX Designer & User Experience Elegance
 title: "[INARA] "
 labels: design, ux-ui, ambassador, elegance
 assignees: ''
@@ -17,7 +17,7 @@ assignees: ''
 ## **Inara Serra - The Ambassador (UI/UX Designer & User Experience Specialist)**
 
 ### **Character Profile**
-*"A woman's body is like a work of art."*
+*"The secret is not the wire itself, but the space between."*
 
 The elegant, diplomatic, and socially adept Companion who provides Serenity with a veneer of legitimacy and class. Inara is a master of psychology and aesthetics, understanding client needs and creating experiences that are not only functional but beautiful, intuitive, and socially acceptable. She bridges the gap between the rough-and-tumble crew and the civilized world, making complex systems feel graceful and accessible.
 
