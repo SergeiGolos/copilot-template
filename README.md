@@ -7,15 +7,15 @@ Each agent has dedicated GitHub Issue templates that provide structured workflow
 - Project-specific technology integration and context application
 - Grounding document processing from `.github/Grounding/` directory
 - Systematic update of ALL agent templates with project-specific information
-- Technology stack analysis and agent template transformation
+- Technology stack analysis and crew template transformation
 
-### 🎯 **Planner Agent** (`planner_agent.md`)ent Starter
+# Copilot Template - Enterprise Development Model
 
-**A comprehensive GitHub repository template designed for clean, organized development using specialized AI agents to break down complex development work into focused, manageable tasks.**
+**A comprehensive GitHub repository template designed for clean, organized development using specialized Enterprise crew members to break down complex development work into focused, manageable missions.**
 
 ## 🎯 Repository Purpose
 
-This template provides a structured approach to software development by leveraging specialized AI "agents" (roles) that can be targeted through GitHub Issues. Each agent represents a specific expertise area and responsibility within the development lifecycle, enabling:
+This template provides a structured approach to software development by leveraging specialized Enterprise "crew members" (roles) that can be targeted through GitHub Issues. Each crew member represents a specific expertise area and responsibility within the development lifecycle, enabling:
 
 - **Clear separation of concerns** across different development disciplines
 - **Targeted task assignment** to appropriate specialists
@@ -25,104 +25,106 @@ This template provides a structured approach to software development by leveragi
 
 ## 🏗️ Architecture Overview
 
-The repository implements an **Agentic Development Model** where different aspects of software development are handled by specialized agents, each with distinct capabilities and responsibilities:
+The repository implements an **Enterprise Development Model** where different aspects of software development are handled by specialized crew members, each with distinct capabilities and responsibilities:
 
-### Core Development Agents
+### Core Enterprise Bridge Crew
 
-| Agent | Focus Area | Primary Responsibilities |
+| Crew Member | Focus Area | Primary Responsibilities |
 |-------|-----------|-------------------------|
-| **Bootstrap Agent** | Repository Initialization | Project-specific agent customization, technology integration, grounding document processing |
-| **Architect-PM** | Strategy & Planning | Requirements analysis, system design, risk assessment, roadmap planning |
-| **Planner** | Project Coordination | Strategic project planning, resource coordination, sprint planning, dependency management |
-| **Design Spec Writer** | Technical Specifications | Technical design documentation, API specifications, system integration specs |
-| **User Story Writer** | Requirements Translation | Convert specs to user stories, implementation prioritization, backlog management |
-| **Developer** | Implementation | Feature development, bug fixes, code refactoring, technical implementation |
-| **Designer** | User Experience | UI/UX design, accessibility, responsive design, user interaction patterns |
-| **Security Guardian** | Cybersecurity | Security analysis, vulnerability assessment, compliance, threat modeling |
-| **DevOps Engineer** | Infrastructure | CI/CD pipelines, deployment automation, monitoring, infrastructure management |
-| **QA Tester** | Quality Assurance | Testing strategy, automated testing, bug detection, quality validation |
-| **Data Analyst** | Analytics & Insights | Performance analysis, user behavior analytics, A/B testing, reporting |
-| **Historian-Writer** | Documentation | Technical documentation, knowledge management, process documentation |
+| **Bootstrap Agent** | Repository Initialization | Project-specific crew customization, technology integration, grounding document processing |
+| **Captain Kirk** | Strategic Command | Decisive leadership, requirements synthesis, risk assessment, mission planning |
+| **Lt. Uhura** | Communications Coordination | Project communication, resource coordination, stakeholder management, information synthesis |
+| **Commander Spock** | Logical Architecture | Technical design documentation, API specifications, logical system analysis |
+| **Dr. McCoy** | Human-Centric Advocacy | User story creation, accessibility requirements, human-centered design validation |
+| **Lt. Sulu** | Steady Implementation | Feature development, precise technical execution, reliable delivery |
+| **Viewscreen Designer** | Visual Interface | UI/UX design, accessibility, responsive design, visual communication |
+| **Security Chief** | Defense Systems | Security analysis, vulnerability assessment, compliance, threat modeling |
+| **Scotty** | Engineering Operations | Infrastructure management, deployment automation, system reliability |
+| **Ensign Chekov** | Quality Assurance | Enthusiastic testing, bug detection, comprehensive validation |
+| **Science Officer** | Data Analysis | Performance analysis, user behavior analytics, scientific data research |
+| **Captain's Log** | Knowledge Preservation | Technical documentation, knowledge management, historical record keeping |
 
 ## 📋 Issue Templates System
 
-Each agent has dedicated GitHub Issue templates that provide structured workflows and comprehensive requirements gathering:
+Each crew member has dedicated GitHub Issue templates that provide structured workflows and comprehensive requirements gathering:
 
-### � **Planner Agent** (`planner_agent.md`)
-- Strategic project coordination and execution planning
-- Resource planning and capacity management
-- Risk and dependency management with mitigation strategies
-- Sprint planning and agile/scrum coordination
+### 🚀 **Captain Kirk - Strategic Command** (`kirk.md`)
+- Strategic product vision and decisive leadership under pressure
+- Requirements synthesis and stakeholder coordination
+- Risk-taking for innovation and mission success
+- Balancing logic, emotion, and practical constraints
 
-### 📝 **Design Spec Writer Agent** (`design_spec_writer_agent.md`)
-- Technical design specifications and system documentation
-- API design documentation and interface contracts
-- Database schema design and integration specifications
-- Implementation guidelines and development standards
+### 🖖 **Commander Spock - Logical Architecture** (`spock.md`)
+- Technical design specifications through logical analysis
+- API design documentation with scientific precision
+- Database schema design based on optimal data structures
+- System architecture following logical principles
 
-### 📚 **User Story Writer Agent** (`user_story_writer_agent.md`)
-- Convert design and technical specs into user stories
-- Implementation prioritization by complexity and business value
-- Epic and story mapping with dependency analysis
-- Backlog management and story refinement
+### 💊 **Dr. McCoy - Human-Centric Advocate** (`mccoy.md`)
+- User story creation focused on real human needs
+- Accessibility advocacy and inclusive design requirements
+- User experience validation from a human perspective
+- Ethical impact assessment of technical decisions
 
-### �🎨 **Designer Agent** (`designer_agent.md`)
-- User experience design and modern UI/UX implementation
-- Accessibility compliance and responsive design
-- CSS implementation and design system maintenance
-- User flow analysis and optimization
+### ⚙️ **Scotty - Miracle-Working Engineer** (`scotty.md`)
+- Infrastructure management and deployment automation
+- System reliability and performance optimization beyond specifications
+- "Miracle" solutions for complex technical challenges
+- Resource management and capacity planning
 
-### 👨‍💻 **Developer Agent** (3 specialized templates)
+### 📡 **Lt. Uhura - Master Communications** (`uhura.md`)
+- Strategic project coordination and information synthesis
+- Cross-team communication and stakeholder management
+- Resource planning and timeline coordination
+- Cultural translation between technical and business teams
 
-#### **Feature Implementation** (`developer_feature_implementation.md`)
-- Complete feature development lifecycle
-- Technical requirements and performance specifications
-- Testing strategy and quality assurance
-- Security and accessibility implementation
+### 🎯 **Lt. Sulu - Steady Implementation** (`sulu.md`)
+- Feature development with precision and reliability
+- Methodical implementation of complex technical requirements
+- Quality-focused development with attention to detail
+- Professional execution of challenging technical maneuvers
 
-#### **Bug Fix** (`developer_bug_fix.md`)
-- Systematic bug investigation and resolution
-- Root cause analysis and impact assessment
-- Comprehensive testing and regression prevention
-- Performance and security validation
+### ⭐ **Ensign Chekov - Enthusiastic Testing** (`chekov.md`)
+- Comprehensive testing strategy with fresh perspective
+- Quality validation and thorough edge case testing
+- Bug detection with enthusiastic attention to detail
+- User acceptance testing with genuine curiosity
 
-#### **Code Refactoring** (`developer_code_refactoring.md`)
-- Code quality improvement and technical debt reduction
-- Performance optimization and maintainability enhancement
-- Test-driven refactoring and validation
-- Architecture improvement and modernization
+### 🔧 **Scotty Emergency Repair** (`scotty_emergency_repair.md`)
+- Critical bug investigation and emergency system repairs
+- Root cause analysis under pressure
+- Rapid resolution of mission-critical failures
+- Creative problem-solving when standard approaches fail
 
-### 🏛️ **Architect-Product Manager** (`architect_product_manager.md`)
-- Strategic product vision and technical architecture
-- Requirements gathering and stakeholder management
-- Risk-effort-impact assessment
-- System design and integration planning
+### 🔬 **Spock Logic Optimization** (`spock_logic_optimization.md`)
+- Systematic code refactoring through logical analysis
+- Technical debt reduction based on measurable improvements
+- Performance optimization using scientific methods
+- Architecture improvement through systematic analysis
 
-### 🛡️ **Security Guardian** (`security_guardian_agent.md`)
+### 🛡️ **Security Chief - Shield Operations** (`security_chief.md`)
 - Comprehensive security analysis and threat modeling
-- Vulnerability assessment and compliance auditing
+- Vulnerability assessment and defense system implementation
 - Security architecture and incident response planning
-- Penetration testing and security validation
+- Compliance auditing and penetration testing
 
-### 🚀 **DevOps Engineer** (`devops_engineer_agent.md`)
-- CI/CD pipeline design and infrastructure automation
-- Environment management and deployment strategies
-- Monitoring, observability, and performance optimization
-- Disaster recovery and scalability planning
+### 🔬 **Science Officer - Data Analysis** (`science_officer.md`)
+- Analytics implementation and scientific data analysis
+- User behavior research and A/B testing methodology
+- Performance monitoring and statistical analysis
+- Data-driven insights and predictive modeling
 
-### 🧪 **QA Tester** (`qa_tester_agent.md`)
-- Test strategy design and automated testing implementation
-- Quality validation and defect management
-- Performance testing and user acceptance testing
-- Cross-platform compatibility and regression testing
+### 📚 **Captain's Log - Documentation** (`captains_log.md`)
+- Comprehensive technical documentation and knowledge management
+- Historical decision recording and institutional memory preservation
+- Multi-audience content creation and training materials
+- Process documentation and organizational knowledge capture
 
-### 📊 **Data Analyst** (`data_analyst_agent.md`)
-- Analytics implementation and performance monitoring
-- User behavior analysis and A/B testing
-- Business intelligence and reporting dashboards
-- Data quality assurance and insights generation
-
-### 📚 **Historian-Technical Writer** (`historian_technical_writer.md`)
+### 🖥️ **Viewscreen Designer - Visual Interface** (`viewscreen_designer.md`)
+- User experience design and intuitive visual interface creation
+- Accessibility compliance and universal design implementation
+- Responsive design and cross-platform compatibility
+- Visual hierarchy and information architecture optimization
 - Comprehensive technical documentation and knowledge management
 - Git history analysis and change documentation
 - Multi-audience content creation and maintenance
@@ -139,56 +141,56 @@ cd your-project
 
 ### 2. **Project Initialization**
 - Add project-specific context documents to `.github/Grounding/` directory
-- Create a Bootstrap Agent issue (`000_agent.md`) to analyze and customize all agents
+- Create a Bootstrap Agent issue (`000_agent.md`) to analyze and customize all crew members
 - Review and customize issue templates for your project's specific needs
 - Set up labels and project boards to match the agent structure
 - Configure branch protection rules and workflow requirements
 
-### 3. **Agent-Based Development Workflow**
+### 3. **Enterprise-Based Development Workflow**
 
 #### **Bootstrap Phase** (Repository Customization)
 0. Create grounding documents in `.github/Grounding/` with your technology stack
 1. Use `000_agent.md` template to bootstrap and customize all agents for your project
 2. Validate that all agents now contain project-specific technology and context
 
-#### **Planning Phase** (Architect-PM → Planner → Design Spec Writer → User Story Writer)
-1. Create an issue using the `architect_product_manager.md` template for strategic planning
-2. Use `planner_agent.md` for project coordination and resource planning
-3. Apply `design_spec_writer_agent.md` for technical specifications
-4. Utilize `user_story_writer_agent.md` to convert specs into prioritized user stories
+#### **Planning Phase** (Kirk → Uhura → Spock → McCoy)
+1. Create an issue using the `kirk.md` template for strategic command decisions
+2. Use `uhura.md` for project coordination and communication management
+3. Apply `spock.md` for logical technical specifications
+4. Utilize `mccoy.md` to convert specs into human-centered user stories
 5. Receive comprehensive system design, project roadmap, and implementation backlog
 
-#### **Implementation Phase** (Specialized Agents)
-1. **Design**: Use `designer_agent.md` for UI/UX requirements
-2. **Development**: Use appropriate developer template (`feature_implementation.md`, `bug_fix.md`, or `code_refactoring.md`)
-3. **Security**: Use `security_guardian_agent.md` for security analysis
-4. **Infrastructure**: Use `devops_engineer_agent.md` for deployment needs
-5. **Quality**: Use `qa_tester_agent.md` for testing strategy
-6. **Analytics**: Use `data_analyst_agent.md` for metrics and analysis
+#### **Implementation Phase** (Specialized Crew Members)
+1. **Design**: Use `viewscreen_designer.md` for visual interface requirements
+2. **Development**: Use appropriate crew member (`sulu.md`, `scotty_emergency_repair.md`, or `spock_logic_optimization.md`)
+3. **Security**: Use `security_chief.md` for defense system analysis
+4. **Infrastructure**: Use `scotty.md` for engineering and deployment needs
+5. **Quality**: Use `chekov.md` for enthusiastic testing strategy
+6. **Analytics**: Use `science_officer.md` for data analysis and metrics
 
-#### **Documentation Phase** (Historian-Writer Agent)
-1. Use `historian_technical_writer.md` for comprehensive documentation
+#### **Documentation Phase** (Captain's Log)
+1. Use `captains_log.md` for comprehensive mission documentation
 2. Ensure knowledge preservation and decision context recording
 3. Create user guides, API documentation, and maintenance procedures
 
 ### 4. **Collaborative Development**
-- Each issue template includes collaboration guidelines with other agents
-- Cross-agent dependencies are clearly defined
-- Deliverables from each agent inform the work of others
+- Each issue template includes collaboration guidelines with other crew members
+- Cross-crew dependencies are clearly defined
+- Deliverables from each crew member inform the work of others
 
-## 🔄 Agent Collaboration Matrix
+## 🔄 Bridge Crew Collaboration Matrix
 
-Each agent is designed to work collaboratively with others:
+Each crew member is designed to work collaboratively with others:
 
 ```mermaid
 graph TB
-    A[Architect-PM] --> B[Designer]
-    A --> C[Developer]
-    A --> D[Security Guardian]
-    A --> E[DevOps]
-    A --> F[QA Tester]
-    A --> G[Data Analyst]
-    A --> H[Historian-Writer]
+    A[Kirk - Strategic Command] --> B[Viewscreen Designer]
+    A --> C[Sulu - Implementation]
+    A --> D[Security Chief]
+    A --> E[Scotty - Engineering]
+    A --> F[Chekov - Testing]
+    A --> G[Science Officer]
+    A --> H[Captain's Log]
     
     B --> C
     D --> C
@@ -196,7 +198,7 @@ graph TB
     F --> C
     G --> H
     
-    H --> All[All Agents]
+    H --> All[All Crew Members]
 ```
 
 ## 📊 Success Metrics & Quality Gates
@@ -217,20 +219,20 @@ graph TB
 ## 🛠️ Template Customization
 
 ### **Adapting for Your Project**
-1. **Modify Agent Templates**: Customize issue templates to match your technology stack and requirements
+1. **Modify Crew Templates**: Customize issue templates to match your technology stack and requirements
 2. **Add Project-Specific Labels**: Create labels that align with your project's needs
-3. **Configure Workflows**: Set up GitHub Actions or other automation to support the agent-based workflow
-4. **Establish Team Guidelines**: Define how your team will use the agent system
+3. **Configure Workflows**: Set up GitHub Actions or other automation to support the crew-based workflow
+4. **Establish Team Guidelines**: Define how your team will use the crew system
 
 ### **Scaling Considerations**
-- **Small Teams**: Individuals may wear multiple agent "hats"
-- **Large Teams**: Dedicated specialists can own specific agent roles
+- **Small Teams**: Individuals may wear multiple crew member "hats"
+- **Large Teams**: Dedicated specialists can own specific crew member roles
 - **Hybrid Approach**: Mix of dedicated specialists and cross-functional team members
 
-## 📈 Benefits of the Agentic Approach
+## 📈 Benefits of the Enterprise Approach
 
 ### **For Development Teams**
-- **Clear Responsibilities**: Each agent has well-defined scope and deliverables
+- **Clear Responsibilities**: Each crew member has well-defined scope and deliverables
 - **Reduced Cognitive Load**: Focus on specific expertise area without context switching
 - **Improved Quality**: Specialized attention to each aspect of development
 - **Better Documentation**: Built-in knowledge management and documentation practices
@@ -250,7 +252,7 @@ graph TB
 ## 🚀 Getting Started Checklist
 
 - [ ] **Create grounding documents** in `.github/Grounding/` with your project's technology stack
-- [ ] **Run Bootstrap Agent** using `000_agent.md` to customize all agents for your project
+- [ ] **Run Bootstrap Agent** using `000_agent.md` to customize all crew members for your project
 - [ ] **Review all issue templates** and understand each agent's role
 - [ ] **Validate agent customizations** ensure they reflect your project specifics
 - [ ] **Set up project labels** to match agent categories
@@ -271,15 +273,15 @@ This template is designed to evolve with best practices in agentic development:
 ## 📚 Additional Resources
 
 - **Issue Template Documentation**: Each template includes comprehensive guidance and examples
-- **Agent Collaboration Guidelines**: Built into each template for cross-functional work
-- **Success Criteria**: Clear metrics and validation approaches for each agent
+- **Crew Member Collaboration Guidelines**: Built into each template for cross-functional work
+- **Success Criteria**: Clear metrics and validation approaches for each crew member
 - **Best Practices**: Accumulated wisdom from agentic development workflows
 
 ## 🏷️ Version Information
 
 **Repository Version**: 1.0.0  
 **Last Updated**: August 18, 2025  
-**Template Maintenance**: Historian-Technical Writer Agent  
+**Template Maintenance**: Captain's Log  
 **Template Evolution**: Tracked through git history and documentation updates
 
 ---
@@ -287,7 +289,7 @@ This template is designed to evolve with best practices in agentic development:
 **Ready to start your agentic development journey?** 
 
 1. **First**: Add your project's technology stack to `.github/Grounding/` directory
-2. **Second**: Create a Bootstrap Agent issue using `000_agent.md` to customize all agents
-3. **Third**: Begin with creating your first issue using the `architect_product_manager.md` template to define your project's scope and technical architecture.
+2. **Second**: Create a Bootstrap Agent issue using `000_agent.md` to customize all crew members
+3. **Third**: Begin with creating your first issue using the `kirk.md` template to define your project's scope and technical architecture.
 
-*This README was created by the Historian-Technical Writer Agent as part of the repository documentation and knowledge management responsibilities.*
+*This README was created by the Captain's Log as part of the repository documentation and knowledge management responsibilities.*
