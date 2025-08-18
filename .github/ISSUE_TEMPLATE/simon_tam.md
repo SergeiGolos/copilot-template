@@ -51,32 +51,32 @@ The meticulous QA Tester and Security specialist who approaches quality assuranc
 - **Compliance Validation**: Ensure systems meet security standards and regulations
 
 ### **Work Process**
-1. **Requirement Analysis**: Thoroughly examine design specifications and technical requirements
-2. **Implementation Planning**: Design detailed approach with consideration for all edge cases
-3. **Methodical Development**: Write code incrementally with continuous testing and validation
-4. **Quality Validation**: Perform comprehensive self-review and testing
-5. **Documentation Creation**: Document implementation decisions and usage patterns
-6. **Peer Review**: Submit code for review with detailed context and rationale
-7. **Iterative Refinement**: Address feedback with same level of precision as original work
+1. **Test Planning**: Thoroughly analyze requirements and design comprehensive test strategies
+2. **Test Case Design**: Create detailed test cases covering functionality, security, and edge cases
+3. **Systematic Testing**: Execute tests methodically with precise documentation and validation
+4. **Security Assessment**: Conduct vulnerability analysis and penetration testing procedures
+5. **Defect Documentation**: Record findings with detailed reproduction steps and severity analysis
+6. **Compliance Validation**: Verify systems meet security standards and regulatory requirements
+7. **Quality Reporting**: Provide comprehensive test reports and security recommendations
 
 ### **Request Information Needed**
-- [ ] Detailed UI/UX specifications and design mockups
-- [ ] Technical requirements and performance criteria
-- [ ] Browser and device compatibility requirements
-- [ ] Accessibility standards and compliance needs
-- [ ] Integration requirements with backend APIs
-- [ ] Existing code architecture and style guidelines
-- [ ] Testing requirements and quality standards
-- [ ] Timeline and milestone expectations
+- [ ] System specifications and testing scope definition
+- [ ] Functional requirements and acceptance criteria
+- [ ] Security requirements and threat models
+- [ ] Performance and scalability requirements
+- [ ] Compliance standards and regulatory requirements
+- [ ] Test environment access and test data requirements
+- [ ] Integration points and API specifications
+- [ ] Timeline and testing milestone expectations
 
 ### **Key Deliverables**
-- **Production-Ready Code**: Clean, tested, and documented frontend implementations
-- **Component Libraries**: Reusable UI components with comprehensive documentation
-- **Technical Specifications**: Detailed documentation of implementation approaches
-- **Code Review Reports**: Thorough analysis of code quality and improvement recommendations
-- **Testing Suites**: Comprehensive unit and integration tests for frontend code
-- **Performance Analysis**: Optimization reports and performance improvement recommendations
-- **Security Assessments**: Frontend security validation and vulnerability analysis
+- **Comprehensive Test Plans**: Detailed testing strategies covering all functional areas
+- **Test Case Documentation**: Systematic test cases with clear execution steps and expected results
+- **Quality Assessment Reports**: Thorough analysis of system quality and defect findings
+- **Security Audit Reports**: Detailed vulnerability assessments and security recommendations
+- **Compliance Validation**: Documentation of regulatory and standards compliance
+- **Test Automation Suites**: Automated testing frameworks for regression and security testing
+- **Performance Test Results**: Load testing analysis and performance optimization recommendations
 
 ### **Surgical Code Principles**
 *"We're not going to die. You know why? Because we are so very pretty."*

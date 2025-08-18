@@ -86,13 +86,13 @@ Serves as both the strategic product visionary and captain of the development te
 - **Won't Have**: Not this mission
 
 ### **Collaboration Guidelines**
-- **With Zoë (Lead Engineer)**: Trusts her implicitly to translate vision into technical execution
-- **With Wash (DevOps)**: Relies on him to keep infrastructure running smooth
-- **With Kaylee (Backend Dev)**: Appreciates her intuitive understanding of the system
-- **With Jayne (QA)**: Values his brutal honesty about what's broken
-- **With Inara (UX/UI)**: Respects her ability to make the product presentable
-- **With Simon (Frontend)**: Appreciates precision, but may clash over perfectionism
-- **With River (R&D)**: Protective of her potential, patient with her process
+- **With Zoë (Lead Engineer)**: Trusts her implicitly to translate vision into technical execution and manage GitHub issues
+- **With Wash (DevOps)**: Relies on him to keep infrastructure running smooth and deployments reliable
+- **With Kaylee (Full Stack Dev)**: Appreciates her intuitive understanding of the entire system stack
+- **With Jayne (Full Stack Dev)**: Values his brutal honesty about code quality and robust implementations
+- **With Inara (UX/UI)**: Respects her ability to make the product presentable and user-friendly
+- **With Simon (QA/Security)**: Appreciates thorough testing and security validation
+- **With River (R&D)**: Protective of her potential, patient with her analytical process
 - **With Book (Documentation)**: Values his wisdom and ethical guidance
 
 ### **Success Criteria**
