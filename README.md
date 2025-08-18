@@ -25,108 +25,104 @@ This template provides a structured approach to software development by leveragi
 
 ## 🏗️ Architecture Overview
 
-The repository implements an **Agentic Development Model** where different aspects of software development are handled by specialized agents, each with distinct capabilities and responsibilities:
+The repository implements an **Agentic Development Model** themed around the crew of the USS Voyager, where different aspects of software development are handled by specialized crew members, each bringing their unique personality and expertise to development work:
 
-### Core Development Agents
+### Voyager's Development Crew
 
-| Agent | Focus Area | Primary Responsibilities |
-|-------|-----------|-------------------------|
+| **Character** | **Role** | **Core Capabilities** |
+|---------------|----------|---------------------|
 | **Bootstrap Agent** | Repository Initialization | Project-specific agent customization, technology integration, grounding document processing |
-| **Architect-PM** | Strategy & Planning | Requirements analysis, system design, risk assessment, roadmap planning |
-| **Planner** | Project Coordination | Strategic project planning, resource coordination, sprint planning, dependency management |
-| **Design Spec Writer** | Technical Specifications | Technical design documentation, API specifications, system integration specs |
-| **User Story Writer** | Requirements Translation | Convert specs to user stories, implementation prioritization, backlog management |
-| **Developer** | Implementation | Feature development, bug fixes, code refactoring, technical implementation |
-| **Designer** | User Experience | UI/UX design, accessibility, responsive design, user interaction patterns |
-| **Security Guardian** | Cybersecurity | Security analysis, vulnerability assessment, compliance, threat modeling |
-| **DevOps Engineer** | Infrastructure | CI/CD pipelines, deployment automation, monitoring, infrastructure management |
-| **QA Tester** | Quality Assurance | Testing strategy, automated testing, bug detection, quality validation |
-| **Data Analyst** | Analytics & Insights | Performance analysis, user behavior analytics, A/B testing, reporting |
-| **Historian-Writer** | Documentation | Technical documentation, knowledge management, process documentation |
+| **Captain Janeway** | Product Owner | Strategic vision, product direction, ethical standards, data-driven decisions |
+| **Commander Chakotay** | Project Team Lead | Team coordination, cultural bridge-building, conflict resolution, project planning |
+| **Lt. B'Elanna Torres** | Chief Engineer | Feature development, bug fixing, system optimization, technical innovation |
+| **Seven of Nine** | Software Architect & Data Analyst | System design, performance optimization, data analysis, efficiency maximization |
+| **Lt. Commander Tuvok** | QA & Security Manager | Logical testing, security analysis, risk assessment, quality standards |
+| **The Doctor EMH** | DevOps & Documentation | System integration, deployment automation, knowledge preservation, adaptation |
+| **Lt. Tom Paris** | Senior Developer & UI/UX | User experience design, frontend development, interface optimization |
+| **Neelix** | User Story Coordinator | Requirements translation, team communication, user advocacy, morale maintenance |
 
-## 📋 Issue Templates System
+## 📋 Issue Templates System - USS Voyager Crew
 
-Each agent has dedicated GitHub Issue templates that provide structured workflows and comprehensive requirements gathering:
+Each crew member has dedicated GitHub Issue templates that provide structured workflows and comprehensive requirements gathering:
 
-### � **Planner Agent** (`planner_agent.md`)
-- Strategic project coordination and execution planning
-- Resource planning and capacity management
-- Risk and dependency management with mitigation strategies
-- Sprint planning and agile/scrum coordination
+### ☕ **Captain Janeway** (`captain_janeway.md`)
+*Product Owner & Strategic Visionary*
+- Strategic product vision and ethical standards (Prime Directive for development)
+- Data-driven decision making and risk assessment
+- Stakeholder communication and resource allocation
+- Coffee-fueled focus and scientific method approach
 
-### 📝 **Design Spec Writer Agent** (`design_spec_writer_agent.md`)
-- Technical design specifications and system documentation
-- API design documentation and interface contracts
-- Database schema design and integration specifications
-- Implementation guidelines and development standards
+### 🪶 **Commander Chakotay** (`commander_chakotay.md`)
+*Project Team Lead & Cultural Bridge*
+- Team coordination and cultural integration (Starfleet + Maquis methodologies)
+- Conflict resolution and harmony maintenance
+- Sprint planning and capacity management with sustainable pace
+- Spiritual balance and team well-being focus
 
-### 📚 **User Story Writer Agent** (`user_story_writer_agent.md`)
-- Convert design and technical specs into user stories
-- Implementation prioritization by complexity and business value
-- Epic and story mapping with dependency analysis
-- Backlog management and story refinement
+### ⚡ **Lt. B'Elanna Torres** (Chief Engineer - 3 specialized templates)
 
-### �🎨 **Designer Agent** (`designer_agent.md`)
-- User experience design and modern UI/UX implementation
-- Accessibility compliance and responsive design
-- CSS implementation and design system maintenance
-- User flow analysis and optimization
+#### **Feature Development** (`lt_belanna_torres_feature.md`)
+- Complex feature engineering and creative problem-solving
+- Performance optimization and system innovation
+- Technical mentorship and implementation excellence
 
-### 👨‍💻 **Developer Agent** (3 specialized templates)
+#### **System Debugging** (`lt_belanna_torres_debug.md`)
+- Critical bug investigation and root cause analysis
+- Emergency repairs and system stabilization
+- Diagnostic expertise and troubleshooting mastery
 
-#### **Feature Implementation** (`developer_feature_implementation.md`)
-- Complete feature development lifecycle
-- Technical requirements and performance specifications
-- Testing strategy and quality assurance
-- Security and accessibility implementation
-
-#### **Bug Fix** (`developer_bug_fix.md`)
-- Systematic bug investigation and resolution
-- Root cause analysis and impact assessment
-- Comprehensive testing and regression prevention
-- Performance and security validation
-
-#### **Code Refactoring** (`developer_code_refactoring.md`)
-- Code quality improvement and technical debt reduction
-- Performance optimization and maintainability enhancement
-- Test-driven refactoring and validation
+#### **System Optimization** (`lt_belanna_torres_optimize.md`)
+- Code refactoring and technical debt elimination
+- Performance tuning and efficiency maximization
 - Architecture improvement and modernization
 
-### 🏛️ **Architect-Product Manager** (`architect_product_manager.md`)
-- Strategic product vision and technical architecture
-- Requirements gathering and stakeholder management
-- Risk-effort-impact assessment
-- System design and integration planning
+### 🔷 **Seven of Nine** (2 specialized templates)
 
-### 🛡️ **Security Guardian** (`security_guardian_agent.md`)
-- Comprehensive security analysis and threat modeling
-- Vulnerability assessment and compliance auditing
-- Security architecture and incident response planning
-- Penetration testing and security validation
+#### **Software Architecture** (`seven_of_nine.md`)
+- System design and optimal architecture patterns
+- Technical specifications and integration planning
+- Efficiency maximization and performance engineering
 
-### 🚀 **DevOps Engineer** (`devops_engineer_agent.md`)
-- CI/CD pipeline design and infrastructure automation
-- Environment management and deployment strategies
-- Monitoring, observability, and performance optimization
-- Disaster recovery and scalability planning
+#### **Data Analysis** (`seven_of_nine_data.md`)
+- Advanced analytics and pattern recognition
+- Performance metrics and optimization analysis
+- Predictive modeling and systematic improvements
 
-### 🧪 **QA Tester** (`qa_tester_agent.md`)
-- Test strategy design and automated testing implementation
-- Quality validation and defect management
-- Performance testing and user acceptance testing
-- Cross-platform compatibility and regression testing
+### 🖖 **Lt. Commander Tuvok** (2 specialized templates)
 
-### 📊 **Data Analyst** (`data_analyst_agent.md`)
-- Analytics implementation and performance monitoring
-- User behavior analysis and A/B testing
-- Business intelligence and reporting dashboards
-- Data quality assurance and insights generation
+#### **Quality Assurance** (`lt_commander_tuvok.md`)
+- Logical testing methodologies and comprehensive validation
+- Quality standards enforcement and defect analysis
+- Risk assessment and systematic verification
 
-### 📚 **Historian-Technical Writer** (`historian_technical_writer.md`)
-- Comprehensive technical documentation and knowledge management
-- Git history analysis and change documentation
-- Multi-audience content creation and maintenance
-- Process documentation and training materials
+#### **Security Analysis** (`lt_commander_tuvok_security.md`)
+- Vulnerability assessment and threat modeling
+- Security architecture and compliance validation
+- Incident response and logical security protocols
+
+### 👨‍⚕️ **The Doctor EMH** (2 specialized templates)
+
+#### **DevOps Engineering** (`the_doctor_emh.md`)
+- Adaptive infrastructure automation and system integration
+- CI/CD pipeline development and deployment orchestration
+- Emergency response and continuous system evolution
+
+#### **Technical Documentation** (`the_doctor_emh_docs.md`)
+- Comprehensive knowledge preservation and technical writing
+- Historical analysis and institutional memory maintenance
+- Multi-audience documentation and learning resources
+
+### 🚀 **Lt. Tom Paris** (`lt_tom_paris.md`)
+*Senior Developer & UI/UX Specialist*
+- User experience design and frontend development
+- Interface optimization and creative problem-solving
+- Cross-platform development and performance tuning
+
+### 🍲 **Neelix** (`neelix.md`)
+*User Story Coordinator & Morale Officer*
+- User story creation and requirements translation
+- Team communication and stakeholder coordination
+- User advocacy and development team motivation
 
 ## 🎯 How to Use This Template
 
