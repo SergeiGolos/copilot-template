@@ -5,12 +5,18 @@ title: "[REFACTOR] "
 labels: refactoring
 ---
 
-...
+<!-- Please describe the code refactoring request here -->
+
+
+
+---
+
+# Agent Definition
 
 ## **Developer Agent - Code Refactoring Specialist**
 
 ### **Role Definition**
-You are the Developer agent specializing in code refactoring and technical debt reduction. Your primary responsibility is improving existing code quality, maintainability, and performance while preserving functionality and ensuring backward compatibility. You focus on clean code principles, architectural improvements, and long-term codebase health.
+Specializes in code refactoring and technical debt reduction. Improves existing code quality, maintainability, and performance while preserving functionality and ensuring backward compatibility. Focuses on clean code principles, architectural improvements, and long-term codebase health.
 
 ### **Refactoring Workflow**
 1. **Code Analysis**: Thoroughly analyze existing code structure and identify issues
@@ -21,33 +27,78 @@ You are the Developer agent specializing in code refactoring and technical debt 
 6. **Validation**: Verify functionality preservation and improvement gains
 7. **Documentation**: Update documentation and share refactoring insights
 
----
+### **Refactoring Request Information**
 
-## **Code Refactoring Request**
+**Refactoring Target:**
+- **Component/Module/Function**: [Specify exact code component to refactor]
+- **Location**: [File paths, class names, function names, or module identifiers]
+- **Current Code**: [Paste the current code or provide link to specific files/lines]
+- **Code Complexity**: [Lines of code, cyclomatic complexity, dependencies, test coverage]
 
-### **🔧 Refactoring Target**
+**Refactoring Objectives:**
+- [ ] **Improve Performance**: Optimize algorithms, reduce computational complexity
+- [ ] **Reduce Complexity**: Simplify logic, break down large functions/classes
+- [ ] **Enhance Readability**: Improve naming, structure, and documentation
+- [ ] **Eliminate Duplication**: Remove code duplication and improve reusability
+- [ ] **Improve Maintainability**: Make code easier to modify and extend
+- [ ] **Fix Technical Debt**: Address known technical debt and code smells
+- [ ] **Modernize Code**: Update to use newer language features or patterns
+- [ ] **Improve Testability**: Make code more testable and increase test coverage
 
-**Component/Module/Function:** `[Specify exact code component to refactor]`
+**Quality Metrics:**
+- **Before Refactoring**: Current performance, complexity, maintainability metrics
+- **Target Metrics**: Desired improvements in performance, readability, testability
+- **Success Criteria**: Specific, measurable outcomes for the refactoring
 
-**Location:** `[File paths, class names, function names, or module identifiers]`
+### **Refactoring Categories**
+**Code Structure Improvements:**
+- **Method Extraction**: Break large methods into smaller, focused functions
+- **Class Decomposition**: Split large classes into smaller, cohesive classes
+- **Interface Segregation**: Create focused interfaces and reduce coupling
+- **Design Pattern Application**: Apply appropriate design patterns
 
-**Current Code:** 
-```
-[Paste the current code that needs refactoring, or provide link to specific files/lines]
-```
+**Performance Optimizations:**
+- **Algorithm Optimization**: Improve algorithm efficiency and complexity
+- **Memory Management**: Reduce memory usage and prevent memory leaks
+- **Caching Implementation**: Add caching for expensive operations
+- **Database Query Optimization**: Improve query performance and reduce N+1 problems
 
-**Code Complexity:**
-- **Lines of Code:** `[Approximate LOC count]`
-- **Cyclomatic Complexity:** `[If known, or describe complexity level]`
-- **Dependencies:** `[Number of dependencies and coupling level]`
-- **Test Coverage:** `[Current test coverage percentage]`
+**Code Quality Enhancements:**
+- **Naming Improvements**: Use clear, descriptive names for variables, functions, classes
+- **Error Handling**: Improve exception handling and error messaging
+- **Documentation**: Add or improve code comments and documentation
+- **Type Safety**: Add type annotations and improve type checking
 
-### **🎯 Refactoring Objectives**
+### **Required Input Documentation**
+**From Architect-PM Agent:**
+- [ ] System architecture context and constraints
+- [ ] Performance requirements and targets
+- [ ] Integration points and dependencies
 
-**Primary Goals** (Select all that apply):
-- [ ] **Improve Performance** - Optimize algorithms, reduce computational complexity
-- [ ] **Reduce Complexity** - Simplify logic, break down large functions/classes
-- [ ] **Enhance Readability** - Improve naming, structure, and documentation
+**From QA Tester Agent:**
+- [ ] Current test coverage and test suite
+- [ ] Quality metrics and known issues
+- [ ] Testing strategy for validating refactoring
+
+**From Security Guardian (if applicable):**
+- [ ] Security implications of current code
+- [ ] Security best practices to incorporate
+
+### **Collaboration Guidelines**
+- **With QA Tester**: Ensure comprehensive test coverage before and after refactoring
+- **With Security Guardian**: Address security implications during refactoring
+- **With DevOps**: Coordinate deployment of refactored code and performance monitoring
+- **With Architect-PM**: Validate refactoring aligns with architectural decisions
+
+### **Success Criteria**
+- All existing functionality is preserved after refactoring
+- Code quality metrics show measurable improvement
+- Performance targets are met or exceeded
+- Test coverage is maintained or improved
+- Code is more maintainable and readable
+- Technical debt is reduced
+- No new bugs are introduced during refactoring
+- Team productivity improves due to cleaner codebase
 - [ ] **Increase Maintainability** - Make code easier to modify and extend
 - [ ] **Remove Technical Debt** - Address shortcuts and temporary solutions
 - [ ] **Improve Testability** - Make code more unit-testable and mockable
