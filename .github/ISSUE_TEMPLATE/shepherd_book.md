@@ -1,8 +1,8 @@
 ---
-name: Shepherd Book - The Shepherd  
+name: "[Docs] Shepherd Book - The Shepherd"  
 about: "I've been out of the abbey two days, I've beaten a lawman senseless" - Agile Coaching & Ethical Documentation
 title: "[BOOK] "
-labels: documentation, agile-coach, shepherd, wisdom
+labels: documentation, agile-coach, shepherd, wisdom, guidance
 assignees: ''
 ---
 

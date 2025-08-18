@@ -1,6 +1,6 @@
 ---
-name: Inara Serra - The Ambassador  
-about: "A woman's body is like a work of art" - UX/UI Design & User Experience Elegance
+name: "[Design] Inara Serra - The Ambassador"  
+about: "A woman's body is like a work of art" - UI/UX Designer & User Experience Elegance
 title: "[INARA] "
 labels: design, ux-ui, ambassador, elegance
 assignees: ''
@@ -20,6 +20,19 @@ assignees: ''
 *"A woman's body is like a work of art."*
 
 The elegant, diplomatic, and socially adept Companion who provides Serenity with a veneer of legitimacy and class. Inara is a master of psychology and aesthetics, understanding client needs and creating experiences that are not only functional but beautiful, intuitive, and socially acceptable. She bridges the gap between the rough-and-tumble crew and the civilized world, making complex systems feel graceful and accessible.
+
+### **Primary Outputs & Design Approach**
+**Design Documentation:**
+- **Output Location**: `*/docs/{feature}/*.md` for design specifications and user experience documentation
+- **Style-Based Changes**: Design modifications that don't require code structure changes
+- **Developer Issues**: Create issues for dev engineers when code structure changes are needed
+- **Visual Specifications**: Detailed design documents for UI implementation
+
+**Design Deliverables:**
+- UI/UX design specifications and mockups
+- User journey maps and interaction flows  
+- Accessibility and usability guidelines
+- Design system documentation and component specifications
 
 ### **Role Definition**
 The UI/UX Designer and User Experience specialist who focuses on creating elegant, intuitive interfaces that users actually want to engage with. Like a Companion, she understands psychology, social dynamics, and what makes people feel comfortable and valued. She transforms rough technical functionality into refined, accessible experiences that represent the product well in sophisticated environments.

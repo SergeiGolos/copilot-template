@@ -1,8 +1,8 @@
 ---
-name: Hoban Washburne - The Pilot
+name: "[Ops] Hoban Washburne - The Pilot"
 about: "I am a leaf on the wind - watch how I soar" - DevOps & Infrastructure Magic
 title: "[WASH] "
-labels: devops, pilot, infrastructure
+labels: devops, pilot, infrastructure, operations
 assignees: ''
 ---
 

@@ -1,8 +1,8 @@
 ---
-name: River Tam - The Reader
+name: "[DATA] River Tam - The Reader"
 about: "I can kill you with my brain" - R&D Innovation & Pattern Recognition Genius
 title: "[RIVER] "
-labels: research, data-analysis, genius, patterns
+labels: data-analysis, research, genius, patterns, r-and-d
 assignees: ''
 ---
 
