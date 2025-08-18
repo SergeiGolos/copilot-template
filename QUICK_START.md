@@ -94,30 +94,32 @@ cd your-project-name
 
 ## 🏷️ Issue Management Tips
 
-### **Labeling Strategy**
-Use these labels to organize your agentic workflow:
+### **Labeling Strategy (House Points System)**
+Use these labels to organize your Gryffindor workflow:
 - `bootstrap` - Bootstrap agent work (repository customization)
-- `architecture` - Architect-PM work
-- `planning` - Planner agent work
-- `design-spec` - Design Spec Writer work
-- `user-stories` - User Story Writer work
-- `design` - Designer agent work
-- `enhancement` - New features (Developer Feature)
-- `bug` - Bug fixes (Developer Bug Fix)
-- `refactoring` - Code quality improvements
-- `security` - Security-related work
-- `devops` - Infrastructure and deployment
-- `qa` - Quality assurance and testing
-- `data-analysis` - Analytics and insights
-- `documentation` - Documentation and knowledge management
+- `harry` - Harry Potter (Strategic leadership and vision)
+- `hermione` - Hermione Granger (Technical architecture and research)
+- `ron` - Ron Weasley (Strategic planning and coordination)
+- `neville` - Neville Longbottom (Quality assurance and testing)
+- `ginny` - Ginny Weasley (Frontend development and design)
+- `fred-george` - Fred & George Weasley (DevOps innovation and automation)
+- `luna` - Luna Lovegood (Creative user stories and insights)
+- `percy` - Percy Weasley (Data analysis and compliance)
+- `mcgonagall` - Professor McGonagall (Documentation and knowledge)
+- `moody` - Mad-Eye Moody (Security and vigilance)
+- `oliver` - Oliver Wood (Feature implementation excellence)
+- `seamus` - Seamus Finnigan (Bug investigation and debugging)
+- `dean` - Dean Thomas (Code refactoring and artistic improvement)
 
-### **Project Board Setup**
+### **Project Board Setup (Gryffindor Organization)**
 Create columns for:
-1. **Backlog** - Planned agent work
-2. **Bootstrap** - Repository customization and agent setup
-3. **Planning** - Strategic and project planning (Architect-PM, Planner)
-4. **Specification** - Design specs and user stories (Design Spec Writer, User Story Writer)
-5. **In Progress** - Active agent work
+1. **Backlog** - Planned character work
+2. **Bootstrap** - Repository customization and setup
+3. **Strategic Planning** - Leadership vision (Harry, Ron, Hermione)
+4. **Requirements & Stories** - User insights (Luna, Hermione)
+5. **In Progress** - Active character work
+6. **Review** - Character deliverables under review  
+7. **Done** - Completed magical work
 6. **Review** - Agent deliverables under review
 7. **Done** - Completed agent work
 
