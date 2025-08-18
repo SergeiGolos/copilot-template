@@ -1,4 +1,6 @@
-# Quick Start Guide - Agentic Development Template
+# Quick Start Guide - SG-1 Agentic Development Template
+
+**"Alright team, let's get this development mission started!"** - *Colonel O'Neill*
 
 ## 🚀 5-Minute Setup
 
@@ -29,8 +31,8 @@ cd your-project-name
 ### Step 4: First Issue - Project Planning
 1. Go to your repository's Issues tab
 2. Click "New Issue"
-3. Select "Architect Product Manager" template
-4. Fill out the strategic planning template to define your project
+3. Select "Colonel Jack O'Neill - Strategic Mission Commander" template
+4. Fill out the strategic planning template to define your mission
 
 ## 📋 Your First Week Workflow
 
@@ -40,22 +42,22 @@ cd your-project-name
 - [ ] **Validate Customizations**: Review that all agents now contain your project-specific context
 
 ### Day 2-3: Strategic Planning
-- [ ] **Create Architect-PM Issue**: Define project scope, requirements, and technical architecture
-- [ ] **Create Planner Issue**: Establish project coordination and resource planning
-- [ ] **Review deliverables**: System design, risk assessment, project roadmap, and resource allocation
+- [ ] **Create O'Neill Strategic Issue**: Define mission scope, requirements, and operational architecture
+- [ ] **Create O'Neill Planning Issue**: Establish mission coordination and resource deployment
+- [ ] **Review deliverables**: System design, risk assessment, mission roadmap, and resource allocation
 
-### Day 4-5: Specification Development
-- [ ] **Create Design Spec Writer Issue**: Develop detailed technical specifications
-- [ ] **Create User Story Writer Issue**: Convert specs into prioritized user stories
-- [ ] **Create Security Guardian Issue**: Establish security requirements and threat model
+### Day 4-5: Technical Specifications
+- [ ] **Create Carter Technical Specs Issue**: Develop detailed system specifications
+- [ ] **Create Daniel User Stories Issue**: Convert specs into user-centered stories  
+- [ ] **Create Teal'c Security Issue**: Establish security requirements and threat assessment
 - [ ] **Review deliverables**: Technical specifications, user story backlog, and security framework
 
-### Day 6-7: Implementation Planning
-- [ ] **Create Designer Issue**: Define UI/UX requirements and user experience goals
-- [ ] **Create Developer Feature Issue**: Plan your first feature implementation
-- [ ] **Create QA Tester Issue**: Establish testing strategy and quality gates
-- [ ] **Create DevOps Issue**: Plan infrastructure and deployment strategy
-- [ ] **Create Data Analyst Issue**: Set up metrics and monitoring framework
+### Day 6-7: Implementation Preparation
+- [ ] **Create Daniel UX Issue**: Define user experience requirements and cultural considerations
+- [ ] **Create Carter Implementation Issue**: Plan your first technical implementation
+- [ ] **Create Teal'c QA Issue**: Establish testing strategy and quality standards
+- [ ] **Create Carter Infrastructure Issue**: Plan deployment systems and operational infrastructure
+- [ ] **Create Carter Data Analysis Issue**: Set up performance metrics and monitoring systems
 
 ## 🎯 Common Use Cases
 
@@ -95,21 +97,21 @@ cd your-project-name
 ## 🏷️ Issue Management Tips
 
 ### **Labeling Strategy**
-Use these labels to organize your agentic workflow:
+Use these labels to organize your SG-1 agentic workflow:
 - `bootstrap` - Bootstrap agent work (repository customization)
-- `architecture` - Architect-PM work
-- `planning` - Planner agent work
-- `design-spec` - Design Spec Writer work
-- `user-stories` - User Story Writer work
-- `design` - Designer agent work
-- `enhancement` - New features (Developer Feature)
-- `bug` - Bug fixes (Developer Bug Fix)
-- `refactoring` - Code quality improvements
-- `security` - Security-related work
-- `devops` - Infrastructure and deployment
-- `qa` - Quality assurance and testing
-- `data-analysis` - Analytics and insights
-- `documentation` - Documentation and knowledge management
+- `oneill-strategic` - O'Neill strategic command work
+- `oneill-planning` - O'Neill mission planning work  
+- `carter-specs` - Carter technical specifications work
+- `daniel-stories` - Daniel user advocacy work
+- `daniel-ux` - Daniel user experience work
+- `carter-implementation` - Carter technical implementation
+- `carter-debug` - Carter technical debugging
+- `carter-optimization` - Carter system optimization
+- `tealc-security` - Teal'c security guardian work
+- `carter-infrastructure` - Carter infrastructure work
+- `tealc-qa` - Teal'c quality assurance work
+- `carter-data` - Carter data analysis work
+- `daniel-docs` - Daniel documentation work
 
 ### **Project Board Setup**
 Create columns for:
