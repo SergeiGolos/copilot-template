@@ -1,217 +1,233 @@
-# Quick Start Guide - Agentic Development Template
+# Quick Start Guide - Deep Space Nine Development Template
 
-## 🚀 5-Minute Setup
+*"Every great space station begins as just a collection of ideas and the determination to make them real."* - Captain Benjamin Sisko
 
-### Step 1: Create Your Repository
-```bash
-# Using GitHub CLI (recommended)
-gh repo create your-project-name --template SergeiGolos/copilot-template --private
+## 🚀 Welcome to Your New Assignment
 
-# Or use the GitHub web interface:
-# 1. Go to https://github.com/SergeiGolos/copilot-template
-# 2. Click "Use this template" → "Create a new repository"
-```
+You've been assigned to transform your development project using the Deep Space Nine model. This guide will help you get your "station" operational and your character-based development crew working together effectively.
 
-### Step 2: Clone and Initialize
-```bash
-git clone https://github.com/yourusername/your-project-name
-cd your-project-name
-```
+## 🎯 Phase 1: Station Initialization (30 minutes)
 
-### Step 3: Bootstrap Your Repository
-1. Create technology context files in `.github/Grounding/` directory
-2. Go to your repository's Issues tab
-3. Click "New Issue"
-4. Select "Bootstrap Agent - Repository Initialization" template
-5. Fill out your project's technology stack and context
-6. Wait for the Bootstrap Agent to customize all other agents
+### 1. **Bootstrap Your Station**
+- Create an issue using the **Deep Space Nine - Station Initialization** template
+- Define your project's mission parameters and technology stack
+- Identify which team members will embody which characters
+- Customize the character templates for your specific context
 
-### Step 4: First Issue - Project Planning
-1. Go to your repository's Issues tab
-2. Click "New Issue"
-3. Select "Architect Product Manager" template
-4. Fill out the strategic planning template to define your project
+### 2. **Assign Character Roles**
+Consider your team's strengths and project needs:
 
-## 📋 Your First Week Workflow
+**Essential Characters** (minimum viable crew):
+- **Captain Sisko**: Project leadership and strategic vision
+- **Chief O'Brien**: Infrastructure and DevOps
+- **Dr. Bashir**: Core development work
+- **Major Kira**: Stakeholder representation
 
-### Day 1: Repository Bootstrap
-- [ ] **Create Grounding Documents**: Add technology stack and context files to `.github/Grounding/`
-- [ ] **Run Bootstrap Agent**: Create Bootstrap Agent issue to customize all agents for your project
-- [ ] **Validate Customizations**: Review that all agents now contain your project-specific context
+**Expanded Crew** (for larger projects):
+- **Lt. Commander Dax**: Technical architecture
+- **Constable Odo**: Quality assurance and testing
+- **Lt. Commander Worf**: Security implementation
+- **Lt. Ezri Dax**: User experience design
 
-### Day 2-3: Strategic Planning
-- [ ] **Create Architect-PM Issue**: Define project scope, requirements, and technical architecture
-- [ ] **Create Planner Issue**: Establish project coordination and resource planning
-- [ ] **Review deliverables**: System design, risk assessment, project roadmap, and resource allocation
+**Intelligence Network** (for complex projects):
+- **Quark**: Business analytics and intelligence
+- **Garak**: Documentation and knowledge management
+- **Vedek Bareil**: User story facilitation
 
-### Day 4-5: Specification Development
-- [ ] **Create Design Spec Writer Issue**: Develop detailed technical specifications
-- [ ] **Create User Story Writer Issue**: Convert specs into prioritized user stories
-- [ ] **Create Security Guardian Issue**: Establish security requirements and threat model
-- [ ] **Review deliverables**: Technical specifications, user story backlog, and security framework
+### 3. **Establish Character Communication**
+Set up channels for character coordination:
+- **Command briefings**: Regular status meetings led by Sisko
+- **Engineering consultations**: Technical discussions between O'Brien, Dax, and Bashir
+- **Security briefings**: Odo and Worf coordinate on quality and security
+- **User advocacy**: Kira and Ezri ensure user needs stay central
 
-### Day 6-7: Implementation Planning
-- [ ] **Create Designer Issue**: Define UI/UX requirements and user experience goals
-- [ ] **Create Developer Feature Issue**: Plan your first feature implementation
-- [ ] **Create QA Tester Issue**: Establish testing strategy and quality gates
-- [ ] **Create DevOps Issue**: Plan infrastructure and deployment strategy
-- [ ] **Create Data Analyst Issue**: Set up metrics and monitoring framework
+## 🎯 Phase 2: Mission Planning (1-2 hours)
 
-## 🎯 Common Use Cases
+### **The Planning Sequence**
+Follow the natural character hierarchy for project planning:
+
+1. **Captain Sisko** (Project Manager)
+   - Create strategic vision and project charter
+   - Define success criteria and stakeholder objectives
+   - Establish timeline and resource allocation
+
+2. **Major Kira** (Stakeholder Advocate)
+   - Validate that user needs are central to the strategic vision
+   - Challenge assumptions about what users actually want
+   - Ensure inclusive representation of all affected parties
+
+3. **Lt. Commander Dax** (Technical Architect)
+   - Translate strategic vision into technical architecture
+   - Design system specifications and integration patterns
+   - Plan for scalability and future evolution
+
+4. **Vedek Bareil** (User Story Facilitator)
+   - Transform technical specs into meaningful user stories
+   - Facilitate stakeholder alignment on priorities
+   - Create narrative framework that connects technical work to human purpose
+
+## 🎯 Phase 3: Development Operations (Ongoing)
+
+### **Development Workflow**
+
+#### **Infrastructure Foundation** (Week 1)
+- **Chief O'Brien**: Set up development, staging, and production environments
+- **Lt. Commander Worf**: Implement baseline security measures and access controls
+- **Garak**: Establish documentation systems and knowledge management
+
+#### **Core Implementation** (Weeks 2-N)
+- **Dr. Bashir**: Implement features using appropriate specialization:
+  - Use **Specialist Developer** for complex new features
+  - Use **Medical Debugging** for systematic bug resolution
+  - Use **Enhancement Research** for optimization and refactoring
+
+#### **User Experience** (Parallel to development)
+- **Lt. Ezri Dax**: Create user-centered designs and interfaces
+- **Constable Odo**: Test user experiences and validate quality
+- **Quark**: Analyze user behavior and optimize for engagement
+
+#### **Quality Assurance** (Continuous)
+- **Constable Odo**: Comprehensive testing and quality investigation
+- **Lt. Commander Worf**: Security validation and compliance verification
+- **Major Kira**: User acceptance testing and stakeholder validation
+
+## 🔧 Character Coordination Patterns
+
+### **Daily Operations**
+- **Morning Briefings**: Captain Sisko coordinates daily priorities
+- **Engineering Rounds**: O'Brien checks system health and deployment status
+- **Security Sweeps**: Odo and Worf review quality and security metrics
+- **User Feedback**: Kira and Ezri review user feedback and support requests
+
+### **Weekly Planning**
+- **Command Staff**: Sisko, Kira, and Dax review strategic progress
+- **Engineering Team**: O'Brien, Dax, and Bashir coordinate technical work
+- **Quality Council**: Odo, Worf, and Bashir review quality metrics and issues
+- **Intelligence Briefing**: Quark and Garak share analytics and documentation updates
+
+### **Sprint/Milestone Reviews**
+- **All Hands**: Full character crew reviews progress against mission objectives
+- **Stakeholder Briefings**: Kira presents user impact and satisfaction metrics
+- **Technical Reviews**: Dax and Bashir demonstrate new capabilities and architecture evolution
+- **Operational Reports**: O'Brien reports on system reliability and performance
+
+## 🎯 Common Development Scenarios
 
 ### **Building a New Feature**
-1. **Architect-PM**: Strategic requirements and technical design
-2. **Planner**: Project timeline and resource coordination
-3. **Design Spec Writer**: Technical specifications and API design
-4. **User Story Writer**: Prioritized user stories and acceptance criteria
-5. **Designer**: UI/UX specifications and user interactions
-6. **Developer Feature**: Implementation with comprehensive testing
-7. **Security Guardian**: Security analysis and validation
-8. **QA Tester**: Testing strategy and quality validation
-9. **DevOps**: Deployment and infrastructure setup
-10. **Data Analyst**: Success metrics and monitoring
-11. **Historian-Writer**: Documentation and knowledge capture
+1. **Captain Sisko**: Define feature requirements and business value
+2. **Major Kira**: Validate that feature serves real user needs
+3. **Lt. Commander Dax**: Design technical architecture and specifications
+4. **Vedek Bareil**: Create user stories with acceptance criteria
+5. **Lt. Ezri Dax**: Design user experience and interface
+6. **Dr. Bashir (Specialist)**: Implement feature with enhanced capabilities
+7. **Chief O'Brien**: Deploy and monitor feature performance
+8. **Constable Odo**: Test feature thoroughly and validate quality
+9. **Lt. Commander Worf**: Validate security and compliance requirements
+10. **Quark**: Monitor user adoption and engagement metrics
+11. **Garak**: Document feature capabilities and usage guidelines
 
-### **Fixing a Critical Bug**
-1. **Developer Bug Fix**: Systematic investigation and resolution
-2. **QA Tester**: Comprehensive testing and regression validation
-3. **Security Guardian**: Security impact assessment (if applicable)
-4. **DevOps**: Emergency deployment and monitoring
-5. **Historian-Writer**: Post-mortem and lesson documentation
+### **Responding to a Critical Bug**
+1. **Chief O'Brien**: Immediate system stabilization and impact assessment
+2. **Dr. Bashir (Medical Debugging)**: Systematic diagnosis and root cause analysis
+3. **Constable Odo**: Investigation and evidence collection
+4. **Captain Sisko**: Stakeholder communication and resource allocation
+5. **Major Kira**: User impact assessment and communication
+6. **Lt. Commander Worf**: Security impact evaluation (if applicable)
+7. **Garak**: Post-mortem documentation and lessons learned
 
-### **Code Quality Improvement**
-1. **Data Analyst**: Performance analysis and quality metrics
-2. **Developer Refactoring**: Code quality improvement and optimization
-3. **QA Tester**: Regression testing and validation
-4. **Historian-Writer**: Documentation updates and improvement tracking
+### **System Optimization Project**
+1. **Quark**: Analyze performance metrics and identify optimization opportunities
+2. **Lt. Commander Dax**: Architectural assessment and improvement recommendations
+3. **Dr. Bashir (Enhancement Research)**: Research and experimentation with optimization approaches
+4. **Chief O'Brien**: Infrastructure optimization and deployment planning
+5. **Constable Odo**: Performance testing and validation
+6. **Garak**: Documentation of improvements and best practices
 
-### **Security Enhancement**
-1. **Security Guardian**: Comprehensive security assessment
-2. **Developer Feature/Bug Fix**: Security improvements implementation
-3. **QA Tester**: Security testing and validation
-4. **DevOps**: Secure deployment and monitoring setup
-5. **Historian-Writer**: Security documentation and procedures
-
-## 🏷️ Issue Management Tips
+## 🏷️ Character-Based Issue Management
 
 ### **Labeling Strategy**
-Use these labels to organize your agentic workflow:
-- `bootstrap` - Bootstrap agent work (repository customization)
-- `architecture` - Architect-PM work
-- `planning` - Planner agent work
-- `design-spec` - Design Spec Writer work
-- `user-stories` - User Story Writer work
-- `design` - Designer agent work
-- `enhancement` - New features (Developer Feature)
-- `bug` - Bug fixes (Developer Bug Fix)
-- `refactoring` - Code quality improvements
-- `security` - Security-related work
-- `devops` - Infrastructure and deployment
-- `qa` - Quality assurance and testing
-- `data-analysis` - Analytics and insights
-- `documentation` - Documentation and knowledge management
+Use character-based labels to organize your workflow:
+- `sisko-command` - Strategic leadership and project management
+- `kira-advocacy` - User advocacy and stakeholder representation
+- `obrien-ops` - Infrastructure and operational work
+- `dax-architecture` - Technical architecture and design
+- `bashir-development` - Feature development and implementation
+- `bashir-debugging` - Bug investigation and resolution
+- `bashir-research` - Optimization and refactoring
+- `odo-qa` - Quality assurance and testing
+- `worf-security` - Security and compliance
+- `quark-analytics` - Business intelligence and analytics
+- `garak-documentation` - Documentation and knowledge management
+- `ezri-ux` - User experience and design
+- `bareil-stories` - User story creation and facilitation
+- `ds9-setup` - System initialization and configuration
 
-### **Project Board Setup**
-Create columns for:
-1. **Backlog** - Planned agent work
-2. **Bootstrap** - Repository customization and agent setup
-3. **Planning** - Strategic and project planning (Architect-PM, Planner)
-4. **Specification** - Design specs and user stories (Design Spec Writer, User Story Writer)
-5. **In Progress** - Active agent work
-6. **Review** - Agent deliverables under review
-7. **Done** - Completed agent work
+### **Character Coordination**
+- Reference related character issues in collaboration sections
+- Use @mentions to coordinate between character roles
+- Share deliverables through issue comments and documentation links
+- Track cross-character dependencies using project boards
 
-### **Milestone Planning**
-Organize work into milestones like:
-- **Repository Bootstrap** (Bootstrap Agent setup and customization)
-- **Strategic Planning** (Architect-PM + Planner)
-- **Requirements & Specifications** (Design Spec Writer + User Story Writer)
-- **MVP Planning** (Designer + User Story Writer)
-- **Core Implementation** (Developer + Security + QA)
-- **Production Readiness** (DevOps + Data Analyst + Historian-Writer)
+## 🤖 Working with AI Character Assistants
 
-## 🤖 Working with AI Assistants
-
-### **When Creating Issues**
-1. **Be specific** about your requirements and context
+### **When Creating Character Issues**
+1. **Be specific** about your requirements and character context
 2. **Provide examples** of current systems or desired outcomes
-3. **Include constraints** like timeline, budget, or technical limitations
-4. **Reference other issues** that provide additional context
+3. **Include character-appropriate constraints** and considerations
+4. **Reference other character work** that provides additional context
+5. **Use character voice** and perspective when possible
 
-### **Template Customization**
-- Modify agent templates to match your tech stack
-- Add project-specific questions to requirement sections
-- Adjust success criteria to match your quality standards
-- Include your team's specific processes and tools
+### **Character Template Customization**
+- Modify character templates to match your technology stack
+- Add project-specific questions to character requirement sections
+- Adjust success criteria to match your quality standards and character expectations
+- Include your team's specific processes and tools in character workflows
 
-### **Multi-Agent Coordination**
-- Start issues in logical sequence (Architect-PM first)
-- Reference related issues in the collaboration sections
-- Share deliverables between agents through issue comments
-- Use project boards to track cross-agent dependencies
+### **Multi-Character Coordination**
+- Start character issues in logical sequence (often Sisko → Kira → Dax → others)
+- Reference related character issues in collaboration sections
+- Share deliverables between characters through issue comments and links
+- Use project boards to track cross-character dependencies and workflows
 
-## 🔧 Customization for Your Team
+## ⚠️ Common Pitfalls and How to Avoid Them
 
-### **Small Team (1-3 people)**
-- One person may handle multiple agent roles
-- Focus on the most critical agents for your project type
-- Simplify templates by removing sections not relevant to your context
-- Use the agent structure for systematic thinking even if one person does all work
+### **Character Authenticity Issues**
+- **Problem**: Using characters just as labels without embracing their personalities
+- **Solution**: Read character descriptions and embody their approaches and perspectives
 
-### **Medium Team (4-8 people)**
-- Assign primary and secondary agents to team members
-- Create agent expertise areas within the team
-- Use the templates for knowledge sharing and onboarding
-- Establish review processes for agent deliverables
+### **Collaboration Breakdowns**  
+- **Problem**: Characters working in isolation without coordination
+- **Solution**: Follow established character relationships and communication patterns
 
-### **Large Team (8+ people)**
-- Assign dedicated specialists to agent roles
-- Create agent working groups for complex decisions
-- Use templates for standardized communication and deliverables
-- Implement formal handoffs between agent responsibilities
+### **Mission Drift**
+- **Problem**: Characters pursuing their individual goals without considering the overall mission
+- **Solution**: Regular command briefings and mission-focused success criteria
 
-## 📊 Measuring Success
+### **Resource Conflicts**
+- **Problem**: Characters competing for the same resources or authority
+- **Solution**: Clear role definitions and escalation paths through Captain Sisko
 
-### **Agent Effectiveness Metrics**
-- **Bootstrap Agent**: Template customization accuracy, project-specific context integration
-- **Architect-PM**: Requirement clarity, successful implementation rate
-- **Planner**: Project timeline accuracy, resource utilization efficiency
-- **Design Spec Writer**: Specification completeness, implementation success rate
-- **User Story Writer**: Story quality, development velocity improvement
-- **Designer**: User satisfaction, accessibility compliance
-- **Developer**: Code quality, delivery time, bug rate
-- **Security Guardian**: Vulnerability detection, compliance rate
-- **DevOps**: Deployment success, system reliability
-- **QA Tester**: Defect detection, test coverage
-- **Data Analyst**: Insight quality, metric improvement
-- **Historian-Writer**: Documentation usage, knowledge transfer efficiency
+## 📚 Advanced Character Development
 
-### **Process Improvement**
-- Track time from issue creation to resolution
-- Monitor cross-agent collaboration effectiveness
-- Measure deliverable quality and stakeholder satisfaction
-- Identify bottlenecks and improvement opportunities
+As your team becomes more comfortable with the DS9 approach:
 
-## 🆘 Troubleshooting
+### **Character Growth Arcs**
+- Allow characters to evolve and learn from each other over time
+- Document character development and lessons learned
+- Share successful character collaboration patterns with the community
 
-### **Common Issues**
-- **Too much overhead**: Simplify templates for your context
-- **Agent coordination problems**: Use project boards and clear dependencies
-- **Template complexity**: Focus on sections most relevant to your needs
-- **Knowledge silos**: Ensure Historian-Writer captures all decisions
+### **Extended Character Network**
+- Consider adding guest characters for special projects (Odo's Cardassian contacts, Dax's previous hosts)
+- Explore character backstories for deeper project context
+- Use character relationships to guide team building and collaboration
 
-### **Getting Help**
-- Review the comprehensive agent templates for guidance
-- Use the collaboration sections to coordinate between agents
-- Create meta-issues for discussing the agent system itself
-- Iterate and improve your agent usage patterns
+### **Character Specialization**
+- Develop deeper expertise in your primary character roles
+- Cross-train on secondary character capabilities
+- Create character succession plans for team growth and changes
 
 ---
 
-**Ready to go?** 
+*"The most important thing to understand about Deep Space Nine is that it's not just a space station - it's a community. And like any community, its strength comes from the diversity of its inhabitants working together toward common goals."* - Captain Benjamin Sisko
 
-1. **Start by creating grounding documents** in `.github/Grounding/` with your technology stack
-2. **Use the Bootstrap Agent** (`000_agent.md`) to customize all agents for your project
-3. **Then create your first Architect-PM issue** to define your project's strategic direction, followed by the planning workflow through Planner → Design Spec Writer → User Story Writer!
-
-*Remember: The agent system is a framework for organized thinking and development - adapt it to your team's needs and context.*
+Welcome to your new assignment. The frontier of development awaits, and you have the finest crew in Starfleet to help you succeed.
