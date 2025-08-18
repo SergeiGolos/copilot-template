@@ -1,25 +1,27 @@
-# Repository Structure
+# U.S.S. Cerritos Repository Structure
+
+*Star Trek: Lower Decks Character-Themed Development Framework*
 
 ```
 copilot-template/
 ├── .github/
 │   ├── ISSUE_TEMPLATE/
-│   │   ├── 000_agent.md                          # BOOTSTRAP: Repository initialization & agent customization
-│   │   ├── architect_product_manager.md          # Strategic planning & system architecture
-│   │   ├── planner_agent.md                      # Project coordination & execution planning
-│   │   ├── design_spec_writer_agent.md           # Technical design specifications
-│   │   ├── user_story_writer_agent.md            # User story creation & prioritization
-│   │   ├── data_analyst_agent.md                 # Analytics & performance insights
-│   │   ├── designer_agent.md                     # UI/UX design & user experience
-│   │   ├── developer_bug_fix.md                  # Bug investigation & resolution
-│   │   ├── developer_code_refactoring.md         # Code quality & technical debt
-│   │   ├── developer_feature_implementation.md   # New feature development
-│   │   ├── devops_engineer_agent.md              # Infrastructure & deployment
-│   │   ├── historian_technical_writer.md         # Documentation & knowledge management
-│   │   ├── qa_tester_agent.md                    # Quality assurance & testing
-│   │   └── security_guardian_agent.md            # Security analysis & compliance
-│   └── Grounding/                                 # Project-specific context documents
-│       ├── technology.md                         # Technology stack specifications
+│   │   ├── 000_agent.md                          # BOOTSTRAP: Cerritos Crew Coordinator & Repository Initialization
+│   │   ├── architect_product_manager.md          # Captain Carol Freeman - Strategic Product Command
+│   │   ├── planner_agent.md                      # Commander Jack Ransom - People-Focused Engineering Management
+│   │   ├── design_spec_writer_agent.md           # Dr. T'Ana - Uncompromising Software Architect  
+│   │   ├── user_story_writer_agent.md            # Ensign D'Vana Tendi - Business Requirements Specialist
+│   │   ├── data_analyst_agent.md                 # Ensign Barnes - Bridge Analytics Officer
+│   │   ├── designer_agent.md                     # Ensign D'Vana Tendi - UX Design Enthusiast
+│   │   ├── developer_bug_fix.md                  # Ensign Beckett Mariner - Bug Elimination Specialist
+│   │   ├── developer_code_refactoring.md         # Ensign Beckett Mariner - Code Optimization Maverick  
+│   │   ├── developer_feature_implementation.md   # Ensign Beckett Mariner - Maverick Developer
+│   │   ├── devops_engineer_agent.md              # Ensign Sam Rutherford - Engineering Systems Specialist
+│   │   ├── historian_technical_writer.md         # Ensign Fletcher - Communications & Documentation Officer
+│   │   ├── qa_tester_agent.md                    # Ensign Brad Boimler - QA Testing Perfectionist
+│   │   └── security_guardian_agent.md            # Lieutenant Shaxs - Chief of Security
+│   └── Grounding/                                 # Mission-specific context documents
+│       ├── technology.md                         # Technology stack specifications  
 │       ├── architecture.md                       # System architecture context
 │       ├── business-requirements.md              # Business domain context
 │       ├── standards.md                          # Development standards & quality gates
@@ -50,83 +52,82 @@ Each agent template is designed around the principle of **specialized expertise 
 #### **Bootstrap & Meta Agents**
 - **Bootstrap Agent (000)**: Repository initialization, agent customization, technology integration
 
-#### **Strategic & Planning Agents**
-- **Architect-Product Manager**: Bridge between business needs and technical implementation
-- **Planner**: Project coordination, resource planning, and execution management
-- **Design Spec Writer**: Technical specifications and system documentation
-- **User Story Writer**: Requirements translation and implementation prioritization
+### Crew Categories
 
-#### **Implementation Agents**
-- **Developer (3 specializations)**: Feature development, bug fixing, code refactoring
-- **Designer**: User experience and interface design
-- **DevOps Engineer**: Infrastructure and deployment automation
+#### **Senior Staff (Command Crew)**
+- **Captain Carol Freeman** (Architect-Product Manager): Strategic mission command and stakeholder management under pressure
+- **Commander Jack Ransom** (Planner): People-focused project coordination and away-team resource planning
+- **Dr. T'Ana** (Design Spec Writer): Uncompromising technical specifications with zero tolerance for shortcuts
+- **Lieutenant Shaxs** (Security Guardian): Aggressive security analysis and threat elimination
 
-#### **Quality & Security Agents**
-- **QA Tester**: Comprehensive testing and quality assurance
-- **Security Guardian**: Security analysis and threat mitigation
+#### **Lower Decks Crew (Execution Specialists)**
+- **Ensign Beckett Mariner** (3 Developer specializations): Maverick problem-solving for features, bugs, and refactoring
+- **Ensign D'Vana Tendi** (Designer & User Story Writer): Empathetic UX design and business requirements analysis
+- **Ensign Sam Rutherford** (DevOps Engineer): Infrastructure maintenance with passionate system enthusiasm
+- **Ensign Brad Boimler** (QA Tester): Perfectionist testing protocols with exhaustive validation
 
-#### **Analysis & Documentation Agents**
-- **Data Analyst**: Performance monitoring and user behavior analysis
-- **Historian-Technical Writer**: Documentation and knowledge management
+#### **Bridge Officers (Support Specialists)**  
+- **Ensign Barnes** (Data Analyst): Bridge-quality analytics for informed command decisions
+- **Ensign Fletcher** (Historian-Technical Writer): Communications and comprehensive documentation
 
-## Usage Patterns
+## Mission Patterns (Usage Workflows)
 
-### **Repository Initialization Pattern**
-0. Add project-specific documents to `.github/Grounding/` directory
-1. Create Bootstrap Agent issue to customize all agents for project technology
-2. Start with Architect-PM agent for strategic planning
-3. Use Planner agent for project coordination and resource planning
-4. Apply Design Spec Writer for technical specifications
-5. Engage User Story Writer for implementation backlog
-6. Move to Designer agent for UX/UI requirements
-7. Proceed to Developer agents for implementation
-8. Engage Security Guardian for security validation
-9. Use DevOps for deployment and infrastructure
-10. Apply QA Tester for comprehensive testing
-11. Implement Data Analyst for metrics and monitoring
-12. Conclude with Historian-Writer for documentation
+### **Repository Initialization Pattern (Crew Preparation)**
+0. Add mission-specific documents to `.github/Grounding/` directory
+1. Create Bootstrap Agent issue to prepare the entire crew for mission parameters
+2. Start with **Captain Freeman** for strategic mission planning  
+3. Use **Commander Ransom** for away-team coordination and resource planning
+4. Apply **Dr. T'Ana** for technical specifications with rigorous standards
+5. Engage **Ensign Tendi** for requirements analysis and user advocacy
+6. Move to **Ensign Tendi** (UX) for interface design requirements
+7. Proceed to **Ensign Mariner** for maverick development solutions  
+8. Engage **Lieutenant Shaxs** for aggressive security validation
+9. Use **Ensign Rutherford** for infrastructure maintenance and deployment enthusiasm
+10. Apply **Ensign Boimler** for perfectionist testing protocols  
+11. Implement **Ensign Barnes** for bridge-quality analytics and monitoring
+12. Conclude with **Ensign Fletcher** for comprehensive documentation
 
-### **Maintenance Pattern**
-1. Use Data Analyst to identify issues or opportunities
-2. Apply appropriate Developer agent for implementation
-3. Engage Security Guardian for security impact assessment
-4. Use QA Tester for validation
-5. Apply DevOps for deployment
-6. Update documentation via Historian-Writer
+### **Maintenance Mission Pattern (Second Contact Operations)**
+1. Use **Ensign Barnes** to identify system performance issues or improvement opportunities
+2. Apply appropriate **Ensign Mariner** specialization for implementation
+3. Engage **Lieutenant Shaxs** for security impact assessment  
+4. Use **Ensign Boimler** for exhaustive validation protocols
+5. Apply **Ensign Rutherford** for enthusiastic deployment
+6. Update mission logs via **Ensign Fletcher**
 
-### **Bug Resolution Pattern**
-1. Start with Developer Bug Fix template for systematic investigation
-2. Coordinate with QA Tester for comprehensive testing
-3. Engage Security Guardian if security implications exist
-4. Use DevOps for deployment and monitoring
-5. Document resolution via Historian-Writer
+### **Emergency Response Pattern (Crisis Management)**
+1. Start with **Ensign Mariner** Bug Fix for creative problem-solving investigation
+2. Coordinate with **Ensign Boimler** for comprehensive testing under pressure
+3. Engage **Lieutenant Shaxs** if security implications exist (likely "full assault" response)
+4. Use **Ensign Rutherford** for rapid deployment and system stabilization
+5. Document incident response via **Ensign Fletcher** for institutional memory
 
-## Customization Guidelines
+## Crew Customization Guidelines
 
-### **For Different Project Types**
-- **Web Applications**: Use all agents with emphasis on Designer and DevOps
-- **APIs/Backend Services**: Focus on Developer, Security Guardian, and Data Analyst
-- **Mobile Applications**: Emphasize Designer, QA Tester, and DevOps
-- **Data Projects**: Prioritize Data Analyst, Security Guardian, and Historian-Writer
+### **For Different Mission Types**
+- **Web Applications**: Use all crew members with emphasis on **Ensign Tendi** (UX) and **Ensign Rutherford** (DevOps)
+- **APIs/Backend Services**: Focus on **Ensign Mariner** (Development), **Lieutenant Shaxs** (Security), and **Ensign Barnes** (Analytics)
+- **Mobile Applications**: Emphasize **Ensign Tendi** (Design), **Ensign Boimler** (QA), and **Ensign Rutherford** (DevOps)
+- **Data Projects**: Prioritize **Ensign Barnes** (Analytics), **Lieutenant Shaxs** (Security), and **Ensign Fletcher** (Documentation)
 
-### **For Team Sizes**
-- **Individual/Small Teams**: One person may handle multiple agent roles
-- **Medium Teams**: 2-3 people may share agent responsibilities
-- **Large Teams**: Dedicated specialists for each agent role
+### **For Crew Sizes (Team Scaling)**
+- **Solo Developer/Small Crews**: One person may wear multiple crew member "uniforms" as needed
+- **Medium Crews**: 2-3 people may share crew responsibilities across different specializations  
+- **Full Starship Crews**: Dedicated specialists for each crew member role with clear chain of command
 
-## Best Practices
+## Best Mission Practices
 
-1. **Always start with Architect-PM** for any significant work
-2. **Use appropriate Developer specialization** based on the type of work
-3. **Engage Security Guardian early** for security-sensitive features
-4. **Document everything** through Historian-Writer agent
-5. **Measure success** using Data Analyst frameworks
-6. **Maintain quality** through QA Tester processes
+1. **Always start with Captain Freeman** for strategic mission planning of any significant work
+2. **Use appropriate Ensign Mariner specialization** based on the type of development challenge
+3. **Engage Lieutenant Shaxs early** for security-sensitive features (expect "extreme prejudice" thoroughness)
+4. **Document everything** through **Ensign Fletcher** for institutional memory and future crew orientation
+5. **Measure mission success** using **Ensign Barnes** analytics frameworks  
+6. **Maintain ship standards** through **Ensign Boimler** perfectionist quality processes
 
-## Future Enhancements
+## Future Crew Enhancements
 
-The template is designed to evolve and may include:
-- **Agent context grounding** in the `.github/Grounding/` directory
+The Cerritos template is designed to evolve and may include:
+- **Character context grounding** in the `.github/Grounding/` directory for mission-specific personality adaptation
 - **Workflow automation** through GitHub Actions
 - **Advanced collaboration patterns** between agents
 - **Metrics and KPI tracking** for agent effectiveness
