@@ -4,6 +4,7 @@
 copilot-template/
 ├── .github/
 │   ├── ISSUE_TEMPLATE/
+│   │   ├── 000_agent.md                          # BOOTSTRAP: Repository initialization & agent customization
 │   │   ├── architect_product_manager.md          # Strategic planning & system architecture
 │   │   ├── planner_agent.md                      # Project coordination & execution planning
 │   │   ├── design_spec_writer_agent.md           # Technical design specifications
@@ -17,7 +18,12 @@ copilot-template/
 │   │   ├── historian_technical_writer.md         # Documentation & knowledge management
 │   │   ├── qa_tester_agent.md                    # Quality assurance & testing
 │   │   └── security_guardian_agent.md            # Security analysis & compliance
-│   └── Grounding/                                 # Future: Agent context and grounding
+│   └── Grounding/                                 # Project-specific context documents
+│       ├── technology.md                         # Technology stack specifications
+│       ├── architecture.md                       # System architecture context
+│       ├── business-requirements.md              # Business domain context
+│       ├── standards.md                          # Development standards & quality gates
+│       └── [other-context].md                    # Additional project context
 ├── README.md                                      # Main repository documentation
 └── .git/                                          # Git repository metadata
 ```
@@ -41,6 +47,9 @@ Each agent template is designed around the principle of **specialized expertise 
 
 ### Template Categories
 
+#### **Bootstrap & Meta Agents**
+- **Bootstrap Agent (000)**: Repository initialization, agent customization, technology integration
+
 #### **Strategic & Planning Agents**
 - **Architect-Product Manager**: Bridge between business needs and technical implementation
 - **Planner**: Project coordination, resource planning, and execution management
@@ -62,18 +71,20 @@ Each agent template is designed around the principle of **specialized expertise 
 
 ## Usage Patterns
 
-### **Project Initialization Pattern**
-1. Start with Architect-PM agent for strategic planning
-2. Use Planner agent for project coordination and resource planning
-3. Apply Design Spec Writer for technical specifications
-4. Engage User Story Writer for implementation backlog
-5. Move to Designer agent for UX/UI requirements
-6. Proceed to Developer agents for implementation
-7. Engage Security Guardian for security validation
-8. Use DevOps for deployment and infrastructure
-9. Apply QA Tester for comprehensive testing
-10. Implement Data Analyst for metrics and monitoring
-11. Conclude with Historian-Writer for documentation
+### **Repository Initialization Pattern**
+0. Add project-specific documents to `.github/Grounding/` directory
+1. Create Bootstrap Agent issue to customize all agents for project technology
+2. Start with Architect-PM agent for strategic planning
+3. Use Planner agent for project coordination and resource planning
+4. Apply Design Spec Writer for technical specifications
+5. Engage User Story Writer for implementation backlog
+6. Move to Designer agent for UX/UI requirements
+7. Proceed to Developer agents for implementation
+8. Engage Security Guardian for security validation
+9. Use DevOps for deployment and infrastructure
+10. Apply QA Tester for comprehensive testing
+11. Implement Data Analyst for metrics and monitoring
+12. Conclude with Historian-Writer for documentation
 
 ### **Maintenance Pattern**
 1. Use Data Analyst to identify issues or opportunities

@@ -1,4 +1,15 @@
-# Copilot Template - Agentic AI Development Starter
+# Copilot Template - Agentic AI Dev## 📋 Issue Templates System
+
+Each agent has dedicated GitHub Issue templates that provide structured workflows and comprehensive requirements gathering:
+
+### 🔧 **Bootstrap Agent** (`000_agent.md`)
+- **SPECIAL ROLE**: Repository initialization and agent customization
+- Project-specific technology integration and context application
+- Grounding document processing from `.github/Grounding/` directory
+- Systematic update of ALL agent templates with project-specific information
+- Technology stack analysis and agent template transformation
+
+### 🎯 **Planner Agent** (`planner_agent.md`)ent Starter
 
 **A comprehensive GitHub repository template designed for clean, organized development using specialized AI agents to break down complex development work into focused, manageable tasks.**
 
@@ -20,6 +31,7 @@ The repository implements an **Agentic Development Model** where different aspec
 
 | Agent | Focus Area | Primary Responsibilities |
 |-------|-----------|-------------------------|
+| **Bootstrap Agent** | Repository Initialization | Project-specific agent customization, technology integration, grounding document processing |
 | **Architect-PM** | Strategy & Planning | Requirements analysis, system design, risk assessment, roadmap planning |
 | **Planner** | Project Coordination | Strategic project planning, resource coordination, sprint planning, dependency management |
 | **Design Spec Writer** | Technical Specifications | Technical design documentation, API specifications, system integration specs |
@@ -126,11 +138,18 @@ cd your-project
 ```
 
 ### 2. **Project Initialization**
+- Add project-specific context documents to `.github/Grounding/` directory
+- Create a Bootstrap Agent issue (`000_agent.md`) to analyze and customize all agents
 - Review and customize issue templates for your project's specific needs
 - Set up labels and project boards to match the agent structure
 - Configure branch protection rules and workflow requirements
 
 ### 3. **Agent-Based Development Workflow**
+
+#### **Bootstrap Phase** (Repository Customization)
+0. Create grounding documents in `.github/Grounding/` with your technology stack
+1. Use `000_agent.md` template to bootstrap and customize all agents for your project
+2. Validate that all agents now contain project-specific technology and context
 
 #### **Planning Phase** (Architect-PM → Planner → Design Spec Writer → User Story Writer)
 1. Create an issue using the `architect_product_manager.md` template for strategic planning
@@ -230,8 +249,10 @@ graph TB
 
 ## 🚀 Getting Started Checklist
 
+- [ ] **Create grounding documents** in `.github/Grounding/` with your project's technology stack
+- [ ] **Run Bootstrap Agent** using `000_agent.md` to customize all agents for your project
 - [ ] **Review all issue templates** and understand each agent's role
-- [ ] **Customize templates** for your specific project needs
+- [ ] **Validate agent customizations** ensure they reflect your project specifics
 - [ ] **Set up project labels** to match agent categories
 - [ ] **Configure branch protection** and review requirements
 - [ ] **Create your first Architect-PM issue** to define project scope
@@ -263,6 +284,10 @@ This template is designed to evolve with best practices in agentic development:
 
 ---
 
-**Ready to start your agentic development journey?** Begin by creating your first issue using the `architect_product_manager.md` template to define your project's scope and technical architecture.
+**Ready to start your agentic development journey?** 
+
+1. **First**: Add your project's technology stack to `.github/Grounding/` directory
+2. **Second**: Create a Bootstrap Agent issue using `000_agent.md` to customize all agents
+3. **Third**: Begin with creating your first issue using the `architect_product_manager.md` template to define your project's scope and technical architecture.
 
 *This README was created by the Historian-Technical Writer Agent as part of the repository documentation and knowledge management responsibilities.*

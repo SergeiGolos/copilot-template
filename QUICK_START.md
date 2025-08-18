@@ -18,7 +18,15 @@ git clone https://github.com/yourusername/your-project-name
 cd your-project-name
 ```
 
-### Step 3: First Issue - Project Planning
+### Step 3: Bootstrap Your Repository
+1. Create technology context files in `.github/Grounding/` directory
+2. Go to your repository's Issues tab
+3. Click "New Issue"
+4. Select "Bootstrap Agent - Repository Initialization" template
+5. Fill out your project's technology stack and context
+6. Wait for the Bootstrap Agent to customize all other agents
+
+### Step 4: First Issue - Project Planning
 1. Go to your repository's Issues tab
 2. Click "New Issue"
 3. Select "Architect Product Manager" template
@@ -26,18 +34,23 @@ cd your-project-name
 
 ## 📋 Your First Week Workflow
 
-### Day 1-2: Strategic Planning
+### Day 1: Repository Bootstrap
+- [ ] **Create Grounding Documents**: Add technology stack and context files to `.github/Grounding/`
+- [ ] **Run Bootstrap Agent**: Create Bootstrap Agent issue to customize all agents for your project
+- [ ] **Validate Customizations**: Review that all agents now contain your project-specific context
+
+### Day 2-3: Strategic Planning
 - [ ] **Create Architect-PM Issue**: Define project scope, requirements, and technical architecture
 - [ ] **Create Planner Issue**: Establish project coordination and resource planning
 - [ ] **Review deliverables**: System design, risk assessment, project roadmap, and resource allocation
 
-### Day 3-4: Specification Development
+### Day 4-5: Specification Development
 - [ ] **Create Design Spec Writer Issue**: Develop detailed technical specifications
 - [ ] **Create User Story Writer Issue**: Convert specs into prioritized user stories
 - [ ] **Create Security Guardian Issue**: Establish security requirements and threat model
 - [ ] **Review deliverables**: Technical specifications, user story backlog, and security framework
 
-### Day 5-7: Implementation Planning
+### Day 6-7: Implementation Planning
 - [ ] **Create Designer Issue**: Define UI/UX requirements and user experience goals
 - [ ] **Create Developer Feature Issue**: Plan your first feature implementation
 - [ ] **Create QA Tester Issue**: Establish testing strategy and quality gates
@@ -83,6 +96,7 @@ cd your-project-name
 
 ### **Labeling Strategy**
 Use these labels to organize your agentic workflow:
+- `bootstrap` - Bootstrap agent work (repository customization)
 - `architecture` - Architect-PM work
 - `planning` - Planner agent work
 - `design-spec` - Design Spec Writer work
@@ -100,14 +114,16 @@ Use these labels to organize your agentic workflow:
 ### **Project Board Setup**
 Create columns for:
 1. **Backlog** - Planned agent work
-2. **Planning** - Strategic and project planning (Architect-PM, Planner)
-3. **Specification** - Design specs and user stories (Design Spec Writer, User Story Writer)
-4. **In Progress** - Active agent work
-5. **Review** - Agent deliverables under review
-6. **Done** - Completed agent work
+2. **Bootstrap** - Repository customization and agent setup
+3. **Planning** - Strategic and project planning (Architect-PM, Planner)
+4. **Specification** - Design specs and user stories (Design Spec Writer, User Story Writer)
+5. **In Progress** - Active agent work
+6. **Review** - Agent deliverables under review
+7. **Done** - Completed agent work
 
 ### **Milestone Planning**
 Organize work into milestones like:
+- **Repository Bootstrap** (Bootstrap Agent setup and customization)
 - **Strategic Planning** (Architect-PM + Planner)
 - **Requirements & Specifications** (Design Spec Writer + User Story Writer)
 - **MVP Planning** (Designer + User Story Writer)
@@ -157,6 +173,7 @@ Organize work into milestones like:
 ## 📊 Measuring Success
 
 ### **Agent Effectiveness Metrics**
+- **Bootstrap Agent**: Template customization accuracy, project-specific context integration
 - **Architect-PM**: Requirement clarity, successful implementation rate
 - **Planner**: Project timeline accuracy, resource utilization efficiency
 - **Design Spec Writer**: Specification completeness, implementation success rate
@@ -191,6 +208,10 @@ Organize work into milestones like:
 
 ---
 
-**Ready to go?** Start with creating your first Architect-PM issue to define your project's strategic direction, then move through Planner → Design Spec Writer → User Story Writer for comprehensive planning and implementation readiness!
+**Ready to go?** 
+
+1. **Start by creating grounding documents** in `.github/Grounding/` with your technology stack
+2. **Use the Bootstrap Agent** (`000_agent.md`) to customize all agents for your project
+3. **Then create your first Architect-PM issue** to define your project's strategic direction, followed by the planning workflow through Planner → Design Spec Writer → User Story Writer!
 
 *Remember: The agent system is a framework for organized thinking and development - adapt it to your team's needs and context.*
