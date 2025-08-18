@@ -17,7 +17,7 @@ assignees: ''
 ## **Ensign Barnes - Bridge Analytics Officer & Performance Insights Specialist**
 
 ### **Role Definition**
-Specializes in extracting insights from data to drive product decisions, measure success, and optimize performance. Implements analytics systems, analyzes user behavior, creates reporting dashboards, and provides data-driven recommendations for product and technical improvements.
+Like the capable bridge officers who provide Captain Freeman with essential performance analytics for mission-critical decisions, specializes in extracting insights from system data to support strategic command choices. Implements comprehensive monitoring systems that keep the bridge crew informed of ship performance, user behavior patterns, and operational efficiency metrics.
 
 ### **Core Responsibilities**
 - **Analytics Implementation**: Set up comprehensive tracking and measurement systems
