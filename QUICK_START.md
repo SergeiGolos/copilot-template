@@ -40,83 +40,83 @@ cd your-project-name
 - [ ] **Validate Customizations**: Review that all agents now contain your project-specific context
 
 ### Day 2-3: Strategic Planning
-- [ ] **Create Architect-PM Issue**: Define project scope, requirements, and technical architecture
-- [ ] **Create Planner Issue**: Establish project coordination and resource planning
+- [ ] **Create Captain Sisko Issue**: Define project scope with frontier leadership and architectural vision
+- [ ] **Create Major Kira Issue**: Establish stakeholder advocacy and user-focused coordination
 - [ ] **Review deliverables**: System design, risk assessment, project roadmap, and resource allocation
 
 ### Day 4-5: Specification Development
-- [ ] **Create Design Spec Writer Issue**: Develop detailed technical specifications
-- [ ] **Create User Story Writer Issue**: Convert specs into prioritized user stories
-- [ ] **Create Security Guardian Issue**: Establish security requirements and threat model
+- [ ] **Create Lt. Commander Dax Issue**: Develop detailed technical specifications with 300+ years wisdom
+- [ ] **Create Jake Sisko Issue**: Convert specs into human-centered user stories
+- [ ] **Create Lt. Commander Worf Issue**: Establish security requirements with honor and discipline
 - [ ] **Review deliverables**: Technical specifications, user story backlog, and security framework
 
 ### Day 6-7: Implementation Planning
-- [ ] **Create Designer Issue**: Define UI/UX requirements and user experience goals
-- [ ] **Create Developer Feature Issue**: Plan your first feature implementation
-- [ ] **Create QA Tester Issue**: Establish testing strategy and quality gates
-- [ ] **Create DevOps Issue**: Plan infrastructure and deployment strategy
-- [ ] **Create Data Analyst Issue**: Set up metrics and monitoring framework
+- [ ] **Create Leeta Issue**: Define UI/UX requirements with hospitality and user comfort focus
+- [ ] **Create Dr. Bashir Issue**: Plan your first feature with enhanced specialist capabilities
+- [ ] **Create Constable Odo Issue**: Establish testing strategy with shapeshifter precision
+- [ ] **Create Chief O'Brien Issue**: Plan infrastructure integration under frontier conditions
+- [ ] **Create Quark Issue**: Set up profit-driven analytics and business intelligence
 
 ## 🎯 Common Use Cases
 
 ### **Building a New Feature**
-1. **Architect-PM**: Strategic requirements and technical design
-2. **Planner**: Project timeline and resource coordination
-3. **Design Spec Writer**: Technical specifications and API design
-4. **User Story Writer**: Prioritized user stories and acceptance criteria
-5. **Designer**: UI/UX specifications and user interactions
-6. **Developer Feature**: Implementation with comprehensive testing
-7. **Security Guardian**: Security analysis and validation
-8. **QA Tester**: Testing strategy and quality validation
-9. **DevOps**: Deployment and infrastructure setup
-10. **Data Analyst**: Success metrics and monitoring
-11. **Historian-Writer**: Documentation and knowledge capture
+1. **Captain Sisko**: Strategic requirements and architectural command decisions
+2. **Major Kira**: Project timeline and stakeholder advocacy coordination
+3. **Lt. Commander Dax**: Technical specifications with polymath design expertise
+4. **Jake Sisko**: Prioritized user stories with empathetic narrative focus
+5. **Leeta**: UI/UX specifications ensuring user comfort and accessibility
+6. **Dr. Bashir**: Implementation with genetically enhanced precision and capability
+7. **Lt. Commander Worf**: Security analysis with Klingon discipline and Starfleet standards
+8. **Constable Odo**: Testing strategy and incorruptible quality validation
+9. **Chief O'Brien**: Deployment under pressure with legacy system integration
+10. **Quark**: Success metrics and profit-driven monitoring intelligence
+11. **Professor Jennifer Sisko**: Documentation and academic knowledge preservation
 
 ### **Fixing a Critical Bug**
-1. **Developer Bug Fix**: Systematic investigation and resolution
-2. **QA Tester**: Comprehensive testing and regression validation
-3. **Security Guardian**: Security impact assessment (if applicable)
-4. **DevOps**: Emergency deployment and monitoring
-5. **Historian-Writer**: Post-mortem and lesson documentation
+1. **Nog**: Systematic investigation with Starfleet engineering precision
+2. **Constable Odo**: Comprehensive testing and regression validation from every angle
+3. **Lt. Commander Worf**: Security impact assessment with tactical expertise (if applicable)
+4. **Chief O'Brien**: Emergency deployment and operational monitoring under crisis
+5. **Professor Jennifer Sisko**: Post-mortem and lesson documentation for future generations
 
 ### **Code Quality Improvement**
-1. **Data Analyst**: Performance analysis and quality metrics
-2. **Developer Refactoring**: Code quality improvement and optimization
-3. **QA Tester**: Regression testing and validation
-4. **Historian-Writer**: Documentation updates and improvement tracking
+1. **Quark**: Performance analysis and profit-driven quality metrics
+2. **Rom**: Code quality improvement and methodical optimization
+3. **Constable Odo**: Regression testing and validation with shapeshifter thoroughness
+4. **Professor Jennifer Sisko**: Documentation updates and improvement tracking
 
 ### **Security Enhancement**
-1. **Security Guardian**: Comprehensive security assessment
-2. **Developer Feature/Bug Fix**: Security improvements implementation
-3. **QA Tester**: Security testing and validation
-4. **DevOps**: Secure deployment and monitoring setup
-5. **Historian-Writer**: Security documentation and procedures
+1. **Lt. Commander Worf**: Comprehensive security assessment with honor-driven thoroughness
+2. **Dr. Bashir**: Security improvements implementation with specialist precision (or Nog for fixes)
+3. **Constable Odo**: Security testing and validation from investigative perspective
+4. **Chief O'Brien**: Secure deployment and monitoring setup under operational pressure
+5. **Professor Jennifer Sisko**: Security documentation and procedures with academic precision
 
 ## 🏷️ Issue Management Tips
 
 ### **Labeling Strategy**
 Use these labels to organize your agentic workflow:
 - `bootstrap` - Bootstrap agent work (repository customization)
-- `architecture` - Architect-PM work
-- `planning` - Planner agent work
-- `design-spec` - Design Spec Writer work
-- `user-stories` - User Story Writer work
-- `design` - Designer agent work
-- `enhancement` - New features (Developer Feature)
-- `bug` - Bug fixes (Developer Bug Fix)
-- `refactoring` - Code quality improvements
-- `security` - Security-related work
-- `devops` - Infrastructure and deployment
-- `qa` - Quality assurance and testing
-- `data-analysis` - Analytics and insights
-- `documentation` - Documentation and knowledge management
+- `command` - Captain Sisko work (strategic architecture)
+- `stakeholder-advocacy` - Major Kira work (user-focused planning)
+- `symbiont-wisdom` - Lt. Commander Dax work (technical specifications)
+- `storytelling` - Jake Sisko work (user stories)
+- `user-experience` - Leeta work (design and hospitality)
+- `enhancement` - Dr. Bashir work (new features with precision)
+- `bug` - Nog work (systematic bug fixes)
+- `refactoring` - Rom work (methodical code improvements)
+- `security` - Lt. Commander Worf work (honor-driven security)
+- `devops` - Chief O'Brien work (infrastructure under pressure)
+- `qa` - Constable Odo work (incorruptible quality assurance)
+- `data-analysis` - Quark work (profit-driven analytics)
+- `documentation` - Professor Jennifer Sisko work (academic documentation)
 
 ### **Project Board Setup**
 Create columns for:
 1. **Backlog** - Planned agent work
 2. **Bootstrap** - Repository customization and agent setup
-3. **Planning** - Strategic and project planning (Architect-PM, Planner)
-4. **Specification** - Design specs and user stories (Design Spec Writer, User Story Writer)
+3. **Command Planning** - Strategic and project planning (Captain Sisko, Major Kira)
+4. **Specification** - Design specs and user stories (Lt. Commander Dax, Jake Sisko)
 5. **In Progress** - Active agent work
 6. **Review** - Agent deliverables under review
 7. **Done** - Completed agent work
@@ -124,11 +124,11 @@ Create columns for:
 ### **Milestone Planning**
 Organize work into milestones like:
 - **Repository Bootstrap** (Bootstrap Agent setup and customization)
-- **Strategic Planning** (Architect-PM + Planner)
-- **Requirements & Specifications** (Design Spec Writer + User Story Writer)
-- **MVP Planning** (Designer + User Story Writer)
-- **Core Implementation** (Developer + Security + QA)
-- **Production Readiness** (DevOps + Data Analyst + Historian-Writer)
+- **Strategic Planning** (Captain Sisko + Major Kira)
+- **Requirements & Specifications** (Lt. Commander Dax + Jake Sisko)
+- **MVP Planning** (Leeta + Jake Sisko)
+- **Core Implementation** (DS9 Developer Corps + Lt. Commander Worf + Constable Odo)
+- **Production Readiness** (Chief O'Brien + Quark + Professor Jennifer Sisko)
 
 ## 🤖 Working with AI Assistants
 
@@ -174,17 +174,19 @@ Organize work into milestones like:
 
 ### **Agent Effectiveness Metrics**
 - **Bootstrap Agent**: Template customization accuracy, project-specific context integration
-- **Architect-PM**: Requirement clarity, successful implementation rate
-- **Planner**: Project timeline accuracy, resource utilization efficiency
-- **Design Spec Writer**: Specification completeness, implementation success rate
-- **User Story Writer**: Story quality, development velocity improvement
-- **Designer**: User satisfaction, accessibility compliance
-- **Developer**: Code quality, delivery time, bug rate
-- **Security Guardian**: Vulnerability detection, compliance rate
-- **DevOps**: Deployment success, system reliability
-- **QA Tester**: Defect detection, test coverage
-- **Data Analyst**: Insight quality, metric improvement
-- **Historian-Writer**: Documentation usage, knowledge transfer efficiency
+- **Captain Sisko**: Requirement clarity, strategic implementation success rate, stakeholder alignment
+- **Major Kira**: Project timeline accuracy, user advocacy effectiveness, stakeholder satisfaction
+- **Lt. Commander Dax**: Specification completeness, technical mentorship success, design quality
+- **Jake Sisko**: Story quality, user empathy accuracy, development velocity improvement
+- **Leeta**: User satisfaction, accessibility compliance, customer comfort metrics
+- **Dr. Bashir**: Code quality excellence, delivery precision, complex problem resolution
+- **Nog**: Bug detection accuracy, systematic investigation thoroughness, fix quality
+- **Rom**: Refactoring effectiveness, technical debt reduction, long-term code stability
+- **Lt. Commander Worf**: Vulnerability detection, compliance rate, security discipline
+- **Chief O'Brien**: Deployment success under pressure, system reliability, operational excellence
+- **Constable Odo**: Defect detection from all angles, test coverage, quality incorruptibility
+- **Quark**: Insight profitability, business intelligence quality, market opportunity identification
+- **Professor Jennifer Sisko**: Documentation usage, knowledge transfer efficiency, educational impact
 
 ### **Process Improvement**
 - Track time from issue creation to resolution

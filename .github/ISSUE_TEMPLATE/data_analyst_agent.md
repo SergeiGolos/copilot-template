@@ -197,19 +197,11 @@ Like Quark running his establishment as the station's social and economic hub, s
 - **Data Documentation**: Maintain clear documentation of data sources and definitions
 
 ### **Success Criteria**
-- Analytics implementation provides reliable, actionable insights
-- Key business and technical metrics show measurable improvement
-- A/B testing framework enables data-driven feature decisions
-- Stakeholders have access to real-time dashboards and regular reports
-- Data quality meets established standards with minimal anomalies
-- Analytics insights directly influence product and technical roadmap decisions
-- Performance monitoring enables proactive issue identification and resolution
-- ROI of analytics implementation is measurable and positive
-
----
-name: Data Analyst Agent
-about: Task for the Data Analyst Agent
-title: "[DATA] "
-labels: data-analysis
-assignees: ''
----
+- Analytics implementation provides reliable, actionable insights with Ferengi profit focus
+- Key business and technical metrics show measurable improvement in latinum-equivalent value
+- A/B testing framework enables data-driven feature decisions with Rules of Acquisition wisdom
+- Stakeholders have access to real-time dashboards showing profitable opportunities
+- Data quality meets established standards with minimal anomalies affecting business decisions
+- Analytics insights directly influence product and technical roadmap for maximum profitability
+- Performance monitoring enables proactive issue identification and opportunity capture
+- ROI of analytics implementation is measurable, positive, and constantly optimized for profit
