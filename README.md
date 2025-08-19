@@ -44,89 +44,97 @@ The repository implements an **Agentic Development Model** where different aspec
 | **Data Analyst** | Analytics & Insights | Performance analysis, user behavior analytics, A/B testing, reporting |
 | **Historian-Writer** | Documentation | Technical documentation, knowledge management, process documentation |
 
-## 📋 Issue Templates System
+## 📋 Friends-Themed Issue Templates System 🍃
 
-Each agent has dedicated GitHub Issue templates that provide structured workflows and comprehensive requirements gathering:
+Each character brings their unique personality and strengths to specialized development workflows. Just like the Friends group, each agent has distinct capabilities that complement the others:
 
-### � **Planner Agent** (`planner_agent.md`)
-- Strategic project coordination and execution planning
-- Resource planning and capacity management
-- Risk and dependency management with mitigation strategies
-- Sprint planning and agile/scrum coordination
+### 🦕 **Ross Geller - The Expert** (2 roles)
+#### **Architect Product Manager** (`architect_product_manager.md`)
+- *"I'm fine! I'm totally fine!"* - Strategic technical leadership with PhD-level expertise
+- Systematic requirements gathering and technical architecture design
+- Deep domain knowledge with methodical analysis approach
 
-### 📝 **Design Spec Writer Agent** (`design_spec_writer_agent.md`)
-- Technical design specifications and system documentation
-- API design documentation and interface contracts
-- Database schema design and integration specifications
-- Implementation guidelines and development standards
+#### **Design Spec Writer** (`design_spec_writer_agent.md`) 
+- *"Could this BE any more detailed?"* - Academic precision in technical specifications
+- Comprehensive design documentation with paleontological attention to detail
+- Technical specifications that bridge architecture and implementation
 
-### 📚 **User Story Writer Agent** (`user_story_writer_agent.md`)
-- Convert design and technical specs into user stories
-- Implementation prioritization by complexity and business value
-- Epic and story mapping with dependency analysis
-- Backlog management and story refinement
-
-### �🎨 **Designer Agent** (`designer_agent.md`)
-- User experience design and modern UI/UX implementation
-- Accessibility compliance and responsive design
-- CSS implementation and design system maintenance
-- User flow analysis and optimization
-
-### 👨‍💻 **Developer Agent** (3 specialized templates)
-
-#### **Feature Implementation** (`developer_feature_implementation.md`)
-- Complete feature development lifecycle
-- Technical requirements and performance specifications
-- Testing strategy and quality assurance
-- Security and accessibility implementation
-
-#### **Bug Fix** (`developer_bug_fix.md`)
-- Systematic bug investigation and resolution
-- Root cause analysis and impact assessment
-- Comprehensive testing and regression prevention
-- Performance and security validation
+### 📋 **Monica Geller - The Organizer** (2 roles)
+#### **Planner Agent** (`planner_agent.md`)
+- *"I KNOW! This will be PERFECTLY organized!"* - Meticulous project coordination
+- Resource planning with competitive excellence and systematic precision
+- Risk management with backup plans for the backup plans
 
 #### **Code Refactoring** (`developer_code_refactoring.md`)
-- Code quality improvement and technical debt reduction
-- Performance optimization and maintainability enhancement
-- Test-driven refactoring and validation
-- Architecture improvement and modernization
+- *"RULES! There are RULES for clean code!"* - Perfectionist code organization
+- Technical debt elimination with obsessive-compulsive attention to quality
+- Code cleaning with the same intensity as apartment organization
 
-### 🏛️ **Architect-Product Manager** (`architect_product_manager.md`)
-- Strategic product vision and technical architecture
-- Requirements gathering and stakeholder management
-- Risk-effort-impact assessment
-- System design and integration planning
+### 👗 **Rachel Green - The Creator** (2 roles) 
+#### **Designer Agent** (`designer_agent.md`)
+- *"I'm gonna get one of those job things!"* - Style-forward user experience design
+- Fashion-sense applied to user interfaces and visual appeal
+- Growth-oriented approach to learning user needs
 
-### 🛡️ **Security Guardian** (`security_guardian_agent.md`)
-- Comprehensive security analysis and threat modeling
-- Vulnerability assessment and compliance auditing
-- Security architecture and incident response planning
-- Penetration testing and security validation
+#### **User Story Writer** (`user_story_writer_agent.md`)
+- *"I'm not great at advice, but here's user empathy!"* - Social intelligence for user stories
+- People-focused requirements that reflect real user desires
+- Empathetic translation of technical specs into user-centered stories
 
-### 🚀 **DevOps Engineer** (`devops_engineer_agent.md`)
-- CI/CD pipeline design and infrastructure automation
-- Environment management and deployment strategies
-- Monitoring, observability, and performance optimization
-- Disaster recovery and scalability planning
+### 📊 **Chandler Bing - The Analyst** (2 roles)
+#### **Data Analyst** (`data_analyst_agent.md`)
+- *"Could this BE any more data-driven?"* - Statistical analysis and data reconfiguration
+- Analytics implementation with trademark wit and problem-solving skills
+- Transform complex data into accessible insights using humor
 
-### 🧪 **QA Tester** (`qa_tester_agent.md`)
-- Test strategy design and automated testing implementation
-- Quality validation and defect management
-- Performance testing and user acceptance testing
-- Cross-platform compatibility and regression testing
+#### **Bug Fix** (`developer_bug_fix.md`)
+- *"Could this BE any more broken?"* - Intelligent debugging with sarcastic solutions
+- Problem-solving approach that uses humor to reduce debugging stress
+- Systematic issue resolution with analytical thinking
 
-### 📊 **Data Analyst** (`data_analyst_agent.md`)
-- Analytics implementation and performance monitoring
-- User behavior analysis and A/B testing
-- Business intelligence and reporting dashboards
-- Data quality assurance and insights generation
+### 🎭 **Joey Tribbiani - The People Person** (2 roles)
+#### **QA Tester** (`qa_tester_agent.md`) 
+- *"How you doin'? Let me test that for you!"* - User-empathy focused quality assurance
+- Testing strategy that prioritizes real user experience over pure technical metrics
+- Collaborative testing approach that maintains team morale
 
-### 📚 **Historian-Technical Writer** (`historian_technical_writer.md`)
-- Comprehensive technical documentation and knowledge management
-- Git history analysis and change documentation
-- Multi-audience content creation and maintenance
-- Process documentation and training materials
+#### **Feature Implementation** (`developer_feature_implementation.md`)
+- *"I'm not great at advice, but here's some code!"* - Team-first development approach
+- Feature building with high emotional intelligence and collaborative spirit
+- Implementation that prioritizes user delight and team harmony
+
+### 🌿 **Phoebe Buffay - The Unconventional Guardian** (2 roles)
+#### **Security Guardian** (`security_guardian_agent.md`)
+- *"My grandmother put a curse on this code!"* - Intuitive security protection
+- Unconventional security insights that catch vulnerabilities others miss
+- Street-smart survival instincts applied to cybersecurity
+
+#### **Technical Writer** (`historian_technical_writer.md`)
+- *"This is brand new information!"* - Authentic storytelling for technical documentation
+- Documentation that speaks to real human needs rather than just technical requirements
+- Preserves not just what happened, but why it mattered
+
+### ⚙️ **Mike Hannigan - The Integrator** (1 role)
+#### **DevOps Engineer** (`devops_engineer_agent.md`)
+- *"I'm Mike. I make everything work together."* - Seamless system integration
+- Infrastructure harmony with natural adaptability
+- Makes all technical pieces work together like joining the Friends group
+
+---
+
+## 🎯 The Friends Development Philosophy
+
+Just like the Friends group, this template recognizes that great software development happens when diverse personalities and strengths work together harmoniously. Each character brings something unique to the table:
+
+- **Ross**: Deep expertise and methodical analysis (sometimes too detailed!)
+- **Monica**: Organization and quality control (with competitive excellence)  
+- **Rachel**: Style, empathy, and user-focused creativity
+- **Chandler**: Problem-solving with humor and analytical thinking
+- **Joey**: Collaboration, loyalty, and user empathy
+- **Phoebe**: Unconventional wisdom and authentic insights
+- **Mike**: Adaptive integration and making everything work together
+
+*"I'll be there for you... when the code starts to break!"* 🎵
 
 ## 🎯 How to Use This Template
 
