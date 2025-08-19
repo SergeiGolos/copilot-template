@@ -27,106 +27,107 @@ This template provides a structured approach to software development by leveragi
 
 The repository implements an **Agentic Development Model** where different aspects of software development are handled by specialized agents, each with distinct capabilities and responsibilities:
 
-### Core Development Agents
+### USS Discovery Crew - Specialized Development Agents
 
-| Agent | Focus Area | Primary Responsibilities |
-|-------|-----------|-------------------------|
-| **Bootstrap Agent** | Repository Initialization | Project-specific agent customization, technology integration, grounding document processing |
-| **Architect-PM** | Strategy & Planning | Requirements analysis, system design, risk assessment, roadmap planning |
-| **Planner** | Project Coordination | Strategic project planning, resource coordination, sprint planning, dependency management |
-| **Design Spec Writer** | Technical Specifications | Technical design documentation, API specifications, system integration specs |
-| **User Story Writer** | Requirements Translation | Convert specs to user stories, implementation prioritization, backlog management |
-| **Developer** | Implementation | Feature development, bug fixes, code refactoring, technical implementation |
-| **Designer** | User Experience | UI/UX design, accessibility, responsive design, user interaction patterns |
-| **Security Guardian** | Cybersecurity | Security analysis, vulnerability assessment, compliance, threat modeling |
-| **DevOps Engineer** | Infrastructure | CI/CD pipelines, deployment automation, monitoring, infrastructure management |
-| **QA Tester** | Quality Assurance | Testing strategy, automated testing, bug detection, quality validation |
-| **Data Analyst** | Analytics & Insights | Performance analysis, user behavior analytics, A/B testing, reporting |
-| **Historian-Writer** | Documentation | Technical documentation, knowledge management, process documentation |
+| Character | Starfleet Role | Development Focus | Primary Responsibilities |
+|-----------|---------------|------------------|-------------------------|
+| **Bootstrap Agent** | *Special Operations* | Repository Initialization | Project-specific agent customization, technology integration, grounding document processing |
+| **Michael Burnham** | *Captain/Science Officer* | Strategy & Architecture | Requirements analysis, system design, risk assessment, strategic roadmap planning |
+| **Hugh Culber** | *Chief Medical Officer* | Project Health Coordination | Team wellness planning, resource coordination, sustainable development practices |
+| **Paul Stamets** | *Astromycologist/Engineer* | Technical Architecture | System design documentation, API specifications, mycelial network complexity management |
+| **Christopher Pike** | *Captain* | Strategic Leadership | Convert specs to user stories, inspiring implementation prioritization, mission planning |
+| **Sylvia Tilly** | *Science Officer/Instructor* | Feature Development | Enthusiastic implementation, mentorship-driven development, Academy-level precision |
+| **Jett Reno** | *Engineer* | Problem Resolution | Creative bug fixes, practical engineering solutions, system repair and innovation |
+| **Adira Tal** | *Engineer/Symbiont Host* | Code Evolution | Legacy modernization, technical debt reduction, multi-generational system integration |
+| **Keyla Detmer** | *Conn Officer* | User Experience Navigation | UI/UX design, user journey optimization, interface navigation with pilot precision |
+| **Ash Tyler** | *Security Chief* | Cybersecurity Intelligence | Security analysis, threat modeling, vulnerability assessment with tactical awareness |
+| **Gen Rhys** | *Operations Officer* | Infrastructure Operations | CI/CD pipelines, deployment coordination, systematic infrastructure management |
+| **Saru** | *First Officer* | Quality Assurance | Testing strategy with threat-detection precision, quality protocols, diplomatic process facilitation |
+| **Joann Owosekun** | *Communications Officer* | Data Analysis | Performance analytics, user behavior insights, signal processing from complex data streams |
+| **Philippa Georgiou** | *Former Captain/Mentor* | Knowledge Preservation | Technical documentation, institutional wisdom, comprehensive knowledge management |
 
 ## 📋 Issue Templates System
 
 Each agent has dedicated GitHub Issue templates that provide structured workflows and comprehensive requirements gathering:
 
-### � **Planner Agent** (`planner_agent.md`)
-- Strategic project coordination and execution planning
-- Resource planning and capacity management
-- Risk and dependency management with mitigation strategies
-- Sprint planning and agile/scrum coordination
+### 🖖 **Michael Burnham - The Catalyst** (`architect_product_manager.md`)
+- Strategic product vision and technical systems architecture
+- Balancing Vulcan logic with human intuition for optimal decisions
+- Risk-effort-impact assessment and stakeholder management  
+- Cross-system integration planning and requirements gathering
 
-### 📝 **Design Spec Writer Agent** (`design_spec_writer_agent.md`)
-- Technical design specifications and system documentation
-- API design documentation and interface contracts
-- Database schema design and integration specifications
-- Implementation guidelines and development standards
+### 🛡️ **Saru - The Statesman** (`qa_tester_agent.md`)
+- Quality assurance with Kelpien threat-detection precision
+- Comprehensive testing strategy and risk mitigation
+- Process facilitation and team impediment removal
+- Evolution from reactive to proactive quality engineering
 
-### 📚 **User Story Writer Agent** (`user_story_writer_agent.md`)
-- Convert design and technical specs into user stories
-- Implementation prioritization by complexity and business value
-- Epic and story mapping with dependency analysis
-- Backlog management and story refinement
+### 🌟 **Sylvia Tilly - The Prodigy** (`developer_feature_implementation.md`)
+- Feature development with Academy-level enthusiasm and precision
+- Rapid learning and collaborative growth mindset
+- Theoretical knowledge applied to practical implementation
+- Mentorship-driven development and knowledge sharing
 
-### �🎨 **Designer Agent** (`designer_agent.md`)
-- User experience design and modern UI/UX implementation
-- Accessibility compliance and responsive design
-- CSS implementation and design system maintenance
-- User flow analysis and optimization
+### 🔬 **Paul Stamets - The Architect** (`design_spec_writer_agent.md`)
+- Principal software architecture with mycelial network complexity
+- Technical specifications with protective expertise
+- System design patterns and integration protocols
+- Performance engineering and scalability blueprints
 
-### 👨‍💻 **Developer Agent** (3 specialized templates)
+### 🔗 **Adira Tal - The Integrator** (`developer_code_refactoring.md`)
+- Code refactoring with symbiotic wisdom of multiple lifetimes
+- Legacy system modernization and technical debt reduction
+- Platform engineering and full-stack integration
+- Harmonizing historical patterns with modern architecture
 
-#### **Feature Implementation** (`developer_feature_implementation.md`)
-- Complete feature development lifecycle
-- Technical requirements and performance specifications
-- Testing strategy and quality assurance
-- Security and accessibility implementation
+### 🛡️ **Ash Tyler - The Guardian** (`security_guardian_agent.md`)
+- Security intelligence with tactical awareness
+- Threat modeling using adversarial thinking patterns
+- Vulnerability assessment and incident response planning
+- Compliance enforcement and security education
 
-#### **Bug Fix** (`developer_bug_fix.md`)
-- Systematic bug investigation and resolution
-- Root cause analysis and impact assessment
-- Comprehensive testing and regression prevention
-- Performance and security validation
+### 🏥 **Hugh Culber - The Healer** (`planner_agent.md`)
+- Project planning with focus on team health and sustainability
+- Resource coordination and capacity management
+- Risk and dependency management with crew wellness consideration
+- Strategic execution planning with medical precision
 
-#### **Code Refactoring** (`developer_code_refactoring.md`)
-- Code quality improvement and technical debt reduction
-- Performance optimization and maintainability enhancement
-- Test-driven refactoring and validation
-- Architecture improvement and modernization
+### ⭐ **Christopher Pike - The Strategic Leader** (`user_story_writer_agent.md`)
+- User story creation with inspiring leadership vision
+- Requirements translation and implementation prioritization
+- Epic and story mapping with strategic direction
+- Backlog management that motivates and guides teams
 
-### 🏛️ **Architect-Product Manager** (`architect_product_manager.md`)
-- Strategic product vision and technical architecture
-- Requirements gathering and stakeholder management
-- Risk-effort-impact assessment
-- System design and integration planning
+### 🚀 **Keyla Detmer - The Navigator** (`designer_agent.md`)
+- User experience design with pilot's precision navigation
+- Interface design that guides users smoothly through systems
+- Accessibility compliance and responsive design patterns
+- User flow optimization with empathetic understanding
 
-### 🛡️ **Security Guardian** (`security_guardian_agent.md`)
-- Comprehensive security analysis and threat modeling
-- Vulnerability assessment and compliance auditing
-- Security architecture and incident response planning
-- Penetration testing and security validation
+### ⚙️ **Gen Rhys - The Operations Chief** (`devops_engineer_agent.md`)
+- Infrastructure management with tactical operations expertise
+- CI/CD pipeline design and deployment coordination
+- Monitoring and observability with systematic precision
+- Cloud resource management and automation workflows
 
-### 🚀 **DevOps Engineer** (`devops_engineer_agent.md`)
-- CI/CD pipeline design and infrastructure automation
-- Environment management and deployment strategies
-- Monitoring, observability, and performance optimization
-- Disaster recovery and scalability planning
+### 📡 **Joann Owosekun - The Communications Officer** (`data_analyst_agent.md`)
+- Data analysis with communications expertise precision
+- User behavior insights and performance metrics analysis
+- Analytics implementation and reporting dashboard creation
+- Signal processing from noise to actionable intelligence
 
-### 🧪 **QA Tester** (`qa_tester_agent.md`)
-- Test strategy design and automated testing implementation
-- Quality validation and defect management
-- Performance testing and user acceptance testing
-- Cross-platform compatibility and regression testing
+### 🔧 **Jett Reno - The Fixer** (`developer_bug_fix.md`)
+- Bug resolution with engineering ingenuity and practical solutions
+- Root cause analysis and creative problem-solving approaches
+- System repair using available resources and technical innovation
+- Direct, no-nonsense approach to complex technical challenges
 
-### 📊 **Data Analyst** (`data_analyst_agent.md`)
-- Analytics implementation and performance monitoring
-- User behavior analysis and A/B testing
-- Business intelligence and reporting dashboards
-- Data quality assurance and insights generation
+### 📚 **Philippa Georgiou - The Mentor** (`historian_technical_writer.md`)
+- Knowledge preservation with institutional wisdom and precision
+- Comprehensive technical documentation and legacy understanding
+- Git history analysis and evolutionary change documentation
+- Mentorship-focused communication for all technical audiences
 
-### 📚 **Historian-Technical Writer** (`historian_technical_writer.md`)
-- Comprehensive technical documentation and knowledge management
-- Git history analysis and change documentation
-- Multi-audience content creation and maintenance
-- Process documentation and training materials
 
 ## 🎯 How to Use This Template
 
@@ -151,23 +152,23 @@ cd your-project
 1. Use `000_agent.md` template to bootstrap and customize all agents for your project
 2. Validate that all agents now contain project-specific technology and context
 
-#### **Planning Phase** (Architect-PM → Planner → Design Spec Writer → User Story Writer)
-1. Create an issue using the `architect_product_manager.md` template for strategic planning
-2. Use `planner_agent.md` for project coordination and resource planning
-3. Apply `design_spec_writer_agent.md` for technical specifications
-4. Utilize `user_story_writer_agent.md` to convert specs into prioritized user stories
+#### **Planning Phase** (Burnham → Culber → Stamets → Pike)
+1. Create an issue using `architect_product_manager.md` (Michael Burnham - The Catalyst) for strategic planning
+2. Use `planner_agent.md` (Hugh Culber - The Healer) for project coordination and team health planning
+3. Apply `design_spec_writer_agent.md` (Paul Stamets - The Architect) for technical specifications
+4. Utilize `user_story_writer_agent.md` (Christopher Pike - The Strategic Leader) to convert specs into prioritized user stories
 5. Receive comprehensive system design, project roadmap, and implementation backlog
 
-#### **Implementation Phase** (Specialized Agents)
-1. **Design**: Use `designer_agent.md` for UI/UX requirements
-2. **Development**: Use appropriate developer template (`feature_implementation.md`, `bug_fix.md`, or `code_refactoring.md`)
-3. **Security**: Use `security_guardian_agent.md` for security analysis
-4. **Infrastructure**: Use `devops_engineer_agent.md` for deployment needs
-5. **Quality**: Use `qa_tester_agent.md` for testing strategy
-6. **Analytics**: Use `data_analyst_agent.md` for metrics and analysis
+#### **Implementation Phase** (Specialized Crew Members)
+1. **Design**: Use `designer_agent.md` (Keyla Detmer - The Navigator) for UI/UX requirements
+2. **Development**: Use appropriate developer template - `feature_implementation.md` (Sylvia Tilly - The Prodigy), `bug_fix.md` (Jett Reno - The Fixer), or `code_refactoring.md` (Adira Tal - The Integrator)
+3. **Security**: Use `security_guardian_agent.md` (Ash Tyler - The Guardian) for security analysis
+4. **Infrastructure**: Use `devops_engineer_agent.md` (Gen Rhys - The Operations Chief) for deployment needs
+5. **Quality**: Use `qa_tester_agent.md` (Saru - The Statesman) for testing strategy
+6. **Analytics**: Use `data_analyst_agent.md` (Joann Owosekun - The Communications Officer) for metrics and analysis
 
-#### **Documentation Phase** (Historian-Writer Agent)
-1. Use `historian_technical_writer.md` for comprehensive documentation
+#### **Documentation Phase** (The Mentor)
+1. Use `historian_technical_writer.md` (Philippa Georgiou - The Mentor) for comprehensive documentation
 2. Ensure knowledge preservation and decision context recording
 3. Create user guides, API documentation, and maintenance procedures
 
@@ -176,19 +177,19 @@ cd your-project
 - Cross-agent dependencies are clearly defined
 - Deliverables from each agent inform the work of others
 
-## 🔄 Agent Collaboration Matrix
+## 🔄 USS Discovery Crew Collaboration Matrix
 
-Each agent is designed to work collaboratively with others:
+Each crew member is designed to work collaboratively with others:
 
 ```mermaid
 graph TB
-    A[Architect-PM] --> B[Designer]
-    A --> C[Developer]
-    A --> D[Security Guardian]
-    A --> E[DevOps]
-    A --> F[QA Tester]
-    A --> G[Data Analyst]
-    A --> H[Historian-Writer]
+    A[Burnham<br/>Catalyst] --> B[Detmer<br/>Navigator]
+    A --> C[Tilly<br/>Prodigy]
+    A --> D[Tyler<br/>Guardian]
+    A --> E[Rhys<br/>Operations]
+    A --> F[Saru<br/>Statesman]
+    A --> G[Owosekun<br/>Communications]
+    A --> H[Georgiou<br/>Mentor]
     
     B --> C
     D --> C
@@ -196,7 +197,13 @@ graph TB
     F --> C
     G --> H
     
-    H --> All[All Agents]
+    H --> All[All Crew]
+    
+    Stamets[Stamets<br/>Architect] --> A
+    Pike[Pike<br/>Leader] --> C
+    Culber[Culber<br/>Healer] --> F
+    Reno[Reno<br/>Fixer] --> C
+    Adira[Adira<br/>Integrator] --> C
 ```
 
 ## 📊 Success Metrics & Quality Gates
@@ -250,14 +257,14 @@ graph TB
 ## 🚀 Getting Started Checklist
 
 - [ ] **Create grounding documents** in `.github/Grounding/` with your project's technology stack
-- [ ] **Run Bootstrap Agent** using `000_agent.md` to customize all agents for your project
-- [ ] **Review all issue templates** and understand each agent's role
-- [ ] **Validate agent customizations** ensure they reflect your project specifics
-- [ ] **Set up project labels** to match agent categories
+- [ ] **Run Bootstrap Agent** using `000_agent.md` to customize all crew templates for your mission
+- [ ] **Review all issue templates** and understand each Discovery crew member's role
+- [ ] **Validate crew customizations** ensure they reflect your project specifics  
+- [ ] **Set up project labels** to match crew member categories
 - [ ] **Configure branch protection** and review requirements
-- [ ] **Create your first Architect-PM issue** to define project scope
-- [ ] **Establish team guidelines** for using the agent system
-- [ ] **Set up monitoring and analytics** for tracking success metrics
+- [ ] **Create your first Burnham (Catalyst) issue** to define project scope and strategic architecture
+- [ ] **Establish team guidelines** for using the Discovery crew system
+- [ ] **Set up monitoring and analytics** (Owosekun-style) for tracking success metrics
 
 ## 🤝 Contributing to the Template
 
@@ -277,17 +284,17 @@ This template is designed to evolve with best practices in agentic development:
 
 ## 🏷️ Version Information
 
-**Repository Version**: 1.0.0  
-**Last Updated**: August 18, 2025  
-**Template Maintenance**: Historian-Technical Writer Agent  
-**Template Evolution**: Tracked through git history and documentation updates
+**Repository Version**: 2.0.0 - Discovery Edition  
+**Last Updated**: December 2024  
+**Template Maintenance**: Philippa Georgiou - The Mentor (Historian-Technical Writer Agent)  
+**Template Evolution**: Tracked through git history and comprehensive documentation updates
 
----
+----
 
-**Ready to start your agentic development journey?** 
+**Ready to start your Discovery-themed agentic development journey?** 
 
 1. **First**: Add your project's technology stack to `.github/Grounding/` directory
-2. **Second**: Create a Bootstrap Agent issue using `000_agent.md` to customize all agents
-3. **Third**: Begin with creating your first issue using the `architect_product_manager.md` template to define your project's scope and technical architecture.
+2. **Second**: Create a Bootstrap Agent issue using `000_agent.md` to customize all crew templates
+3. **Third**: Begin with creating your first issue using the `architect_product_manager.md` template (Michael Burnham - The Catalyst) to define your project's scope and technical architecture.
 
-*This README was created by the Historian-Technical Writer Agent as part of the repository documentation and knowledge management responsibilities.*
+*This README was created by Philippa Georgiou - The Mentor as part of institutional knowledge preservation and comprehensive documentation responsibilities.*
