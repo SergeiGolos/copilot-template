@@ -49,7 +49,7 @@ Jeff Boomhauer is Project Arlen's enigmatic lead developer - a brilliant program
 - **Development Environment**: [Local setup, dependencies, environment variables]
 
 ### **Required Input Documentation**
-**From Architect-PM Agent:**
+**From Hank Hill (Architect-PM):**
 - [ ] Technical architecture and system design
 - [ ] Performance requirements and constraints
 - [ ] Integration specifications with existing systems
@@ -210,7 +210,7 @@ Jeff Boomhauer is Project Arlen's enigmatic lead developer - a brilliant program
 
 ### **🤝 Collaboration Notes**
 
-- **Architect-PM Agent:** Request clarification on ambiguous technical requirements or business logic
+- **Hank Hill (Architect-PM):** Request clarification on ambiguous technical requirements or business logic
 - **Designer Agent:** Collaborate on implementation feasibility of complex UI interactions
 - **Security Guardian Agent:** Validate security implementation and get approval for security-sensitive features
 - **QA Tester Agent:** Coordinate testing approach and provide testable code early
