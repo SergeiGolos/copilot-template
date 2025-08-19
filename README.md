@@ -1,132 +1,133 @@
-# Copilot Template - Agentic AI Dev## 📋 Issue Templates System
+# Project Arlen - King of the Hill Themed Development Template
 
-Each agent has dedicated GitHub Issue templates that provide structured workflows and comprehensive requirements gathering:
+**A comprehensive GitHub repository template featuring the residents of Arlen, Texas as specialized development agents, bringing their unique personalities and expertise to modern software development workflows.**
 
-### 🔧 **Bootstrap Agent** (`000_agent.md`)
-- **SPECIAL ROLE**: Repository initialization and agent customization
-- Project-specific technology integration and context application
-- Grounding document processing from `.github/Grounding/` directory
-- Systematic update of ALL agent templates with project-specific information
-- Technology stack analysis and agent template transformation
+## 🏠 Welcome to Project Arlen
 
-### 🎯 **Planner Agent** (`planner_agent.md`)ent Starter
+"I tell you what - this here's a template that combines good old-fashioned Texas work ethic with modern development practices. Each resident of Rainey Street brings their own special talents to building quality software, I tell you what."
 
-**A comprehensive GitHub repository template designed for clean, organized development using specialized AI agents to break down complex development work into focused, manageable tasks.**
+This template transforms the traditional software development workflow by assigning specialized roles to the beloved characters from King of the Hill. Each character brings their authentic personality while maintaining professional development standards and comprehensive technical capabilities.
 
 ## 🎯 Repository Purpose
 
-This template provides a structured approach to software development by leveraging specialized AI "agents" (roles) that can be targeted through GitHub Issues. Each agent represents a specific expertise area and responsibility within the development lifecycle, enabling:
+Project Arlen provides a character-driven approach to software development by leveraging the personalities and expertise of Arlen, Texas residents. Each character brings their unique perspective while maintaining professional development standards:
 
-- **Clear separation of concerns** across different development disciplines
-- **Targeted task assignment** to appropriate specialists
-- **Comprehensive documentation** and knowledge preservation
-- **Structured workflows** for complex development projects
-- **Collaborative development** with well-defined roles and responsibilities
+- **Character-driven development** with authentic personalities and proven technical expertise
+- **Clear role separation** based on natural character strengths and abilities  
+- **Comprehensive workflows** that combine character flavor with industry best practices
+- **Collaborative teamwork** reflecting the close-knit community of Rainey Street
+- **Professional quality** with lighthearted, office-appropriate character touches
 
-## 🏗️ Architecture Overview
+## 🏗️ The Arlen Development Team
 
-The repository implements an **Agentic Development Model** where different aspects of software development are handled by specialized agents, each with distinct capabilities and responsibilities:
+Meet your development team - the residents of Rainey Street, each bringing their unique talents to building quality software:
 
-### Core Development Agents
+### Core Development Team
 
-| Agent | Focus Area | Primary Responsibilities |
-|-------|-----------|-------------------------|
-| **Bootstrap Agent** | Repository Initialization | Project-specific agent customization, technology integration, grounding document processing |
-| **Architect-PM** | Strategy & Planning | Requirements analysis, system design, risk assessment, roadmap planning |
-| **Planner** | Project Coordination | Strategic project planning, resource coordination, sprint planning, dependency management |
-| **Design Spec Writer** | Technical Specifications | Technical design documentation, API specifications, system integration specs |
-| **User Story Writer** | Requirements Translation | Convert specs to user stories, implementation prioritization, backlog management |
-| **Developer** | Implementation | Feature development, bug fixes, code refactoring, technical implementation |
-| **Designer** | User Experience | UI/UX design, accessibility, responsive design, user interaction patterns |
-| **Security Guardian** | Cybersecurity | Security analysis, vulnerability assessment, compliance, threat modeling |
-| **DevOps Engineer** | Infrastructure | CI/CD pipelines, deployment automation, monitoring, infrastructure management |
-| **QA Tester** | Quality Assurance | Testing strategy, automated testing, bug detection, quality validation |
-| **Data Analyst** | Analytics & Insights | Performance analysis, user behavior analytics, A/B testing, reporting |
-| **Historian-Writer** | Documentation | Technical documentation, knowledge management, process documentation |
+| Character | Role | Expertise | Personality Traits |
+|-----------|------|-----------|-------------------|
+| **Hank Hill** | Project Architect & Planner | System architecture, process management | Methodical, reliable, quality-focused, process-driven |
+| **Peggy Hill** | Design Spec Writer | Technical specifications, documentation | Ambitious, detail-oriented, confident (sometimes overly so) |
+| **Bobby Hill** | UX Designer & User Advocate | User experience, empathetic design | Creative, user-focused, emotionally intelligent |
+| **Dale Gribble** | QA & Security Specialist | Quality assurance, security testing | Paranoid (in a good way), thorough, finds hidden issues |
+| **Bill Dauterive** | DevOps & Legacy Systems | Infrastructure, system maintenance | Service-oriented, methodical, excellent at maintenance |
+| **Jeff Boomhauer** | Lead Developer | Feature development, complex problem-solving | Brilliant coder, fast-talking genius, creates elegant solutions |
+| **Kahn Souphanousinphone** | Data Analyst | Analytics, competitive analysis | Metrics-driven, competitive, business intelligence focused |
+| **Luanne Platter** | Junior Developer | Code refactoring, system improvement | High potential, eager to learn, hidden technical aptitude |
+| **Cotton Hill** | Documentation Overseer | Technical writing, institutional memory | Experienced, demanding high standards, historical context |
 
-## 📋 Issue Templates System
+## 📋 The Rainey Street Issue Templates
 
-Each agent has dedicated GitHub Issue templates that provide structured workflows and comprehensive requirements gathering:
+Each resident of Arlen has their own specialized GitHub Issue template, combining their authentic personality with comprehensive technical workflows:
 
-### � **Planner Agent** (`planner_agent.md`)
-- Strategic project coordination and execution planning
+### 🔧 **Bootstrap Agent** (`000_agent.md`)
+- **SPECIAL ROLE**: Repository initialization and agent customization  
+- Project-specific technology integration and context application
+- Grounding document processing from `.github/Grounding/` directory
+- Systematic update of ALL agent templates with project-specific information
+- *Note: This remains technical - even in Arlen, someone has to handle the infrastructure!*
+
+### 🏠 **Hank Hill - Project Architect** (`architect_product_manager.md`)
+- System architecture with propane-precision quality standards
+- Strategic planning and process management 
+- Requirements analysis and stakeholder communication
+- Risk assessment with the vigilance of a propane safety inspector
+
+### 📋 **Hank Hill - Project Planner** (`planner_agent.md`) 
+- Project coordination with lawn-maintenance-level organization
 - Resource planning and capacity management
 - Risk and dependency management with mitigation strategies
-- Sprint planning and agile/scrum coordination
+- Sprint planning with methodical attention to detail
 
-### 📝 **Design Spec Writer Agent** (`design_spec_writer_agent.md`)
-- Technical design specifications and system documentation
+### 📝 **Peggy Hill - Design Spec Writer** (`design_spec_writer_agent.md`)
+- Technical specifications with three-time-award-winning thoroughness
 - API design documentation and interface contracts
-- Database schema design and integration specifications
 - Implementation guidelines and development standards
+- Documentation with substitute-teacher-level attention to detail
 
-### 📚 **User Story Writer Agent** (`user_story_writer_agent.md`)
-- Convert design and technical specs into user stories
-- Implementation prioritization by complexity and business value
-- Epic and story mapping with dependency analysis
-- Backlog management and story refinement
+### 👦 **Bobby Hill - User Advocate** (`user_story_writer_agent.md`)
+- User story creation with empathetic user understanding
+- Implementation prioritization by user impact and business value  
+- Epic and story mapping focused on user feelings and experiences
+- Backlog management that keeps users happy
 
-### �🎨 **Designer Agent** (`designer_agent.md`)
-- User experience design and modern UI/UX implementation
+### 🎨 **Bobby Hill - UX Designer** (`designer_agent.md`)
+- User experience design with creative, unconventional thinking
 - Accessibility compliance and responsive design
-- CSS implementation and design system maintenance
-- User flow analysis and optimization
+- Interface design that makes users feel comfortable and engaged
+- User flow optimization with emotional intelligence
 
-### 👨‍💻 **Developer Agent** (3 specialized templates)
+### 👨‍💻 **The Development Specialists** (3 specialized templates)
 
-#### **Feature Implementation** (`developer_feature_implementation.md`)
-- Complete feature development lifecycle
-- Technical requirements and performance specifications
-- Testing strategy and quality assurance
-- Security and accessibility implementation
+#### **Jeff Boomhauer - Lead Developer** (`developer_feature_implementation.md`)
+- Feature development with fast-talking genius-level problem solving
+- Complex technical implementation that others can't understand but works perfectly
+- Elegant, efficient code architecture 
+- Solutions that require Hank to translate but are surprisingly brilliant
 
-#### **Bug Fix** (`developer_bug_fix.md`)
-- Systematic bug investigation and resolution
-- Root cause analysis and impact assessment
-- Comprehensive testing and regression prevention
-- Performance and security validation
+#### **Bill Dauterive - Bug Hunter** (`developer_bug_fix.md`)
+- Systematic bug investigation with Army-trained methodical approach
+- Legacy system maintenance and repair
+- Dedicated service to keeping systems running smoothly
+- Root cause analysis with patient, thorough debugging
 
-#### **Code Refactoring** (`developer_code_refactoring.md`)
-- Code quality improvement and technical debt reduction
-- Performance optimization and maintainability enhancement
-- Test-driven refactoring and validation
-- Architecture improvement and modernization
+#### **Luanne Platter - Code Improver** (`developer_code_refactoring.md`)
+- Code refactoring with hidden mechanical aptitude applied to software
+- System improvement with eager-to-learn enthusiasm
+- Technical debt reduction with careful, supervised guidance
+- Surprising insights when given proper mentorship
 
-### 🏛️ **Architect-Product Manager** (`architect_product_manager.md`)
-- Strategic product vision and technical architecture
-- Requirements gathering and stakeholder management
-- Risk-effort-impact assessment
-- System design and integration planning
+### 🛡️ **Dale Gribble - Security Specialist** (2 security templates)
 
-### 🛡️ **Security Guardian** (`security_guardian_agent.md`)
-- Comprehensive security analysis and threat modeling
-- Vulnerability assessment and compliance auditing
-- Security architecture and incident response planning
-- Penetration testing and security validation
+#### **Dale Gribble - QA Tester** (`qa_tester_agent.md`)
+- Quality assurance with paranoid-level thoroughness
+- Bug detection using conspiracy-theory investigation skills
+- Testing strategy that finds vulnerabilities others miss
+- Pocket sand backup plans for when testing fails
 
-### 🚀 **DevOps Engineer** (`devops_engineer_agent.md`)
-- CI/CD pipeline design and infrastructure automation
-- Environment management and deployment strategies
-- Monitoring, observability, and performance optimization
-- Disaster recovery and scalability planning
+#### **Dale Gribble - Security Guardian** (`security_guardian_agent.md`)  
+- Security analysis with government-surveillance-level paranoia
+- Threat modeling and vulnerability assessment
+- Penetration testing using unconventional tactics
+- External threat detection (but watch out for insider blind spots)
 
-### 🧪 **QA Tester** (`qa_tester_agent.md`)
-- Test strategy design and automated testing implementation
-- Quality validation and defect management
-- Performance testing and user acceptance testing
-- Cross-platform compatibility and regression testing
+### 🚀 **Bill Dauterive - DevOps Engineer** (`devops_engineer_agent.md`)
+- Infrastructure management with Army-precision attention to detail
+- CI/CD pipeline setup and maintenance 
+- Server and deployment care with the dedication of someone who finds purpose in service
+- Monitoring and disaster recovery planning with military-trained reliability
 
-### 📊 **Data Analyst** (`data_analyst_agent.md`)
-- Analytics implementation and performance monitoring
-- User behavior analysis and A/B testing
-- Business intelligence and reporting dashboards
-- Data quality assurance and insights generation
+### 📊 **Kahn Souphanousinphone - Data Analyst** (`data_analyst_agent.md`)
+- Analytics implementation with competitive drive to beat Ted Wassanasong
+- Performance monitoring and metrics analysis
+- Business intelligence reporting with superiority complex
+- A/B testing and competitive analysis with obsessive attention to being the best
 
-### 📚 **Historian-Technical Writer** (`historian_technical_writer.md`)
-- Comprehensive technical documentation and knowledge management
-- Git history analysis and change documentation
-- Multi-audience content creation and maintenance
-- Process documentation and training materials
+### 📚 **Cotton Hill - Documentation Overseer** (`historian_technical_writer.md`)
+- Technical documentation with war-veteran-level experience and attention to detail
+- Knowledge management and institutional memory preservation
+- Process documentation with demanding standards
+- Historical context and decision recording with "I killed fitty men" level authority
 
 ## 🎯 How to Use This Template
 

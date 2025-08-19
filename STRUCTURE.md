@@ -1,23 +1,23 @@
-# Repository Structure
+# Project Arlen Repository Structure
 
 ```
-copilot-template/
+project-arlen/
 ├── .github/
 │   ├── ISSUE_TEMPLATE/
 │   │   ├── 000_agent.md                          # BOOTSTRAP: Repository initialization & agent customization
-│   │   ├── architect_product_manager.md          # Strategic planning & system architecture
-│   │   ├── planner_agent.md                      # Project coordination & execution planning
-│   │   ├── design_spec_writer_agent.md           # Technical design specifications
-│   │   ├── user_story_writer_agent.md            # User story creation & prioritization
-│   │   ├── data_analyst_agent.md                 # Analytics & performance insights
-│   │   ├── designer_agent.md                     # UI/UX design & user experience
-│   │   ├── developer_bug_fix.md                  # Bug investigation & resolution
-│   │   ├── developer_code_refactoring.md         # Code quality & technical debt
-│   │   ├── developer_feature_implementation.md   # New feature development
-│   │   ├── devops_engineer_agent.md              # Infrastructure & deployment
-│   │   ├── historian_technical_writer.md         # Documentation & knowledge management
-│   │   ├── qa_tester_agent.md                    # Quality assurance & testing
-│   │   └── security_guardian_agent.md            # Security analysis & compliance
+│   │   ├── architect_product_manager.md          # Hank Hill - Project Architect & Manager 
+│   │   ├── planner_agent.md                      # Hank Hill - Project Planner & Coordinator
+│   │   ├── design_spec_writer_agent.md           # Peggy Hill - Technical Spec Writer
+│   │   ├── user_story_writer_agent.md            # Bobby Hill - User Story Advocate
+│   │   ├── data_analyst_agent.md                 # Kahn Souphanousinphone - Data Analyst
+│   │   ├── designer_agent.md                     # Bobby Hill - UX Designer
+│   │   ├── developer_bug_fix.md                  # Bill Dauterive - Bug Fix Specialist
+│   │   ├── developer_code_refactoring.md         # Luanne Platter - Code Improvement
+│   │   ├── developer_feature_implementation.md   # Jeff Boomhauer - Lead Developer
+│   │   ├── devops_engineer_agent.md              # Bill Dauterive - DevOps Engineer
+│   │   ├── historian_technical_writer.md         # Cotton Hill - Documentation Overseer
+│   │   ├── qa_tester_agent.md                    # Dale Gribble - QA Specialist
+│   │   └── security_guardian_agent.md            # Dale Gribble - Security Guardian
 │   └── Grounding/                                 # Project-specific context documents
 │       ├── technology.md                         # Technology stack specifications
 │       ├── architecture.md                       # System architecture context
@@ -45,29 +45,33 @@ Each agent template is designed around the principle of **specialized expertise 
 - **Success criteria** and measurement frameworks
 - **Request information checklists** for efficient requirement gathering
 
-### Template Categories
+### Character Categories
 
 #### **Bootstrap & Meta Agents**
-- **Bootstrap Agent (000)**: Repository initialization, agent customization, technology integration
+- **Bootstrap Agent (000)**: Repository initialization, agent customization, technology integration *(Remains technical - even Arlen needs proper infrastructure!)*
 
-#### **Strategic & Planning Agents**
-- **Architect-Product Manager**: Bridge between business needs and technical implementation
-- **Planner**: Project coordination, resource planning, and execution management
-- **Design Spec Writer**: Technical specifications and system documentation
-- **User Story Writer**: Requirements translation and implementation prioritization
+#### **Strategic & Planning Leadership**
+- **Hank Hill (Architect-PM)**: System architecture and strategic planning with methodical precision
+- **Hank Hill (Planner)**: Project coordination with lawn-maintenance-level organization  
+- **Peggy Hill (Design Spec Writer)**: Technical specifications with substitute-teacher thoroughness
 
-#### **Implementation Agents**
-- **Developer (3 specializations)**: Feature development, bug fixing, code refactoring
-- **Designer**: User experience and interface design
-- **DevOps Engineer**: Infrastructure and deployment automation
+#### **User-Focused Development**
+- **Bobby Hill (Designer)**: User experience design with creative empathy
+- **Bobby Hill (User Story Writer)**: Requirements translation focused on user feelings
 
-#### **Quality & Security Agents**
-- **QA Tester**: Comprehensive testing and quality assurance
-- **Security Guardian**: Security analysis and threat mitigation
+#### **Implementation Specialists**
+- **Jeff Boomhauer (Lead Developer)**: Feature development with fast-talking genius problem-solving
+- **Bill Dauterive (Bug Fix)**: Legacy system maintenance with Army-trained dedication
+- **Luanne Platter (Code Refactoring)**: Code improvement with hidden mechanical aptitude
 
-#### **Analysis & Documentation Agents**
-- **Data Analyst**: Performance monitoring and user behavior analysis
-- **Historian-Technical Writer**: Documentation and knowledge management
+#### **Quality & Security Vigilance**  
+- **Dale Gribble (QA Tester)**: Quality assurance with conspiracy-theory-level thoroughness
+- **Dale Gribble (Security Guardian)**: Security analysis with paranoid vigilance
+- **Bill Dauterive (DevOps)**: Infrastructure management with service-oriented reliability
+
+#### **Analysis & Documentation Authority**
+- **Kahn Souphanousinphone (Data Analyst)**: Analytics with competitive drive for superiority
+- **Cotton Hill (Documentation)**: Technical writing with war-veteran-level authority
 
 ## Usage Patterns
 
