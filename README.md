@@ -1,17 +1,26 @@
-# Copilot Template - Agentic AI Dev## 📋 Issue Templates System
+# USS Enterprise Development Template - Strange New Worlds
 
-Each agent has dedicated GitHub Issue templates that provide structured workflows and comprehensive requirements gathering:
+**"To explore strange new worlds, to seek out new life and new technologies, to boldly code where no team has gone before."**
+
+A comprehensive GitHub repository template inspired by the crew of Star Trek: Strange New Worlds, designed for clean, organized development using specialized character agents that break down complex development work into focused, manageable missions.
+
+## 🚀 **Mission Overview**
+
+Welcome aboard the USS Enterprise Development Team! This template transforms traditional software development roles into character-driven agents, each bringing unique personality traits and specialized expertise from the Star Trek universe. Every character maintains their authentic background while serving modern development needs.
+
+### 🖖 **The Enterprise Philosophy**
+*"The best leaders are those who serve others."* - Captain Pike
+
+Our agentic development model mirrors the Enterprise's command structure: specialized officers working together under empathetic leadership, systematic protocols, and a shared mission to explore new technological frontiers while maintaining the highest standards of excellence.
+
+## 📋 **The Bridge Crew Templates**
 
 ### 🔧 **Bootstrap Agent** (`000_agent.md`)
-- **SPECIAL ROLE**: Repository initialization and agent customization
+- **SPECIAL ROLE**: Repository initialization and agent customization  
 - Project-specific technology integration and context application
 - Grounding document processing from `.github/Grounding/` directory
 - Systematic update of ALL agent templates with project-specific information
 - Technology stack analysis and agent template transformation
-
-### 🎯 **Planner Agent** (`planner_agent.md`)ent Starter
-
-**A comprehensive GitHub repository template designed for clean, organized development using specialized AI agents to break down complex development work into focused, manageable tasks.**
 
 ## 🎯 Repository Purpose
 
@@ -46,87 +55,89 @@ The repository implements an **Agentic Development Model** where different aspec
 
 ## 📋 Issue Templates System
 
-Each agent has dedicated GitHub Issue templates that provide structured workflows and comprehensive requirements gathering:
+Each agent is represented by a specialized Star Trek: Strange New Worlds character, bringing their unique personality and expertise to development challenges:
 
-### � **Planner Agent** (`planner_agent.md`)
-- Strategic project coordination and execution planning
-- Resource planning and capacity management
-- Risk and dependency management with mitigation strategies
-- Sprint planning and agile/scrum coordination
+## 🚀 **The Enterprise Development Team**
 
-### 📝 **Design Spec Writer Agent** (`design_spec_writer_agent.md`)
+*"To explore strange new worlds, to seek out new life and new civilizations, to boldly go where no team has gone before."*
+
+### 👨‍🏅 **Captain Christopher Pike** (`pike_captain.md`)
+*The Empathetic Leader & Project Facilitator*
+- Mission planning and strategic project coordination
+- Crew morale management and obstacle removal
+- Risk navigation and team development
+- Stakeholder diplomacy and transparent progress tracking
+
+### 👩‍💼 **Commander Una Chin-Riley (Number One)** (`una_number_one.md`)
+*The Systems Architect & Operational Excellence Guardian*
+- Technical blueprint creation and standards enforcement
+- System integration planning and quality assurance
+- Process documentation and risk mitigation
+- Architectural leadership and best practices
+
+### 🖖 **Lieutenant Spock** (`spock_science_officer.md` & `spock_logic_debugging.md`)
+*The Logic Engine & Master of Algorithms*
+- **Science Officer**: Complex backend development and systematic analysis
+- **Debug Specialist**: Logical problem resolution and systematic investigation
+- Data processing, algorithm design, and methodical troubleshooting
+
+### 📡 **Ensign Nyota Uhura** (`uhura_communications.md`)
+*The Communications Hub & User Experience Translator*
+- UI/UX design and information architecture
+- User communication flows and interface design
+- Experience translation and accessibility compliance
+- Bridge builder between technical systems and human understanding
+
+### 💉 **Nurse Christine Chapel** (`chapel_head_nurse.md`)
+*The Creative Innovator & Systems Healer*
+- DevOps innovation and creative automation
+- System integration and infrastructure healing
+- Rapid prototyping and unconventional solutions
+- CI/CD pipeline design with creative problem-solving
+
+### 🛡️ **Lieutenant La'an Noonien-Singh** (`laan_security_chief.md` & `laan_quality_assurance.md`)
+*The Threat Analyst & System Validator*
+- **Security Chief**: Comprehensive threat analysis and vulnerability assessment
+- **QA Specialist**: Systematic testing and quality validation
+- Risk prevention, compliance auditing, and failure point analysis
+
+### 🚁 **Lieutenant Erica Ortegas** (`ortegas_helm_officer.md`)
+*The Execution Specialist & Interface Master*
+- Front-end development and performance optimization
+- Precise implementation and interface excellence
+- Code refactoring and execution mastery
+- Complex user interaction implementation
+
+### 👨‍⚕️ **Dr. Joseph M'Benga** (`mbenga_chief_medical_officer.md`)
+*The User Advocate & Requirements Healer*
+- User story creation and requirements advocacy
+- Patient-centered (user-centered) design principles
+- Stakeholder needs translation and compassionate requirements gathering
+- Product ownership with focus on user well-being
+
+## 🛠️ **Specialized Support Templates**
+
+For specific technical needs that require specialized expertise:
+
+### 📊 **Data Analyst** (`data_analyst_agent.md`)
+- Analytics implementation and performance monitoring
+- User behavior analysis and A/B testing  
+- Business intelligence and reporting dashboards
+- Data quality assurance and insights generation
+
+### 📝 **Design Spec Writer** (`design_spec_writer_agent.md`)
 - Technical design specifications and system documentation
 - API design documentation and interface contracts
 - Database schema design and integration specifications
 - Implementation guidelines and development standards
-
-### 📚 **User Story Writer Agent** (`user_story_writer_agent.md`)
-- Convert design and technical specs into user stories
-- Implementation prioritization by complexity and business value
-- Epic and story mapping with dependency analysis
-- Backlog management and story refinement
-
-### �🎨 **Designer Agent** (`designer_agent.md`)
-- User experience design and modern UI/UX implementation
-- Accessibility compliance and responsive design
-- CSS implementation and design system maintenance
-- User flow analysis and optimization
-
-### 👨‍💻 **Developer Agent** (3 specialized templates)
-
-#### **Feature Implementation** (`developer_feature_implementation.md`)
-- Complete feature development lifecycle
-- Technical requirements and performance specifications
-- Testing strategy and quality assurance
-- Security and accessibility implementation
-
-#### **Bug Fix** (`developer_bug_fix.md`)
-- Systematic bug investigation and resolution
-- Root cause analysis and impact assessment
-- Comprehensive testing and regression prevention
-- Performance and security validation
-
-#### **Code Refactoring** (`developer_code_refactoring.md`)
-- Code quality improvement and technical debt reduction
-- Performance optimization and maintainability enhancement
-- Test-driven refactoring and validation
-- Architecture improvement and modernization
-
-### 🏛️ **Architect-Product Manager** (`architect_product_manager.md`)
-- Strategic product vision and technical architecture
-- Requirements gathering and stakeholder management
-- Risk-effort-impact assessment
-- System design and integration planning
-
-### 🛡️ **Security Guardian** (`security_guardian_agent.md`)
-- Comprehensive security analysis and threat modeling
-- Vulnerability assessment and compliance auditing
-- Security architecture and incident response planning
-- Penetration testing and security validation
-
-### 🚀 **DevOps Engineer** (`devops_engineer_agent.md`)
-- CI/CD pipeline design and infrastructure automation
-- Environment management and deployment strategies
-- Monitoring, observability, and performance optimization
-- Disaster recovery and scalability planning
-
-### 🧪 **QA Tester** (`qa_tester_agent.md`)
-- Test strategy design and automated testing implementation
-- Quality validation and defect management
-- Performance testing and user acceptance testing
-- Cross-platform compatibility and regression testing
-
-### 📊 **Data Analyst** (`data_analyst_agent.md`)
-- Analytics implementation and performance monitoring
-- User behavior analysis and A/B testing
-- Business intelligence and reporting dashboards
-- Data quality assurance and insights generation
 
 ### 📚 **Historian-Technical Writer** (`historian_technical_writer.md`)
 - Comprehensive technical documentation and knowledge management
 - Git history analysis and change documentation
 - Multi-audience content creation and maintenance
 - Process documentation and training materials
+
+---
 
 ## 🎯 How to Use This Template
 
@@ -151,22 +162,24 @@ cd your-project
 1. Use `000_agent.md` template to bootstrap and customize all agents for your project
 2. Validate that all agents now contain project-specific technology and context
 
-#### **Planning Phase** (Architect-PM → Planner → Design Spec Writer → User Story Writer)
-1. Create an issue using the `architect_product_manager.md` template for strategic planning
-2. Use `planner_agent.md` for project coordination and resource planning
-3. Apply `design_spec_writer_agent.md` for technical specifications
-4. Utilize `user_story_writer_agent.md` to convert specs into prioritized user stories
-5. Receive comprehensive system design, project roadmap, and implementation backlog
+#### **Planning Phase** (Strategic Leadership)
+1. Create an issue using `una_number_one.md` template for technical architecture and strategic planning
+2. Use `pike_captain.md` for project coordination, resource planning, and team leadership
+3. Apply `design_spec_writer_agent.md` for technical specifications (if needed for complex systems)
+4. Utilize `mbenga_chief_medical_officer.md` to convert specs into user-centered stories
 
-#### **Implementation Phase** (Specialized Agents)
-1. **Design**: Use `designer_agent.md` for UI/UX requirements
-2. **Development**: Use appropriate developer template (`feature_implementation.md`, `bug_fix.md`, or `code_refactoring.md`)
-3. **Security**: Use `security_guardian_agent.md` for security analysis
-4. **Infrastructure**: Use `devops_engineer_agent.md` for deployment needs
-5. **Quality**: Use `qa_tester_agent.md` for testing strategy
-6. **Analytics**: Use `data_analyst_agent.md` for metrics and analysis
+#### **Implementation Phase** (Specialized Crew Members)
+1. **Design**: Use `uhura_communications.md` for UI/UX requirements and user experience design
+2. **Development**: Choose the appropriate Spock specialization:
+   - `spock_science_officer.md` for new feature development and complex backend work
+   - `spock_logic_debugging.md` for systematic bug investigation and resolution
+3. **Frontend**: Use `ortegas_helm_officer.md` for interface optimization and front-end excellence
+4. **Security**: Use `laan_security_chief.md` for security analysis and threat modeling
+5. **Infrastructure**: Use `chapel_head_nurse.md` for DevOps innovation and system integration
+6. **Quality**: Use `laan_quality_assurance.md` for comprehensive testing and validation
+7. **Analytics**: Use `data_analyst_agent.md` for metrics and performance analysis
 
-#### **Documentation Phase** (Historian-Writer Agent)
+#### **Documentation Phase** (Knowledge Preservation)
 1. Use `historian_technical_writer.md` for comprehensive documentation
 2. Ensure knowledge preservation and decision context recording
 3. Create user guides, API documentation, and maintenance procedures
