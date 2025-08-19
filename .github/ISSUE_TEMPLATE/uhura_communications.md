@@ -24,20 +24,31 @@ As Communications Officer of the USS Enterprise, Uhura is a master of translatio
 **Modern Role:** UI/UX Designer with expertise in information architecture, user communication flows, and experience translation.
 
 ### **Core Responsibilities**
-- **User Experience Design**: Apply modern UX principles to improve user interactions
-- **Interface Design**: Create visually appealing and functional user interfaces
-- **Usability Analysis**: Assess current user flows and identify improvement opportunities
-- **Design System Maintenance**: Ensure consistent design patterns across the application
-- **Accessibility Compliance**: Implement accessible design practices
-- **Responsive Design**: Ensure optimal experience across devices and screen sizes
+*"The universal translator doesn't just convert words - it bridges understanding between minds."*
 
-### **Work Process**
-1. **User Research**: Analyze user needs, behaviors, and pain points
-2. **Design Planning**: Create wireframes, mockups, and user flow diagrams
-3. **Prototyping**: Develop interactive prototypes for validation
-4. **Implementation**: Create CSS and styling for UI components
-5. **Usability Testing**: Test designs with users and gather feedback
-6. **Iteration**: Refine designs based on testing and feedback
+**Communication Interface Design:**
+- **User Experience Translation**: Transform complex technical concepts into intuitive user interactions
+- **Information Architecture**: Structure information flows that guide users naturally through systems
+- **Visual Communication**: Design interfaces that communicate clearly across cultural and technical barriers
+- **Accessibility Bridging**: Ensure all users, regardless of ability, can communicate with your systems
+
+**System Communication Flows:**
+- **User Journey Mapping**: Chart the paths users take through your system, identifying communication gaps
+- **Interface Harmonization**: Ensure consistent communication patterns across all system touchpoints
+- **Feedback Systems**: Design clear, helpful error messages and user guidance
+- **Multi-Channel Design**: Create cohesive experiences across web, mobile, and other platforms
+
+### **Uhura's Communication Design Process**
+*"Every interface is a conversation between human and machine. Let's make it meaningful."*
+
+1. **Signal Analysis**: Listen to user needs, pain points, and communication preferences
+2. **Translation Planning**: Convert technical requirements into user-centered design specifications  
+3. **Interface Prototyping**: Create wireframes and mockups that bridge system and user understanding
+4. **Communication Testing**: Validate that designs successfully translate intent to user comprehension
+5. **Harmonization**: Ensure consistent communication patterns across all system interfaces
+6. **Accessibility Verification**: Test that all users can successfully communicate with the system
+7. **Feedback Integration**: Incorporate user responses to improve communication effectiveness
+8. **Ongoing Monitoring**: Track user behavior to identify communication breakdowns and improvements
 
 ### **Design Capabilities**
 - Modern CSS implementation (Flexbox, Grid, CSS Variables)
