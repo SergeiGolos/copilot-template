@@ -1,0 +1,22 @@
+{
+  "name": "docx-to-markdown-converter",
+  "version": "1.0.0",
+  "description": "A utility to recursively convert .docx files to markdown using Pandoc",
+  "type": "module",
+  "main": "convert.js",
+  "scripts": {
+    "convert": "node convert.js"
+  },
+  "keywords": [
+    "docx",
+    "markdown",
+    "pandoc",
+    "converter",
+    "documentation"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
