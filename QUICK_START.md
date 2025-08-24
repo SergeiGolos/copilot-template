@@ -1,8 +1,10 @@
-# Quick Start Guide - Agentic Development Template
+# Quick Start Guide - The Heeler Development Family
 
-## 🚀 5-Minute Setup
+*"Just like starting a new game, the most important thing is making sure everyone understands how to play and feels excited to join in!"*
 
-### Step 1: Create Your Repository
+## 🌟 5-Minute Family Setup
+
+### Step 1: Create Your Family Home (Repository)
 ```bash
 # Using GitHub CLI (recommended)
 gh repo create your-project-name --template SergeiGolos/copilot-template --private
@@ -12,206 +14,207 @@ gh repo create your-project-name --template SergeiGolos/copilot-template --priva
 # 2. Click "Use this template" → "Create a new repository"
 ```
 
-### Step 2: Clone and Initialize
+### Step 2: Move Into Your New Home
 ```bash
 git clone https://github.com/yourusername/your-project-name
 cd your-project-name
 ```
 
-### Step 3: Bootstrap Your Repository
-1. Create technology context files in `.github/Grounding/` directory
-2. Go to your repository's Issues tab
-3. Click "New Issue"
-4. Select "Bootstrap Agent - Repository Initialization" template
-5. Fill out your project's technology stack and context
-6. Wait for the Bootstrap Agent to customize all other agents
+### Step 3: Bootstrap Your Family (Repository Customization)
+1. **Create the family's knowledge base** in `.github/Grounding/` directory with your project context
+2. **Go to your repository's Issues tab** 
+3. **Click "New Issue"**
+4. **Select "Bootstrap Agent - Repository Initialization" template**
+5. **Fill out your project's technology stack and family context**
+6. **Wait for the Bootstrap process** to customize all family members for your project
 
-### Step 4: First Issue - Project Planning
-1. Go to your repository's Issues tab
-2. Click "New Issue"
-3. Select "Architect Product Manager" template
-4. Fill out the strategic planning template to define your project
+### Step 4: Start with Family Leadership (Strategic Planning)
+1. **Go to your repository's Issues tab**
+2. **Click "New Issue"** 
+3. **Select "🐕‍🦺 Chilli Heeler - Product Owner" template**
+4. **Fill out the strategic vision template** to define your product with empathy and user focus
 
-## 📋 Your First Week Workflow
+## 🏠 Your First Week with the Heeler Family
 
-### Day 1: Repository Bootstrap
-- [ ] **Create Grounding Documents**: Add technology stack and context files to `.github/Grounding/`
-- [ ] **Run Bootstrap Agent**: Create Bootstrap Agent issue to customize all agents for your project
-- [ ] **Validate Customizations**: Review that all agents now contain your project-specific context
+### Day 1: Setting Up the Family Home
+- [ ] **Create Family Knowledge Base**: Add technology stack and context files to `.github/Grounding/`
+- [ ] **Run Bootstrap Process**: Create Bootstrap Agent issue to customize all family members for your project
+- [ ] **Meet Your Family**: Review all character templates and understand each family member's personality and expertise
 
-### Day 2-3: Strategic Planning
-- [ ] **Create Architect-PM Issue**: Define project scope, requirements, and technical architecture
-- [ ] **Create Planner Issue**: Establish project coordination and resource planning
-- [ ] **Review deliverables**: System design, risk assessment, project roadmap, and resource allocation
+### Day 2-3: Family Planning Time
+- [ ] **Chilli's Strategic Vision**: Create Product Owner issue to define empathetic user-centered product strategy
+- [ ] **Bandit's Project Coordination**: Create Scrum Master issue for creative project facilitation and team planning  
+- [ ] **Review Family Dynamics**: Understand system design, risk assessment, project roadmap, and collaborative approach
 
-### Day 4-5: Specification Development
-- [ ] **Create Design Spec Writer Issue**: Develop detailed technical specifications
-- [ ] **Create User Story Writer Issue**: Convert specs into prioritized user stories
-- [ ] **Create Security Guardian Issue**: Establish security requirements and threat model
-- [ ] **Review deliverables**: Technical specifications, user story backlog, and security framework
+### Day 4-5: Getting Into the Details
+- [ ] **Uncle Rad's Technical Specs**: Create Design Spec Writer issue for precise technical specifications
+- [ ] **Muffin's Clear Requirements**: Create User Story Writer issue to convert specs into honest, direct user stories
+- [ ] **Trixie's Security Planning**: Create Security Guardian issue for organized, comprehensive protection strategy
+- [ ] **Review Family Planning**: Technical specifications, user story backlog, and security framework
 
-### Day 6-7: Implementation Planning
-- [ ] **Create Designer Issue**: Define UI/UX requirements and user experience goals
-- [ ] **Create Developer Feature Issue**: Plan your first feature implementation
-- [ ] **Create QA Tester Issue**: Establish testing strategy and quality gates
-- [ ] **Create DevOps Issue**: Plan infrastructure and deployment strategy
-- [ ] **Create Data Analyst Issue**: Set up metrics and monitoring framework
+### Day 6-7: Creative Implementation Planning
+- [ ] **Bluey's Design Studio**: Create Designer issue for creative UI/UX requirements and user experience goals
+- [ ] **Bluey's Feature Development**: Create Lead Developer issue to plan your first visionary feature implementation
+- [ ] **Bingo's Quality Focus**: Create QA Engineer issue for empathetic testing strategy and user advocacy
+- [ ] **Stripe's Reliable Infrastructure**: Create DevOps issue for dependable infrastructure and deployment strategy
+- [ ] **Socks' Pattern Recognition**: Create Data Analyst issue to set up observant metrics and user insight framework
 
-## 🎯 Common Use Cases
+## 🎮 Common Family Adventures (Use Cases)
 
-### **Building a New Feature**
-1. **Architect-PM**: Strategic requirements and technical design
-2. **Planner**: Project timeline and resource coordination
-3. **Design Spec Writer**: Technical specifications and API design
-4. **User Story Writer**: Prioritized user stories and acceptance criteria
-5. **Designer**: UI/UX specifications and user interactions
-6. **Developer Feature**: Implementation with comprehensive testing
-7. **Security Guardian**: Security analysis and validation
-8. **QA Tester**: Testing strategy and quality validation
-9. **DevOps**: Deployment and infrastructure setup
-10. **Data Analyst**: Success metrics and monitoring
-11. **Historian-Writer**: Documentation and knowledge capture
+### **🌟 Building a New Feature - Family Collaboration**
+1. **Chilli (Product Owner)**: Empathetic strategic requirements and user-centered vision
+2. **Bandit (Scrum Master)**: Creative project coordination and family facilitation
+3. **Uncle Rad (Design Spec Writer)**: Precise technical specifications and engineering excellence
+4. **Muffin (User Story Writer)**: Direct, honest user stories and clear acceptance criteria
+5. **Bluey (Designer)**: Creative UI/UX specifications and delightful user interactions
+6. **Bluey (Lead Developer)**: Visionary implementation with comprehensive user focus
+7. **Trixie (Security Guardian)**: Organized security analysis and comprehensive validation
+8. **Bingo (QA Engineer)**: Detail-oriented testing strategy and empathetic quality validation
+9. **Stripe (DevOps)**: Reliable deployment and rock-solid infrastructure setup
+10. **Socks (Data Analyst)**: Observant success metrics and user behavior monitoring
+11. **Calypso (Historian-Writer)**: Educational documentation and family knowledge capture
 
-### **Fixing a Critical Bug**
-1. **Developer Bug Fix**: Systematic investigation and resolution
-2. **QA Tester**: Comprehensive testing and regression validation
-3. **Security Guardian**: Security impact assessment (if applicable)
-4. **DevOps**: Emergency deployment and monitoring
-5. **Historian-Writer**: Post-mortem and lesson documentation
+### **🔍 Fixing a Critical Bug - Detective Adventure**
+1. **Bluey's Bug Hunt**: Systematic detective investigation and determined problem-solving
+2. **Bingo (QA Engineer)**: Comprehensive testing and gentle regression validation  
+3. **Trixie (Security Guardian)**: Organized security impact assessment (if applicable)
+4. **Stripe (DevOps)**: Dependable emergency deployment and reliable monitoring
+5. **Calypso (Historian-Writer)**: Wise post-mortem analysis and educational lesson documentation
 
-### **Code Quality Improvement**
-1. **Data Analyst**: Performance analysis and quality metrics
-2. **Developer Refactoring**: Code quality improvement and optimization
-3. **QA Tester**: Regression testing and validation
-4. **Historian-Writer**: Documentation updates and improvement tracking
+### **🧹 Code Quality Improvement - Family Cleanup Game**
+1. **Socks (Data Analyst)**: Curious performance analysis and pattern-recognition quality metrics
+2. **Bluey's Code Cleanup**: Organized code quality improvement and fun refactoring optimization
+3. **Bingo (QA Engineer)**: Careful regression testing and quality validation
+4. **Calypso (Historian-Writer)**: Clear documentation updates and learning-focused improvement tracking
 
-### **Security Enhancement**
-1. **Security Guardian**: Comprehensive security assessment
-2. **Developer Feature/Bug Fix**: Security improvements implementation
-3. **QA Tester**: Security testing and validation
-4. **DevOps**: Secure deployment and monitoring setup
-5. **Historian-Writer**: Security documentation and procedures
+### **🛡️ Security Enhancement - Family Protection Plan**
+1. **Trixie (Security Guardian)**: Comprehensive, methodical security assessment
+2. **Bluey (Developer)**: Creative security improvements implementation with user experience focus
+3. **Bingo (QA Engineer)**: Detail-oriented security testing and empathetic validation
+4. **Stripe (DevOps)**: Systematic secure deployment and organized monitoring setup
+5. **Calypso (Historian-Writer)**: Educational security documentation and clear family procedures
 
-## 🏷️ Issue Management Tips
+## 🏷️ Family Organization Tips
 
-### **Labeling Strategy**
-Use these labels to organize your agentic workflow:
-- `bootstrap` - Bootstrap agent work (repository customization)
-- `architecture` - Architect-PM work
-- `planning` - Planner agent work
-- `design-spec` - Design Spec Writer work
-- `user-stories` - User Story Writer work
-- `design` - Designer agent work
-- `enhancement` - New features (Developer Feature)
-- `bug` - Bug fixes (Developer Bug Fix)
-- `refactoring` - Code quality improvements
-- `security` - Security-related work
-- `devops` - Infrastructure and deployment
-- `qa` - Quality assurance and testing
-- `data-analysis` - Analytics and insights
-- `documentation` - Documentation and knowledge management
+### **Character-Based Labeling Strategy**
+Use these labels to organize your family workflow:
+- `bootstrap` - Bootstrap process work (repository and family customization)
+- `chilli` - Chilli's Product Owner work (strategic empathy and user focus)
+- `bandit` - Bandit's Scrum Master work (creative facilitation and servant leadership)
+- `bluey-development` - Bluey's Lead Developer work (visionary feature implementation)
+- `bluey-design` - Bluey's Design Studio work (creative UI/UX and user experience)
+- `bluey-bugs` - Bluey's Bug Hunt work (detective investigation and problem-solving)
+- `bluey-cleanup` - Bluey's Code Cleanup work (organized refactoring and improvement)
+- `bingo` - Bingo's QA work (detail-oriented testing and user advocacy)
+- `muffin` - Muffin's User Story work (direct, honest requirements translation)
+- `stripe` - Stripe's DevOps work (reliable infrastructure and deployment)
+- `trixie` - Trixie's Security work (organized, comprehensive protection)
+- `calypso` - Calypso's Documentation work (educational knowledge sharing)
+- `uncle-rad` - Uncle Rad's Design Specs work (technical precision and engineering)
+- `socks` - Socks' Data Analysis work (observant insights and pattern recognition)
 
-### **Project Board Setup**
-Create columns for:
-1. **Backlog** - Planned agent work
-2. **Bootstrap** - Repository customization and agent setup
-3. **Planning** - Strategic and project planning (Architect-PM, Planner)
-4. **Specification** - Design specs and user stories (Design Spec Writer, User Story Writer)
-5. **In Progress** - Active agent work
-6. **Review** - Agent deliverables under review
-7. **Done** - Completed agent work
+### **Family Project Board Setup**
+Create columns that reflect natural family dynamics:
+1. **Family Planning** - Collaborative planning and coordination work
+2. **Bootstrap** - Repository customization and family setup
+3. **Strategic Vision** - Chilli's empathetic product planning and user focus
+4. **Creative Development** - Bluey's visionary implementation and design work
+5. **Quality & Care** - Bingo's testing and Trixie's security protection
+6. **Family Support** - Extended family specialized work (Stripe, Rad, Calypso, Socks, Muffin)
+7. **Family Review** - Collaborative review and feedback
+8. **Family Success** - Completed work that makes users and family proud
 
-### **Milestone Planning**
-Organize work into milestones like:
-- **Repository Bootstrap** (Bootstrap Agent setup and customization)
-- **Strategic Planning** (Architect-PM + Planner)
-- **Requirements & Specifications** (Design Spec Writer + User Story Writer)
-- **MVP Planning** (Designer + User Story Writer)
-- **Core Implementation** (Developer + Security + QA)
-- **Production Readiness** (DevOps + Data Analyst + Historian-Writer)
+### **Family Milestone Planning**
+Organize work into family adventures:
+- **Setting Up the Family Home** (Bootstrap and customization)
+- **Family Strategic Planning** (Chilli's vision + Bandit's coordination)
+- **Getting Into Details** (Uncle Rad's specs + Muffin's user stories)
+- **Creative Implementation** (Bluey's design and development magic)
+- **Family Quality Time** (Bingo's testing + Trixie's security)
+- **Family Celebration** (Calypso's documentation + Socks' success insights)
 
-## 🤖 Working with AI Assistants
+## 🤖 Working with AI Family Members
 
-### **When Creating Issues**
-1. **Be specific** about your requirements and context
-2. **Provide examples** of current systems or desired outcomes
-3. **Include constraints** like timeline, budget, or technical limitations
-4. **Reference other issues** that provide additional context
+### **When Creating Family Issues**
+1. **Be specific and empathetic** about your requirements, just like talking to real family
+2. **Share the user story** behind what you're building and why it matters
+3. **Include family context** like team dynamics, constraints, and project history
+4. **Reference other family members** who have provided related guidance
 
-### **Template Customization**
-- Modify agent templates to match your tech stack
-- Add project-specific questions to requirement sections
-- Adjust success criteria to match your quality standards
-- Include your team's specific processes and tools
+### **Family Template Customization**
+- **Adapt character personalities** to match your team's communication style
+- **Add project-specific context** that helps each family member understand your domain
+- **Adjust family values** to match your team's collaborative principles  
+- **Include your team's tools** and processes in character workflows
 
-### **Multi-Agent Coordination**
-- Start issues in logical sequence (Architect-PM first)
-- Reference related issues in the collaboration sections
-- Share deliverables between agents through issue comments
-- Use project boards to track cross-agent dependencies
+### **Family Coordination Patterns**
+- **Start with family leadership** (Chilli for vision, Bandit for coordination)
+- **Share family experiences** naturally through issue comments and collaboration
+- **Use family dynamics** to improve cross-character coordination and psychological safety
+- **Celebrate family wins** through project boards that track collaborative achievements
 
-## 🔧 Customization for Your Team
+## 🏠 Adapting the Family for Your Team
 
-### **Small Team (1-3 people)**
-- One person may handle multiple agent roles
-- Focus on the most critical agents for your project type
-- Simplify templates by removing sections not relevant to your context
-- Use the agent structure for systematic thinking even if one person does all work
+### **Small Family (1-3 people)**
+- One person may embody multiple character roles using their personalities for structured thinking
+- Focus on core family members (Chilli, Bandit, Bluey, Bingo) for essential dynamics
+- Simplify templates by emphasizing character traits most relevant to your team style
+- Use family structure for systematic thinking even when working solo
 
-### **Medium Team (4-8 people)**
-- Assign primary and secondary agents to team members
-- Create agent expertise areas within the team
-- Use the templates for knowledge sharing and onboarding
-- Establish review processes for agent deliverables
+### **Growing Family (4-8 people)**
+- Assign primary and secondary character roles to team members based on natural strengths
+- Create character expertise areas within the team for knowledge sharing
+- Use character templates for onboarding and team communication improvement
+- Establish family review processes that emphasize psychological safety and collaborative growth
 
-### **Large Team (8+ people)**
-- Assign dedicated specialists to agent roles
-- Create agent working groups for complex decisions
-- Use templates for standardized communication and deliverables
-- Implement formal handoffs between agent responsibilities
+### **Extended Family (8+ people)**
+- Assign dedicated specialists to fully embody specific character roles and personalities
+- Create character working groups for complex decisions that need diverse perspectives
+- Use templates for standardized family communication and deliverable expectations
+- Implement natural handoffs between characters that reflect real family dynamics
 
-## 📊 Measuring Success
+## 📊 Family Success Measurement
 
-### **Agent Effectiveness Metrics**
-- **Bootstrap Agent**: Template customization accuracy, project-specific context integration
-- **Architect-PM**: Requirement clarity, successful implementation rate
-- **Planner**: Project timeline accuracy, resource utilization efficiency
-- **Design Spec Writer**: Specification completeness, implementation success rate
-- **User Story Writer**: Story quality, development velocity improvement
-- **Designer**: User satisfaction, accessibility compliance
-- **Developer**: Code quality, delivery time, bug rate
-- **Security Guardian**: Vulnerability detection, compliance rate
-- **DevOps**: Deployment success, system reliability
-- **QA Tester**: Defect detection, test coverage
-- **Data Analyst**: Insight quality, metric improvement
-- **Historian-Writer**: Documentation usage, knowledge transfer efficiency
+### **Character Effectiveness - How Each Family Member Contributes**
+- **Chilli (Product Owner)**: User satisfaction improvement, stakeholder alignment, empathetic decision quality
+- **Bandit (Scrum Master)**: Team psychological safety, impediment removal speed, collaborative energy
+- **Bluey (Lead Developer/UX)**: Feature user delight, creative problem-solving, implementation vision
+- **Bingo (QA Engineer)**: User experience quality, empathetic bug detection, accessibility validation
+- **Extended Family**: Each character's specialized contribution to overall family and user success
 
-### **Process Improvement**
-- Track time from issue creation to resolution
-- Monitor cross-agent collaboration effectiveness
-- Measure deliverable quality and stakeholder satisfaction
-- Identify bottlenecks and improvement opportunities
+### **Family Dynamics Health**
+- **Psychological Safety**: Team members feel safe to experiment, fail, and learn together
+- **Collaborative Joy**: Work feels engaging and team members enjoy the collaborative process  
+- **User Empathy**: All decisions consistently consider real user needs and experiences
+- **Continuous Learning**: Family grows stronger through challenges and celebrates successes together
 
-## 🆘 Troubleshooting
+## 🆘 Family Troubleshooting
 
-### **Common Issues**
-- **Too much overhead**: Simplify templates for your context
-- **Agent coordination problems**: Use project boards and clear dependencies
-- **Template complexity**: Focus on sections most relevant to your needs
-- **Knowledge silos**: Ensure Historian-Writer captures all decisions
+### **Common Family Challenges**
+- **Too much character overhead**: Adapt personalities to match your team's natural communication style
+- **Character coordination confusion**: Use family dynamics and clear relationship guidelines
+- **Template complexity**: Focus on character traits and workflows most relevant to your team needs
+- **Knowledge silos**: Ensure Calypso captures and shares all family learnings and decisions
 
-### **Getting Help**
-- Review the comprehensive agent templates for guidance
-- Use the collaboration sections to coordinate between agents
-- Create meta-issues for discussing the agent system itself
-- Iterate and improve your agent usage patterns
+### **Getting Family Help**
+- **Review character relationship guides** built into each template for natural collaboration patterns
+- **Use family meeting patterns** (like daily stand-ups) that reflect Heeler collaborative principles
+- **Create family retrospectives** for discussing how character dynamics are working for your team
+- **Iterate and improve** your family approach based on what brings joy and effectiveness to your work
 
 ---
 
-**Ready to go?** 
+## 🌟 Ready to Start Your Family Adventure?
 
-1. **Start by creating grounding documents** in `.github/Grounding/` with your technology stack
-2. **Use the Bootstrap Agent** (`000_agent.md`) to customize all agents for your project
-3. **Then create your first Architect-PM issue** to define your project's strategic direction, followed by the planning workflow through Planner → Design Spec Writer → User Story Writer!
+**"The best games are the ones where everyone gets to contribute their special talents while having fun together!"**
 
-*Remember: The agent system is a framework for organized thinking and development - adapt it to your team's needs and context.*
+1. **Create your family's knowledge base** in `.github/Grounding/` with your technology stack and team context
+2. **Use the Bootstrap Agent** (`000_agent.md`) to customize all family members for your project
+3. **Start with Chilli's empathetic vision** (`chilli_heeler_product_owner.md`) to define your product with user-centered wisdom
+4. **Let Bandit coordinate the family fun** with creative project planning that turns work into collaborative adventures!
+
+*Remember: The Heeler methodology is a framework for bringing psychological safety, user empathy, and collaborative joy to development work. Adapt the family dynamics to match your team's personality and watch the magic happen!*
+
+---
+
+*This guide was crafted with love by Calypso, designed to help every team member feel excited about contributing their unique talents to creating something wonderful for users! 📚✨*
