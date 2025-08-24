@@ -1,23 +1,23 @@
-# Repository Structure
+# Repository Structure - Star Trek Enterprise Themed
 
 ```
 copilot-template/
 ├── .github/
 │   ├── ISSUE_TEMPLATE/
-│   │   ├── 000_agent.md                          # BOOTSTRAP: Repository initialization & agent customization
-│   │   ├── architect_product_manager.md          # Strategic planning & system architecture
-│   │   ├── planner_agent.md                      # Project coordination & execution planning
-│   │   ├── design_spec_writer_agent.md           # Technical design specifications
-│   │   ├── user_story_writer_agent.md            # User story creation & prioritization
-│   │   ├── data_analyst_agent.md                 # Analytics & performance insights
-│   │   ├── designer_agent.md                     # UI/UX design & user experience
-│   │   ├── developer_bug_fix.md                  # Bug investigation & resolution
-│   │   ├── developer_code_refactoring.md         # Code quality & technical debt
-│   │   ├── developer_feature_implementation.md   # New feature development
-│   │   ├── devops_engineer_agent.md              # Infrastructure & deployment
-│   │   ├── historian_technical_writer.md         # Documentation & knowledge management
-│   │   ├── qa_tester_agent.md                    # Quality assurance & testing
-│   │   └── security_guardian_agent.md            # Security analysis & compliance
+│   │   ├── 000_agent.md                          # BOOTSTRAP: Repository initialization (unchanged)
+│   │   ├── architect_product_manager.md          # Captain Archer - Strategic Vision & Architecture
+│   │   ├── planner_agent.md                      # Sub-commander T'Pol - Logical Planning & Process  
+│   │   ├── design_spec_writer_agent.md           # Technical Specifications - Engineering Blueprints
+│   │   ├── user_story_writer_agent.md            # Mission Briefings - Operational Requirements
+│   │   ├── data_analyst_agent.md                 # Ship's Sensors - Data Analysis & Performance
+│   │   ├── designer_agent.md                     # Ensign Sato - UI/UX & Communication Design
+│   │   ├── developer_bug_fix.md                  # Ensign Mayweather - Navigation & Bug Resolution
+│   │   ├── developer_code_refactoring.md         # Engineering Maintenance - System Optimization
+│   │   ├── developer_feature_implementation.md   # Commander Tucker - Feature Engineering
+│   │   ├── devops_engineer_agent.md              # Engineering Systems - Infrastructure & Operations
+│   │   ├── historian_technical_writer.md         # Ship's Computer - Knowledge Archives & Mission Logs
+│   │   ├── qa_tester_agent.md                    # Dr. Phlox - Diagnostic Testing & System Health
+│   │   └── security_guardian_agent.md            # Lieutenant Reed - Security & Quality Assurance
 │   └── Grounding/                                 # Project-specific context documents
 │       ├── technology.md                         # Technology stack specifications
 │       ├── architecture.md                       # System architecture context
@@ -31,43 +31,50 @@ copilot-template/
 ## Template Evolution History
 
 - **Initial Commit (17a664a)**: "init copilots" - Created comprehensive set of 10 specialized agent templates
-- **Repository Creation**: August 18, 2025 - Established agentic development template structure
+- **Repository Creation**: August 18, 2025 - Established agentic development template structure  
+- **Star Trek Enterprise Theming**: August 2025 - Applied character-based themes to all issue templates while preserving technical functionality
+
+## Agent Template Overview
 
 ## Agent Template Overview
 
 ### Core Philosophy
-Each agent template is designed around the principle of **specialized expertise with collaborative integration**. Every template includes:
+Each agent template is designed around the principle of **specialized expertise with collaborative integration**, now enhanced with Star Trek Enterprise character themes that add personality while maintaining professional functionality. Every template includes:
 
-- **Clear role definition** and scope of responsibilities
-- **Comprehensive workflow processes** for systematic approach
-- **Detailed deliverable specifications** with quality criteria
-- **Collaboration guidelines** for working with other agents
-- **Success criteria** and measurement frameworks
-- **Request information checklists** for efficient requirement gathering
+- **Character-themed role definitions** with personality traits and scope of responsibilities
+- **Comprehensive workflow processes** with character-appropriate language and systematic approaches
+- **Detailed deliverable specifications** with quality criteria and space-themed references
+- **Bridge crew collaboration guidelines** for working with other character-themed agents
+- **Mission success criteria** and measurement frameworks
+- **Request information checklists** for efficient requirement gathering with appropriate humor
 
 ### Template Categories
 
 #### **Bootstrap & Meta Agents**
-- **Bootstrap Agent (000)**: Repository initialization, agent customization, technology integration
+- **Bootstrap Agent (000)**: Repository initialization, agent customization, technology integration *(unchanged from original)*
 
-#### **Strategic & Planning Agents**
-- **Architect-Product Manager**: Bridge between business needs and technical implementation
-- **Planner**: Project coordination, resource planning, and execution management
-- **Design Spec Writer**: Technical specifications and system documentation
-- **User Story Writer**: Requirements translation and implementation prioritization
+#### **Command Bridge (Strategic & Planning)**
+- **Captain Archer (Architect-Product Manager)**: Strategic vision, stakeholder management, and architectural leadership
+- **Sub-commander T'Pol (Planner)**: Logical project coordination, systematic planning, and process management
 
-#### **Implementation Agents**
-- **Developer (3 specializations)**: Feature development, bug fixing, code refactoring
-- **Designer**: User experience and interface design
-- **DevOps Engineer**: Infrastructure and deployment automation
+#### **Engineering Department (Implementation)**
+- **Commander Tucker (Developer Feature)**: Hands-on feature development and engineering implementation
+- **Ensign Mayweather (Developer Bug Fix)**: Navigation troubleshooting and frontend bug resolution  
+- **Engineering Maintenance (Developer Refactoring)**: System optimization and code quality improvement
+- **Engineering Systems (DevOps)**: Infrastructure automation and deployment operations
 
-#### **Quality & Security Agents**
-- **QA Tester**: Comprehensive testing and quality assurance
-- **Security Guardian**: Security analysis and threat mitigation
+#### **Science & Communications (Design & Analysis)**
+- **Ensign Sato (Designer)**: UI/UX design and user communication interfaces
+- **Ship's Sensors (Data Analyst)**: Performance monitoring and behavioral analysis
+- **Technical Specifications (Design Spec Writer)**: Engineering blueprint creation and documentation
 
-#### **Analysis & Documentation Agents**
-- **Data Analyst**: Performance monitoring and user behavior analysis
-- **Historian-Technical Writer**: Documentation and knowledge management
+#### **Security & Medical (Quality & Safety)**
+- **Lieutenant Reed (Security Guardian)**: Security analysis and tactical system protection
+- **Dr. Phlox (QA Tester)**: Comprehensive system diagnostics and health validation
+
+#### **Ship Systems (Documentation & Operations)**
+- **Ship's Computer (Historian-Writer)**: Knowledge management and mission log documentation
+- **Mission Briefings (User Story Writer)**: Requirements translation and operational planning
 
 ## Usage Patterns
 
