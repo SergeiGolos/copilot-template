@@ -5,19 +5,19 @@ copilot-template/
 ├── .github/
 │   ├── ISSUE_TEMPLATE/
 │   │   ├── 000_agent.md                          # BOOTSTRAP: Repository initialization & agent customization
-│   │   ├── architect_product_manager.md          # Strategic planning & system architecture
-│   │   ├── planner_agent.md                      # Project coordination & execution planning
-│   │   ├── design_spec_writer_agent.md           # Technical design specifications
-│   │   ├── user_story_writer_agent.md            # User story creation & prioritization
-│   │   ├── data_analyst_agent.md                 # Analytics & performance insights
-│   │   ├── designer_agent.md                     # UI/UX design & user experience
-│   │   ├── developer_bug_fix.md                  # Bug investigation & resolution
-│   │   ├── developer_code_refactoring.md         # Code quality & technical debt
-│   │   ├── developer_feature_implementation.md   # New feature development
-│   │   ├── devops_engineer_agent.md              # Infrastructure & deployment
-│   │   ├── historian_technical_writer.md         # Documentation & knowledge management
-│   │   ├── qa_tester_agent.md                    # Quality assurance & testing
-│   │   └── security_guardian_agent.md            # Security analysis & compliance
+│   │   ├── captain_janeway.md                    # Product Owner & Strategic Visionary
+│   │   ├── commander_chakotay.md                 # Project Team Lead & Cultural Bridge
+│   │   ├── lt_belanna_torres_feature.md          # Chief Engineer: Feature Development
+│   │   ├── lt_belanna_torres_debug.md            # Chief Engineer: System Debugging
+│   │   ├── lt_belanna_torres_optimize.md         # Chief Engineer: System Optimization
+│   │   ├── seven_of_nine.md                      # Software Architect & System Design
+│   │   ├── seven_of_nine_data.md                 # Data Analysis & Performance Optimization
+│   │   ├── lt_commander_tuvok.md                 # Quality Assurance Manager
+│   │   ├── lt_commander_tuvok_security.md        # Security Guardian & Threat Assessment
+│   │   ├── the_doctor_emh.md                     # DevOps Engineer & System Integration
+│   │   ├── the_doctor_emh_docs.md                # Technical Documentation & Knowledge Management
+│   │   ├── lt_tom_paris.md                       # Senior Developer & UI/UX Specialist
+│   │   └── neelix.md                             # User Story Coordinator & Morale Officer
 │   └── Grounding/                                 # Project-specific context documents
 │       ├── technology.md                         # Technology stack specifications
 │       ├── architecture.md                       # System architecture context
@@ -45,61 +45,55 @@ Each agent template is designed around the principle of **specialized expertise 
 - **Success criteria** and measurement frameworks
 - **Request information checklists** for efficient requirement gathering
 
-### Template Categories
+### USS Voyager Crew Categories
 
-#### **Bootstrap & Meta Agents**
-- **Bootstrap Agent (000)**: Repository initialization, agent customization, technology integration
+#### **Command & Strategic Leadership**
+- **Bootstrap Agent (000)**: Repository initialization, agent customization, technology integration  
+- **Captain Janeway**: Product Owner and strategic visionary with coffee-fueled focus and ethical standards
+- **Commander Chakotay**: Project Team Lead and cultural bridge-builder for team harmony
 
-#### **Strategic & Planning Agents**
-- **Architect-Product Manager**: Bridge between business needs and technical implementation
-- **Planner**: Project coordination, resource planning, and execution management
-- **Design Spec Writer**: Technical specifications and system documentation
-- **User Story Writer**: Requirements translation and implementation prioritization
+#### **Engineering & Implementation**
+- **Lt. B'Elanna Torres (3 specializations)**: Chief Engineer for feature development, debugging, and optimization
+- **Seven of Nine (2 specializations)**: Software Architect and Data Analyst for system design and efficiency
+- **Lt. Tom Paris**: Senior Developer and UI/UX Specialist for user experience and interface design
 
-#### **Implementation Agents**
-- **Developer (3 specializations)**: Feature development, bug fixing, code refactoring
-- **Designer**: User experience and interface design
-- **DevOps Engineer**: Infrastructure and deployment automation
+#### **Operations & Quality Assurance**
+- **Lt. Commander Tuvok (2 specializations)**: QA Manager and Security Guardian with logical analysis
+- **The Doctor EMH (2 specializations)**: DevOps Engineer and Documentation Specialist with adaptive expertise
 
-#### **Quality & Security Agents**
-- **QA Tester**: Comprehensive testing and quality assurance
-- **Security Guardian**: Security analysis and threat mitigation
-
-#### **Analysis & Documentation Agents**
-- **Data Analyst**: Performance monitoring and user behavior analysis
-- **Historian-Technical Writer**: Documentation and knowledge management
+#### **Communication & Coordination**
+- **Neelix**: User Story Coordinator and Morale Officer for requirements translation and team motivation
 
 ## Usage Patterns
 
 ### **Repository Initialization Pattern**
 0. Add project-specific documents to `.github/Grounding/` directory
-1. Create Bootstrap Agent issue to customize all agents for project technology
-2. Start with Architect-PM agent for strategic planning
-3. Use Planner agent for project coordination and resource planning
-4. Apply Design Spec Writer for technical specifications
-5. Engage User Story Writer for implementation backlog
-6. Move to Designer agent for UX/UI requirements
-7. Proceed to Developer agents for implementation
-8. Engage Security Guardian for security validation
-9. Use DevOps for deployment and infrastructure
-10. Apply QA Tester for comprehensive testing
-11. Implement Data Analyst for metrics and monitoring
-12. Conclude with Historian-Writer for documentation
+1. Create Bootstrap Agent issue to customize all crew members for project technology
+2. Start with Captain Janeway for strategic product vision and direction
+3. Use Commander Chakotay for project coordination and team planning
+4. Apply Seven of Nine for technical specifications and system architecture
+5. Engage Neelix for user story creation and requirements translation
+6. Move to Tom Paris for UX/UI design requirements
+7. Proceed to B'Elanna Torres for engineering implementation
+8. Engage Tuvok for security validation and quality assurance
+9. Use The Doctor for deployment automation and infrastructure
+10. Apply Seven of Nine (Data) for metrics and performance monitoring
+11. Conclude with The Doctor (Docs) for comprehensive documentation
 
 ### **Maintenance Pattern**
-1. Use Data Analyst to identify issues or opportunities
-2. Apply appropriate Developer agent for implementation
-3. Engage Security Guardian for security impact assessment
-4. Use QA Tester for validation
-5. Apply DevOps for deployment
-6. Update documentation via Historian-Writer
+1. Use Seven of Nine (Data Analyst) to identify performance issues or opportunities
+2. Apply appropriate B'Elanna Torres template for technical implementation
+3. Engage Tuvok (Security) for security impact assessment
+4. Use Tuvok (QA) for comprehensive testing and validation
+5. Apply The Doctor (DevOps) for deployment and monitoring
+6. Update documentation via The Doctor (Documentation)
 
 ### **Bug Resolution Pattern**
-1. Start with Developer Bug Fix template for systematic investigation
-2. Coordinate with QA Tester for comprehensive testing
-3. Engage Security Guardian if security implications exist
-4. Use DevOps for deployment and monitoring
-5. Document resolution via Historian-Writer
+1. Start with B'Elanna Torres (Debug) template for systematic investigation
+2. Coordinate with Tuvok (QA) for comprehensive testing
+3. Engage Tuvok (Security) if security implications exist
+4. Use The Doctor (DevOps) for deployment and monitoring
+5. Document resolution via The Doctor (Documentation)
 
 ## Customization Guidelines
 
