@@ -1,4 +1,4 @@
-# Quick Start Guide - Agentic Development Template
+# Quick Start Guide - Enterprise Development Template
 
 ## 🚀 5-Minute Setup
 
@@ -24,24 +24,24 @@ cd your-project-name
 3. Click "New Issue"
 4. Select "Bootstrap Agent - Repository Initialization" template
 5. Fill out your project's technology stack and context
-6. Wait for the Bootstrap Agent to customize all other agents
+6. Wait for the Bootstrap Agent to customize all other crew members
 
 ### Step 4: First Issue - Project Planning
 1. Go to your repository's Issues tab
 2. Click "New Issue"
-3. Select "Architect Product Manager" template
+3. Select "Captain Kirk - Strategic Command" template
 4. Fill out the strategic planning template to define your project
 
 ## 📋 Your First Week Workflow
 
 ### Day 1: Repository Bootstrap
 - [ ] **Create Grounding Documents**: Add technology stack and context files to `.github/Grounding/`
-- [ ] **Run Bootstrap Agent**: Create Bootstrap Agent issue to customize all agents for your project
-- [ ] **Validate Customizations**: Review that all agents now contain your project-specific context
+- [ ] **Run Bootstrap Agent**: Create Bootstrap Agent issue to customize all crew members for your project
+- [ ] **Validate Customizations**: Review that all crew members now contain your project-specific context
 
 ### Day 2-3: Strategic Planning
-- [ ] **Create Architect-PM Issue**: Define project scope, requirements, and technical architecture
-- [ ] **Create Planner Issue**: Establish project coordination and resource planning
+- [ ] **Create Captain Kirk Issue**: Define project scope, requirements, and technical architecture
+- [ ] **Create Lt. Uhura Issue**: Establish project coordination and communication planning
 - [ ] **Review deliverables**: System design, risk assessment, project roadmap, and resource allocation
 
 ### Day 4-5: Specification Development
@@ -52,10 +52,10 @@ cd your-project-name
 
 ### Day 6-7: Implementation Planning
 - [ ] **Create Designer Issue**: Define UI/UX requirements and user experience goals
-- [ ] **Create Developer Feature Issue**: Plan your first feature implementation
-- [ ] **Create QA Tester Issue**: Establish testing strategy and quality gates
-- [ ] **Create DevOps Issue**: Plan infrastructure and deployment strategy
-- [ ] **Create Data Analyst Issue**: Set up metrics and monitoring framework
+- [ ] **Create Lt. Sulu Issue**: Plan your first feature implementation
+- [ ] **Create Ensign Chekov Issue**: Establish testing strategy and quality gates
+- [ ] **Create Scotty Issue**: Plan infrastructure and deployment strategy
+- [ ] **Create Science Officer Issue**: Set up metrics and monitoring framework
 
 ## 🎯 Common Use Cases
 
