@@ -51,63 +51,63 @@ Each agent template is designed around the principle of **specialized expertise 
 - **Bootstrap Agent (000)**: Repository initialization, agent customization, technology integration
 
 #### **Strategic & Planning Agents**
-- **Architect-Product Manager**: Bridge between business needs and technical implementation
-- **Planner**: Project coordination, resource planning, and execution management
-- **Design Spec Writer**: Technical specifications and system documentation
-- **User Story Writer**: Requirements translation and implementation prioritization
+- **Captain Benjamin Sisko**: Strategic leadership bridging business and technical implementation
+- **Major Kira Nerys**: Project coordination with primary stakeholder advocacy and user focus
+- **Lt. Commander Jadzia Dax**: Technical specifications with polymath expertise and system documentation  
+- **Jake Sisko**: Requirements translation through empathetic storytelling and user narratives
 
 #### **Implementation Agents**
-- **Developer (3 specializations)**: Feature development, bug fixing, code refactoring
-- **Designer**: User experience and interface design
-- **DevOps Engineer**: Infrastructure and deployment automation
+- **Deep Space Nine Developer Corps (3 specialists)**: Dr. Bashir (features), Nog (bugs), Rom (refactoring)
+- **Leeta**: User experience and interface design with hospitality focus
+- **Chief Miles O'Brien**: Infrastructure management and deployment automation
 
 #### **Quality & Security Agents**
-- **QA Tester**: Comprehensive testing and quality assurance
-- **Security Guardian**: Security analysis and threat mitigation
+- **Constable Odo**: Comprehensive testing and quality assurance with shapeshifter precision
+- **Lt. Commander Worf**: Security analysis and threat mitigation with Klingon discipline
 
 #### **Analysis & Documentation Agents**
-- **Data Analyst**: Performance monitoring and user behavior analysis
-- **Historian-Technical Writer**: Documentation and knowledge management
+- **Quark**: Performance monitoring and business intelligence with profit-driven insights
+- **Professor Jennifer Sisko**: Documentation and knowledge management with academic excellence
 
 ## Usage Patterns
 
 ### **Repository Initialization Pattern**
 0. Add project-specific documents to `.github/Grounding/` directory
 1. Create Bootstrap Agent issue to customize all agents for project technology
-2. Start with Architect-PM agent for strategic planning
-3. Use Planner agent for project coordination and resource planning
-4. Apply Design Spec Writer for technical specifications
-5. Engage User Story Writer for implementation backlog
-6. Move to Designer agent for UX/UI requirements
-7. Proceed to Developer agents for implementation
-8. Engage Security Guardian for security validation
-9. Use DevOps for deployment and infrastructure
-10. Apply QA Tester for comprehensive testing
-11. Implement Data Analyst for metrics and monitoring
-12. Conclude with Historian-Writer for documentation
+2. Start with Captain Sisko for strategic planning and architectural vision
+3. Use Major Kira for project coordination and stakeholder advocacy
+4. Apply Lt. Commander Dax for detailed technical specifications
+5. Engage Jake Sisko for user story creation and implementation backlog
+6. Move to Leeta for UX/UI requirements and user experience design
+7. Proceed to DS9 Developer Corps (Bashir, Nog, or Rom) for implementation
+8. Engage Lt. Commander Worf for security validation and compliance
+9. Use Chief O'Brien for deployment and infrastructure management
+10. Apply Constable Odo for comprehensive testing and quality assurance
+11. Implement Quark for metrics, monitoring, and business intelligence
+12. Conclude with Professor Jennifer Sisko for comprehensive documentation
 
 ### **Maintenance Pattern**
-1. Use Data Analyst to identify issues or opportunities
-2. Apply appropriate Developer agent for implementation
-3. Engage Security Guardian for security impact assessment
-4. Use QA Tester for validation
-5. Apply DevOps for deployment
-6. Update documentation via Historian-Writer
+1. Use Quark to identify performance issues or profit opportunities
+2. Apply appropriate DS9 Developer (Bashir for features, Nog for bugs, Rom for refactoring)
+3. Engage Lt. Commander Worf for security impact assessment
+4. Use Constable Odo for thorough validation and testing
+5. Apply Chief O'Brien for deployment and operational excellence
+6. Update documentation via Professor Jennifer Sisko
 
 ### **Bug Resolution Pattern**
-1. Start with Developer Bug Fix template for systematic investigation
-2. Coordinate with QA Tester for comprehensive testing
-3. Engage Security Guardian if security implications exist
-4. Use DevOps for deployment and monitoring
-5. Document resolution via Historian-Writer
+1. Start with Nog for systematic bug investigation and root cause analysis
+2. Coordinate with Constable Odo for comprehensive testing and validation
+3. Engage Lt. Commander Worf if security implications exist
+4. Use Chief O'Brien for deployment and operational monitoring
+5. Document resolution via Professor Jennifer Sisko
 
 ## Customization Guidelines
 
 ### **For Different Project Types**
-- **Web Applications**: Use all agents with emphasis on Designer and DevOps
-- **APIs/Backend Services**: Focus on Developer, Security Guardian, and Data Analyst
-- **Mobile Applications**: Emphasize Designer, QA Tester, and DevOps
-- **Data Projects**: Prioritize Data Analyst, Security Guardian, and Historian-Writer
+- **Web Applications**: Use all agents with emphasis on Leeta and Chief O'Brien
+- **APIs/Backend Services**: Focus on DS9 Developer Corps, Lt. Commander Worf, and Quark  
+- **Mobile Applications**: Emphasize Leeta, Constable Odo, and Chief O'Brien
+- **Data Projects**: Prioritize Quark, Lt. Commander Worf, and Professor Jennifer Sisko
 
 ### **For Team Sizes**
 - **Individual/Small Teams**: One person may handle multiple agent roles
@@ -116,12 +116,12 @@ Each agent template is designed around the principle of **specialized expertise 
 
 ## Best Practices
 
-1. **Always start with Architect-PM** for any significant work
-2. **Use appropriate Developer specialization** based on the type of work
-3. **Engage Security Guardian early** for security-sensitive features
-4. **Document everything** through Historian-Writer agent
-5. **Measure success** using Data Analyst frameworks
-6. **Maintain quality** through QA Tester processes
+1. **Always start with Captain Sisko** for strategic vision and architectural planning
+2. **Use appropriate DS9 Developer specialist** (Bashir for features, Nog for bugs, Rom for refactoring)
+3. **Engage Lt. Commander Worf early** for security-sensitive features and compliance
+4. **Document everything** through Professor Jennifer Sisko's academic excellence
+5. **Measure success** using Quark's profit-driven analytics and business intelligence  
+6. **Maintain quality** through Constable Odo's incorruptible testing processes
 
 ## Future Enhancements
 

@@ -48,85 +48,85 @@ The repository implements an **Agentic Development Model** where different aspec
 
 Each agent has dedicated GitHub Issue templates that provide structured workflows and comprehensive requirements gathering:
 
-### � **Planner Agent** (`planner_agent.md`)
-- Strategic project coordination and execution planning
-- Resource planning and capacity management
-- Risk and dependency management with mitigation strategies
-- Sprint planning and agile/scrum coordination
+### 🎯 **Major Kira Nerys** (`planner_agent.md`)
+- Primary stakeholder advocacy and execution planning with righteous focus
+- Resource planning and capacity management with user needs protection
+- Risk and dependency management with constructive skepticism
+- Sprint planning and agile facilitation with fierce dedication
 
-### 📝 **Design Spec Writer Agent** (`design_spec_writer_agent.md`)
-- Technical design specifications and system documentation
-- API design documentation and interface contracts
-- Database schema design and integration specifications
-- Implementation guidelines and development standards
+### 📝 **Lt. Commander Jadzia Dax** (`design_spec_writer_agent.md`)
+- Technical design specifications with 300+ years of accumulated wisdom
+- API design documentation combining legacy knowledge with modern innovation
+- Database schema design and integration specifications with polymath insight
+- Implementation guidelines with technical leadership and mentorship excellence
 
-### 📚 **User Story Writer Agent** (`user_story_writer_agent.md`)
-- Convert design and technical specs into user stories
-- Implementation prioritization by complexity and business value
-- Epic and story mapping with dependency analysis
-- Backlog management and story refinement
+### 📚 **Jake Sisko** (`user_story_writer_agent.md`)
+- Convert design and technical specs into human-centered user stories
+- Implementation prioritization with journalistic empathy and narrative focus
+- Epic and story mapping with real user experience understanding
+- Backlog management telling stories that matter to people
 
-### �🎨 **Designer Agent** (`designer_agent.md`)
-- User experience design and modern UI/UX implementation
-- Accessibility compliance and responsive design
-- CSS implementation and design system maintenance
-- User flow analysis and optimization
+### 🎨 **Leeta** (`designer_agent.md`)
+- User experience design with hospitality and customer service focus
+- Accessibility compliance ensuring every user feels welcome and valued
+- CSS implementation and design system maintenance with presentation excellence
+- User flow analysis creating comfortable and engaging experiences
 
-### 👨‍💻 **Developer Agent** (3 specialized templates)
+### 👨‍💻 **Deep Space Nine Developer Corps** (3 specialized roles)
 
-#### **Feature Implementation** (`developer_feature_implementation.md`)
-- Complete feature development lifecycle
-- Technical requirements and performance specifications
-- Testing strategy and quality assurance
-- Security and accessibility implementation
+#### **Dr. Julian Bashir** (`developer_feature_implementation.md`)
+- Complete feature development with genetically enhanced capabilities
+- Technical requirements and performance specifications with medical precision
+- Testing strategy and quality assurance for complex implementations
+- Security and accessibility implementation with specialist expertise
 
-#### **Bug Fix** (`developer_bug_fix.md`)
-- Systematic bug investigation and resolution
-- Root cause analysis and impact assessment
-- Comprehensive testing and regression prevention
-- Performance and security validation
+#### **Nog** (`developer_bug_fix.md`)
+- Systematic bug investigation with Starfleet engineering precision
+- Root cause analysis and impact assessment with Ferengi thoroughness
+- Comprehensive testing and regression prevention with methodical dedication
+- Performance and security validation with first-in-Starfleet excellence
 
-#### **Code Refactoring** (`developer_code_refactoring.md`)
-- Code quality improvement and technical debt reduction
-- Performance optimization and maintainability enhancement
-- Test-driven refactoring and validation
-- Architecture improvement and modernization
+#### **Rom** (`developer_code_refactoring.md`)
+- Code quality improvement and technical debt reduction with methodical patience
+- Performance optimization and maintainability enhancement through careful craftsmanship
+- Test-driven refactoring and validation with systematic approach
+- Architecture improvement and modernization with quiet excellence
 
-### 🏛️ **Architect-Product Manager** (`architect_product_manager.md`)
-- Strategic product vision and technical architecture
-- Requirements gathering and stakeholder management
-- Risk-effort-impact assessment
-- System design and integration planning
+### 🏛️ **Captain Benjamin Sisko** (`architect_product_manager.md`)
+- Strategic product vision with pragmatic frontier leadership
+- Requirements gathering balancing Federation goals with user needs
+- Risk-effort-impact assessment with command-level decision making
+- System design and integration planning bridging business and technical domains
 
-### 🛡️ **Security Guardian** (`security_guardian_agent.md`)
-- Comprehensive security analysis and threat modeling
-- Vulnerability assessment and compliance auditing
-- Security architecture and incident response planning
-- Penetration testing and security validation
+### 🛡️ **Lt. Commander Worf** (`security_guardian_agent.md`)
+- Comprehensive security analysis with Klingon honor and Starfleet discipline
+- Compliance auditing and defensive strategy implementation
+- Threat modeling with adversarial mindset and procedural rigor
+- Security architecture and incident response with tactical expertise
 
-### 🚀 **DevOps Engineer** (`devops_engineer_agent.md`)
-- CI/CD pipeline design and infrastructure automation
-- Environment management and deployment strategies
-- Monitoring, observability, and performance optimization
-- Disaster recovery and scalability planning
+### 🚀 **Chief Miles O'Brien** (`devops_engineer_agent.md`)
+- Infrastructure management integrating legacy Cardassian with Federation technology
+- Deployment automation and operational excellence under impossible deadlines
+- Monitoring, observability, and crisis management with 22 years of field experience
+- Environment management and scalability with pragmatic engineering solutions
 
-### 🧪 **QA Tester** (`qa_tester_agent.md`)
-- Test strategy design and automated testing implementation
-- Quality validation and defect management
-- Performance testing and user acceptance testing
-- Cross-platform compatibility and regression testing
+### 🧪 **Constable Odo** (`qa_tester_agent.md`)
+- Comprehensive testing strategy with shapeshifter perspective observation
+- Quality validation and defect detection with incorruptible standards
+- Security testing and vulnerability assessment with investigative precision
+- Cross-system compatibility testing with outsider's objective insight
 
-### 📊 **Data Analyst** (`data_analyst_agent.md`)
-- Analytics implementation and performance monitoring
-- User behavior analysis and A/B testing
-- Business intelligence and reporting dashboards
-- Data quality assurance and insights generation
+### 📊 **Quark** (`data_analyst_agent.md`)
+- Analytics implementation and profit-driven performance monitoring
+- User behavior analysis from the station's information hub perspective  
+- Business intelligence with Rules of Acquisition market insights
+- Data quality assurance and opportunity identification with Ferengi business acumen
 
-### 📚 **Historian-Technical Writer** (`historian_technical_writer.md`)
-- Comprehensive technical documentation and knowledge management
-- Git history analysis and change documentation
-- Multi-audience content creation and maintenance
-- Process documentation and training materials
+### 📚 **Professor Jennifer Sisko** (`historian_technical_writer.md`)
+- Comprehensive technical documentation with academic precision and educational excellence
+- Git history analysis and institutional knowledge preservation for future generations
+- Multi-audience content creation ensuring accessibility and comprehensiveness
+- Process documentation and training materials with professor-level clarity
 
 ## 🎯 How to Use This Template
 
