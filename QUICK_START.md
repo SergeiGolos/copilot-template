@@ -95,15 +95,20 @@ cd your-project-name
 ## 🏷️ Issue Management Tips
 
 ### **Labeling Strategy**
-Use these labels to organize your agentic workflow:
+Use these labels to organize your Enterprise crew workflow:
 - `bootstrap` - Bootstrap agent work (repository customization)
-- `architecture` - Architect-PM work
-- `planning` - Planner agent work
-- `design-spec` - Design Spec Writer work
-- `user-stories` - User Story Writer work
-- `design` - Designer agent work
-- `enhancement` - New features (Developer Feature)
-- `bug` - Bug fixes (Developer Bug Fix)
+- `captain-pike` - Leadership and project management work
+- `number-one` - Systems architecture and operational excellence
+- `spock` - Backend development and logical analysis
+- `spock-debug` - Bug investigation and systematic resolution
+- `uhura` - UI/UX design and user experience
+- `chapel` - DevOps innovation and infrastructure
+- `laan-security` - Security analysis and threat modeling
+- `laan-qa` - Quality assurance and testing
+- `ortegas` - Frontend development and execution
+- `mbenga` - User advocacy and requirements
+- `enhancement` - New feature development
+- `bug` - Bug fixes and system healing
 - `refactoring` - Code quality improvements
 - `security` - Security-related work
 - `devops` - Infrastructure and deployment
@@ -113,22 +118,23 @@ Use these labels to organize your agentic workflow:
 
 ### **Project Board Setup**
 Create columns for:
-1. **Backlog** - Planned agent work
-2. **Bootstrap** - Repository customization and agent setup
-3. **Planning** - Strategic and project planning (Architect-PM, Planner)
-4. **Specification** - Design specs and user stories (Design Spec Writer, User Story Writer)
-5. **In Progress** - Active agent work
+1. **Backlog** - Mission planning and crew assignments
+2. **Bootstrap** - Repository customization and crew setup
+3. **Command** - Strategic planning (Captain Pike, Number One)
+4. **Specification** - Technical specs and user stories (Design Spec Writer, Dr. M'Benga)
+5. **In Progress** - Active crew missions
 6. **Review** - Agent deliverables under review
 7. **Done** - Completed agent work
 
 ### **Milestone Planning**
-Organize work into milestones like:
-- **Repository Bootstrap** (Bootstrap Agent setup and customization)
-- **Strategic Planning** (Architect-PM + Planner)
-- **Requirements & Specifications** (Design Spec Writer + User Story Writer)
-- **MVP Planning** (Designer + User Story Writer)
-- **Core Implementation** (Developer + Security + QA)
-- **Production Readiness** (DevOps + Data Analyst + Historian-Writer)
+Organize missions into milestones like:
+- **Enterprise Initialization** (Bootstrap Agent setup and crew customization)
+- **Strategic Command** (Captain Pike + Number One leadership and architecture)
+- **Mission Specifications** (Design Spec Writer + Dr. M'Benga requirements)
+- **User Experience Design** (Uhura communications and interface design)
+- **Core Implementation** (Spock development + La'an security + Chapel DevOps)
+- **System Validation** (La'an QA + Ortegas frontend excellence)
+- **Mission Completion** (Data Analyst metrics + Historian-Writer documentation)
 
 ## 🤖 Working with AI Assistants
 

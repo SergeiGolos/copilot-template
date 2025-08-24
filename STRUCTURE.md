@@ -5,19 +5,19 @@ copilot-template/
 ├── .github/
 │   ├── ISSUE_TEMPLATE/
 │   │   ├── 000_agent.md                          # BOOTSTRAP: Repository initialization & agent customization
-│   │   ├── architect_product_manager.md          # Strategic planning & system architecture
-│   │   ├── planner_agent.md                      # Project coordination & execution planning
-│   │   ├── design_spec_writer_agent.md           # Technical design specifications
-│   │   ├── user_story_writer_agent.md            # User story creation & prioritization
-│   │   ├── data_analyst_agent.md                 # Analytics & performance insights
-│   │   ├── designer_agent.md                     # UI/UX design & user experience
-│   │   ├── developer_bug_fix.md                  # Bug investigation & resolution
-│   │   ├── developer_code_refactoring.md         # Code quality & technical debt
-│   │   ├── developer_feature_implementation.md   # New feature development
-│   │   ├── devops_engineer_agent.md              # Infrastructure & deployment
-│   │   ├── historian_technical_writer.md         # Documentation & knowledge management
-│   │   ├── qa_tester_agent.md                    # Quality assurance & testing
-│   │   └── security_guardian_agent.md            # Security analysis & compliance
+│   │   ├── pike_captain.md                       # Captain Pike: Empathetic leadership & project management
+│   │   ├── una_number_one.md                     # Number One: Systems architecture & operational excellence
+│   │   ├── spock_science_officer.md              # Spock: Backend development & logical analysis
+│   │   ├── spock_logic_debugging.md              # Spock: Systematic bug investigation & resolution
+│   │   ├── uhura_communications.md               # Uhura: UI/UX design & user experience translation
+│   │   ├── chapel_head_nurse.md                  # Chapel: DevOps innovation & creative infrastructure
+│   │   ├── laan_security_chief.md                # La'an: Security analysis & threat modeling
+│   │   ├── laan_quality_assurance.md             # La'an: Comprehensive testing & quality validation
+│   │   ├── ortegas_helm_officer.md               # Ortegas: Frontend development & execution excellence
+│   │   ├── mbenga_chief_medical_officer.md       # M'Benga: User advocacy & requirements gathering
+│   │   ├── data_analyst_agent.md                 # Analytics & performance insights (specialized)
+│   │   ├── design_spec_writer_agent.md           # Technical design specifications (specialized)
+│   │   └── historian_technical_writer.md         # Documentation & knowledge management (specialized)
 │   └── Grounding/                                 # Project-specific context documents
 │       ├── technology.md                         # Technology stack specifications
 │       ├── architecture.md                       # System architecture context
@@ -47,59 +47,62 @@ Each agent template is designed around the principle of **specialized expertise 
 
 ### Template Categories
 
-#### **Bootstrap & Meta Agents**
+#### **Command Structure (Leadership & Strategy)**
 - **Bootstrap Agent (000)**: Repository initialization, agent customization, technology integration
+- **Captain Pike**: Empathetic leadership, project management, crew coordination, and morale
+- **Number One (Una)**: Systems architecture, technical leadership, and operational excellence
 
-#### **Strategic & Planning Agents**
-- **Architect-Product Manager**: Bridge between business needs and technical implementation
-- **Planner**: Project coordination, resource planning, and execution management
-- **Design Spec Writer**: Technical specifications and system documentation
-- **User Story Writer**: Requirements translation and implementation prioritization
+#### **Bridge Officers (Core Development)**
+- **Spock (Science Officer)**: Backend development, logical analysis, and complex problem-solving  
+- **Spock (Debug Specialist)**: Systematic bug investigation and logical resolution
+- **Uhura (Communications)**: UI/UX design, user experience translation, and interface communication
+- **Chapel (Head Nurse)**: DevOps innovation, creative infrastructure solutions, and system healing
+- **Ortegas (Helm Officer)**: Frontend development, execution excellence, and interface mastery
 
-#### **Implementation Agents**
-- **Developer (3 specializations)**: Feature development, bug fixing, code refactoring
-- **Designer**: User experience and interface design
-- **DevOps Engineer**: Infrastructure and deployment automation
+#### **Security & Quality Division**
+- **La'an (Security Chief)**: Security analysis, threat modeling, and vulnerability assessment
+- **La'an (QA Specialist)**: Comprehensive testing, quality validation, and systematic verification
 
-#### **Quality & Security Agents**
-- **QA Tester**: Comprehensive testing and quality assurance
-- **Security Guardian**: Security analysis and threat mitigation
+#### **Medical & User Advocacy**
+- **Dr. M'Benga (CMO)**: User story creation, requirements advocacy, and patient-centered design
 
-#### **Analysis & Documentation Agents**
+#### **Specialized Support Roles**
 - **Data Analyst**: Performance monitoring and user behavior analysis
+- **Design Spec Writer**: Technical specifications and system documentation  
 - **Historian-Technical Writer**: Documentation and knowledge management
+
+---
 
 ## Usage Patterns
 
-### **Repository Initialization Pattern**
+### **Mission Initialization Pattern** 🚀
 0. Add project-specific documents to `.github/Grounding/` directory
-1. Create Bootstrap Agent issue to customize all agents for project technology
-2. Start with Architect-PM agent for strategic planning
-3. Use Planner agent for project coordination and resource planning
-4. Apply Design Spec Writer for technical specifications
-5. Engage User Story Writer for implementation backlog
-6. Move to Designer agent for UX/UI requirements
-7. Proceed to Developer agents for implementation
-8. Engage Security Guardian for security validation
-9. Use DevOps for deployment and infrastructure
-10. Apply QA Tester for comprehensive testing
-11. Implement Data Analyst for metrics and monitoring
-12. Conclude with Historian-Writer for documentation
+1. Create Bootstrap Agent issue to customize all Enterprise crew for your technology
+2. Start with **Number One** for strategic systems architecture
+3. Engage **Captain Pike** for project coordination and crew leadership
+4. Use **Design Spec Writer** for detailed technical specifications (if complex)
+5. Apply **Dr. M'Benga** for user-centered requirements and story creation
+6. Proceed with **Uhura** for UI/UX design and user experience
+7. Deploy specialized **Spock** templates for development work
+8. Engage **Ortegas** for front-end execution and interface optimization
+9. Request **La'an** for security analysis and quality assurance
+10. Use **Chapel** for DevOps innovation and infrastructure
+11. Apply **Data Analyst** for metrics and performance monitoring
+12. Document the mission via **Historian-Writer**
 
-### **Maintenance Pattern**
-1. Use Data Analyst to identify issues or opportunities
-2. Apply appropriate Developer agent for implementation
-3. Engage Security Guardian for security impact assessment
-4. Use QA Tester for validation
-5. Apply DevOps for deployment
-6. Update documentation via Historian-Writer
+### **System Maintenance Pattern** 🔧
+1. Use **Data Analyst** to identify issues or optimization opportunities
+2. Apply appropriate **Spock** specialization for implementation
+3. Engage **La'an** for security impact and quality assessment
+4. Use **Chapel** for deployment and infrastructure updates
+5. Update mission logs via **Historian-Writer**
 
-### **Bug Resolution Pattern**
-1. Start with Developer Bug Fix template for systematic investigation
-2. Coordinate with QA Tester for comprehensive testing
-3. Engage Security Guardian if security implications exist
-4. Use DevOps for deployment and monitoring
-5. Document resolution via Historian-Writer
+### **Bug Resolution Pattern** 🐛
+1. Start with **Spock Logic Debugging** for systematic investigation
+2. Coordinate with **La'an QA** for comprehensive testing
+3. Engage **La'an Security** if security implications exist
+4. Use **Chapel** for deployment and system healing
+5. Document resolution via **Historian-Writer**
 
 ## Customization Guidelines
 
