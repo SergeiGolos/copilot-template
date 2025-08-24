@@ -1,6 +1,8 @@
-# Quick Start Guide - Agentic Development Template
+# Quick Start Guide - Friends-Themed Agentic Development 🍃
 
-## 🚀 5-Minute Setup
+*"So no one told you dev was gonna be this way... 👏👏👏👏"*
+
+## 🚀 5-Minute Setup (Getting Your Friends Together)
 
 ### Step 1: Create Your Repository
 ```bash
@@ -18,59 +20,66 @@ git clone https://github.com/yourusername/your-project-name
 cd your-project-name
 ```
 
-### Step 3: Bootstrap Your Repository
+### Step 3: Bootstrap Your Repository (Setting Up the Apartment)
 1. Create technology context files in `.github/Grounding/` directory
 2. Go to your repository's Issues tab
 3. Click "New Issue"
-4. Select "Bootstrap Agent - Repository Initialization" template
+4. Select "Bootstrap Agent - Repository Initialization" template *(This stays unchanged!)*
 5. Fill out your project's technology stack and context
-6. Wait for the Bootstrap Agent to customize all other agents
+6. Wait for the Bootstrap Agent to customize all other agents with your project's Friends
 
-### Step 4: First Issue - Project Planning
+### Step 4: First Issue - Strategic Planning with Ross
 1. Go to your repository's Issues tab
 2. Click "New Issue"
-3. Select "Architect Product Manager" template
-4. Fill out the strategic planning template to define your project
+3. Select "**Ross Geller - The Paleontology Expert (Architect Product Manager)**" template
+4. Fill out Ross's strategic planning template (with paleontological precision!)
 
-## 📋 Your First Week Workflow
+## 📋 Your First Week with the Friends (Development Workflow)
 
-### Day 1: Repository Bootstrap
+### Day 1: Getting Everyone Together (Bootstrap)
 - [ ] **Create Grounding Documents**: Add technology stack and context files to `.github/Grounding/`
-- [ ] **Run Bootstrap Agent**: Create Bootstrap Agent issue to customize all agents for your project
-- [ ] **Validate Customizations**: Review that all agents now contain your project-specific context
+- [ ] **Run Bootstrap Agent**: Create Bootstrap Agent issue to customize all Friends for your project
+- [ ] **Validate Customizations**: Review that all Friends now understand your project context
 
-### Day 2-3: Strategic Planning
-- [ ] **Create Architect-PM Issue**: Define project scope, requirements, and technical architecture
-- [ ] **Create Planner Issue**: Establish project coordination and resource planning
-- [ ] **Review deliverables**: System design, risk assessment, project roadmap, and resource allocation
+### Day 2-3: Strategic Planning with Ross & Monica
+- [ ] **Ask Ross (Architect-PM)**: Define project scope with PhD-level expertise and technical architecture
+- [ ] **Get Monica (Planner) Organized**: Establish meticulous project coordination and resource planning
+- [ ] **Review deliverables**: System design, risk assessment, perfectly organized roadmap, and resource allocation
 
-### Day 4-5: Specification Development
-- [ ] **Create Design Spec Writer Issue**: Develop detailed technical specifications
-- [ ] **Create User Story Writer Issue**: Convert specs into prioritized user stories
-- [ ] **Create Security Guardian Issue**: Establish security requirements and threat model
-- [ ] **Review deliverables**: Technical specifications, user story backlog, and security framework
+### Day 4-5: Specification Development (The Academic & The Empath)
+- [ ] **Ross (Design Spec Writer)**: Develop detailed technical specifications with academic precision
+- [ ] **Rachel (User Story Writer)**: Convert specs into user-focused, prioritized stories with social intelligence
+- [ ] **Phoebe (Security Guardian)**: Establish unconventional security insights and threat awareness
+- [ ] **Review deliverables**: Technical specifications, empathetic user story backlog, and intuitive security framework
 
-### Day 6-7: Implementation Planning
-- [ ] **Create Designer Issue**: Define UI/UX requirements and user experience goals
-- [ ] **Create Developer Feature Issue**: Plan your first feature implementation
-- [ ] **Create QA Tester Issue**: Establish testing strategy and quality gates
-- [ ] **Create DevOps Issue**: Plan infrastructure and deployment strategy
-- [ ] **Create Data Analyst Issue**: Set up metrics and monitoring framework
+### Day 6-7: Implementation Planning (The Creative Team)
+- [ ] **Rachel (Designer)**: Define stylish UI/UX requirements and user experience goals
+- [ ] **Joey (Feature Developer)**: Plan collaborative first feature implementation with team-first approach
+- [ ] **Joey (QA Tester)**: Establish user-empathy focused testing strategy and quality gates
+- [ ] **Mike (DevOps)**: Plan seamless infrastructure integration and deployment strategy
+- [ ] **Chandler (Data Analyst)**: Set up witty metrics and statistical analysis framework
 
-## 🎯 Common Use Cases
+## 🎯 Common Use Cases (Friends Style)
 
-### **Building a New Feature**
-1. **Architect-PM**: Strategic requirements and technical design
-2. **Planner**: Project timeline and resource coordination
-3. **Design Spec Writer**: Technical specifications and API design
-4. **User Story Writer**: Prioritized user stories and acceptance criteria
-5. **Designer**: UI/UX specifications and user interactions
-6. **Developer Feature**: Implementation with comprehensive testing
-7. **Security Guardian**: Security analysis and validation
-8. **QA Tester**: Testing strategy and quality validation
-9. **DevOps**: Deployment and infrastructure setup
-10. **Data Analyst**: Success metrics and monitoring
-11. **Historian-Writer**: Documentation and knowledge capture
+### **Building a New Feature (The Whole Gang)**
+1. **Ross (Architect-PM)**: Strategic requirements with deep technical expertise
+2. **Monica (Planner)**: Obsessively organized project timeline and coordination
+3. **Ross (Design Spec Writer)**: Academic precision in technical specifications and API design  
+4. **Rachel (User Story Writer)**: Empathetic user stories and acceptance criteria
+5. **Rachel (Designer)**: Fashion-forward UI/UX specifications and user interactions
+6. **Joey (Feature Developer)**: Collaborative implementation with comprehensive testing
+7. **Phoebe (Security Guardian)**: Unconventional security analysis and validation
+8. **Joey (QA Tester)**: User-empathy focused testing strategy and quality validation
+9. **Mike (DevOps)**: Seamless deployment and infrastructure integration
+10. **Chandler (Data Analyst)**: Witty success metrics and monitoring
+11. **Phoebe (Technical Writer)**: Authentic documentation and knowledge capture
+
+### **Fixing a Critical Bug (Emergency Friends Response)**
+1. **Chandler (Bug Fix)**: Sarcastic but systematic debugging and resolution
+2. **Joey (QA Tester)**: User-focused comprehensive testing and regression validation
+3. **Phoebe (Security Guardian)**: Intuitive security impact assessment (if applicable)
+4. **Mike (DevOps)**: Adaptive emergency deployment and monitoring
+5. **Phoebe (Technical Writer)**: Authentic post-mortem and lesson documentation
 
 ### **Fixing a Critical Bug**
 1. **Developer Bug Fix**: Systematic investigation and resolution
